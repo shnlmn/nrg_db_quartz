@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: shnlmn.github.io/nrg_db
+  baseUrl: shnlmn.github.io/nrg_db_quartz
   ignorePatterns:
     - private
     - templates
