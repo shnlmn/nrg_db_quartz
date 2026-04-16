@@ -1,3 +1,12 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Explorer sidebar list item padding and font weight
+.folder-container > div > a,
+.folder-container > div > button > span {
+  line-height: 2rem;
+  font-weight: 500;
+}
+
+.explorer-content li > a {
+  line-height: 2rem;
+}
