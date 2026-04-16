@@ -38,7 +38,10 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      rootPath: "neurodivergent-research-group/wiki",
+      filterFn: (node) => !node.slugSegment.startsWith("_") && node.slugSegment !== "tags",
+    }),
   ],
   right: [
     Component.Graph(),
@@ -62,7 +65,10 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      rootPath: "neurodivergent-research-group/wiki",
+      filterFn: (node) => !node.slugSegment.startsWith("_") && node.slugSegment !== "tags",
+    }),
   ],
   right: [],
 }

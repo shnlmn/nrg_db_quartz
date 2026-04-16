@@ -195,8 +195,13 @@ async function setupExplorer(currentSlug: FullSlug) {
       }
     }
 
+    // Navigate to rootPath subtree if specified
+    const rootPath = explorer.dataset.rootPath
+    const renderRoot =
+      rootPath ? (trie.findNode(rootPath.split("/")) ?? trie) : trie
+
     // Get folder paths for state management
-    const folderPaths = trie.getFolderPaths()
+    const folderPaths = renderRoot.getFolderPaths()
     currentExplorerState = folderPaths.map((path) => {
       const previousState = oldIndex.get(path)
       return {
@@ -211,7 +216,7 @@ async function setupExplorer(currentSlug: FullSlug) {
 
     // Create and insert new content
     const fragment = document.createDocumentFragment()
-    for (const child of trie.children) {
+    for (const child of renderRoot.children) {
       const node = child.isFolder
         ? createFolderNode(currentSlug, child, opts)
         : createFileNode(currentSlug, child)
