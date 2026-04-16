@@ -1,0 +1,149 @@
+# Wiki Index
+
+Catalog of all wiki pages. Maintained by the LLM. Do not hand-edit.
+
+## Pages
+
+- [[adult-adolescent-sensory-profile]] — Standardized formal assessment tool (AASP) for measuring sensory processing patterns in adolescents and adults
+- [[adult-sensory-history]] — Standardized formal assessment tool (ASH) documenting sensory preferences and processing through structured interview
+- [[affordances]] — Ecological concept describing possibilities for action that an environment offers to an individual, perceived differently based on abilities, needs, and neurotype
+- [[neurodiversity-paradigm]] — The political/philosophical position that neurological diversity should be accepted and celebrated
+- [[medical-model-of-disability]] — Framework viewing brain differences as abnormalities to be fixed or cured
+- [[social-model-of-disability]] — Framework viewing disability as caused by environmental barriers, not individual impairment
+- [[neurodiversity-attitudes-questionnaire]] — First validated instrument (NDAQ) measuring attitudes toward neurodiversity broadly
+- [[inclusive-research-methods]] — Approaches to design research and user testing that account for neurodivergent participants' needs
+- [[inclusive-playground-design]] — Approach to playground design deliberately accommodating diverse sensory, cognitive, social, and physical needs of neurodivergent and all children
+- [[kelly-et-al-2025-inclusive-playgrounds]] — Co-design study with neurodivergent children identifying four design principles (sensory, challenging, social, natural) for inclusive school playgrounds
+- [[double-empathy-problem]] — Bidirectional miscommunication between neurodivergent and neurotypical individuals
+- [[alexithymia]] — Difficulty identifying and articulating emotions, prevalent among neurodivergent people
+- [[recall-bias]] — Research validity threat from retrospective recall, especially relevant to ADHD
+- [[participatory-research]] — Including neurodivergent people as co-researchers, not merely subjects
+- [[community-advisory-board]] — Group of neurodivergent community members providing feedback and guidance throughout research
+- [[co-design-in-research]] — Participatory method where neurodivergent people shape research design through iterative feedback
+- [[focus-groups]] — Qualitative method using group discussion; requires [[reasonable-adjustments]] for neurodivergent participants
+- [[reasonable-adjustments]] — Practical accommodations to ensure equitable participation of neurodivergent research participants
+- [[promoted/q-formatting-building-experience-questions]] — Principles, tools, and frameworks for formatting research questions about building experience for neurodivergent participants (promoted)
+- [[sensory-walk-questionnaire]] — Quantitative multi-sensory tool (CATA lexicon + hedonic/intensity/appropriateness ratings) for characterising the sensory experience of a place
+- [[multi-sensory-environment-evaluation]] — The practice of assessing environments through multiple sensory channels rather than a single modality
+- [[soundwalk]] — Qualitative research method for profiling acoustic environments, using in-situ guided observation of sounds and soundscapes
+- [[smellwalk]] — Qualitative research method for measuring environmental odours and olfactory experiences through in-situ guided observation
+- [[check-all-that-apply]] — Questionnaire method (CATA) for structured, quantitative characterization of multi-dimensional experiences through descriptor selection
+- [[sensory-profile-2]] — Standardized occupational therapy assessment (SP-2) for measuring sensory processing dysfunction across the lifespan
+- [[sensory-processing-dysfunction]] — Atypical patterns in how the nervous system receives, filters, and responds to sensory input
+- [[sensory-quadrants]] — Framework organizing sensory processing patterns by neurological threshold and behavioral response (seeking/sensitivity/registration/avoiding)
+- [[sensory-processing-autism]] — Evidence for high prevalence (95%) of sensory processing dysfunction in ASD and formal inclusion in DSM-5 diagnostic criteria
+- [[sensory-processing-adhd]] — Sensory under-responsivity (Registration quadrant) as differential diagnosis marker in attention evaluations
+- [[sensory-processing-anxiety]] — Sensory over-responsivity (Sensitivity/Avoiding quadrants) co-occurring with anxiety disorders and supporting OT intervention
+- [[subjective-sensory-sensitivities]] — Individual experiences of heightened discomfort or aversion to sensory stimuli; lived experience of sensory challenges
+- [[sensory-sensitivity-exacerbating-factors]] — Situational and internal conditions that amplify sensory sensitivity intensity (emotional state, fatigue, unpredictability, cumulative load)
+- [[sensory-sensitivity-coping-strategies]] — Methods individuals use to manage sensory sensitivities (limiting input, compensatory stimulation, self-regulation, social support, control/predictability)
+- [[social-impact-sensory-sensitivity]] — Functional limitations and relational strain resulting from sensory sensitivities; emotional dysregulation and social masking
+- [[psychological-safety-in-research]] — Shared belief in participatory research that members can take interpersonal risks without fear of negative consequences; essential for CABs
+- [[salutogenic-design]] — Design approach emphasizing health-promoting features and resources that support positive wellbeing and self-regulation, rather than deficit-focused risk elimination
+- [[transparency-in-participatory-research]] — Practice of documenting and explaining decisions made in response to Community Advisory Board feedback
+- [[cognitive-load]] — Amount of mental effort and working memory capacity required to process information; particularly relevant to neurodivergent experiences in online education
+- [[cooperative-inquiry]] — Flexible, child-led participatory design methodology adapting to neurodivergent participants' individual needs, behaviors, and communication styles
+- [[sensory-responsive-environments-framework]] — Theoretical and design framework (SREF™) for supporting neurodivergent sensory needs in outdoor built environments through DFSM, sensory zoning, nature-based approaches, and co-design
+- [[sensory-assessment-neurodevelopmental]] — Systematic evaluation of sensory preferences and processing as core component of adult neurodevelopmental assessment for diagnosis and intervention planning
+- [[hypersensitivity]] — Heightened or excessive responsiveness to sensory stimuli; over-responsiveness manifesting as sensory-avoidant behaviors
+- [[hyposensitivity]] — Reduced or diminished responsiveness to sensory stimuli; under-responsiveness manifesting as sensory-seeking behaviors
+- [[teacch]] — Treatment and Education of Autistic and Related Communication-Handicapped Children; structured teaching approach using visual cues, predictable schedules, and routines supporting clarity and autonomy
+- [[the-sensorial-prism]] — Visualization framework showing non-dichotomous spectrum of hypo- and hyper-sensitivities across all eight sensory systems
+- [[design-from-sensorial-margins]] — Design principle of centering users at sensory extremes (hyper- and hypo-sensitive) to create inclusive spaces benefiting the entire spectrum
+- [[promoted/q-designing-spaces-for-neurodivergent-people]] — Synthesis of neuro-inclusive design principles for architectural practice: sensory zoning, biophilic integration, wayfinding, and the SREF framework (promoted)
+- [[sensory-zoning]] — Spatial design strategy creating diversified landscape areas with varied sensory affordances, supporting both sensory-seeking and sensory-avoiding users
+- [[sensory-refuge]] — Calm, quiet spaces within overstimulating environments designed for self-regulation and recovery from sensory overload
+- [[self-regulation-in-play]] — Capacity to manage emotional and physiological responses through play engagement; supported by vestibular and proprioceptive sensory affordances
+- [[sensory-affordances]] — Design elements and features providing opportunities for specific sensory experiences and engagement in built environments
+- [[sensorimotor-movement]] — Integration of sensory input with motor output, particularly vestibular and proprioceptive engagement in outdoor environments
+- [[biophilic-design]] — Approach incorporating nature-based elements, natural materials, and living systems to support health, well-being, and sensory engagement
+- [[calming-and-alerting-strategies]] — Self-regulation techniques targeting sensory preferences to modulate arousal (reducing overstimulation or increasing engagement)
+- [[sensory-responsive-design]] — Design methodology deliberately accommodating diverse sensory processing styles, particularly neurodivergent hypersensitivities and hyposensitivities
+- [[neuro-inclusive-design]] — Approach to architecture and landscape design intentionally accommodating diverse neurological profiles beyond ADA compliance
+- [[landscape-architecture-neurodiversity]] — Field practice of designing outdoor built environments supporting sensory, cognitive, and social needs of neurodivergent individuals
+- [[nait-sensory-checklist]] — Informal assessment tool for evaluating sensory preferences in adults undergoing neurodevelopmental assessment across six sensory domains
+- [[autism-friendly-design]] — Specialized design approach (e.g., Mostafa's ASPECTSS™ framework) for creating autistic-inclusive built environments, primarily indoor
+- [[kathryn-finnigan]] — Researcher and landscape architect (University of Colorado) who developed the Sensory Responsive Environments Framework through qualitative study of neurodivergent experiences
+- [[rades]] — Survey method using 120 evocative images to elicit first-person descriptions of emotional, sensory, bodily, and interactive experiences in a place
+- [[environmental-experience]] — Subjective psychological states during human-environment encounter encompassing emotional, sensory, bodily, interactive, and cognitive dimensions
+- [[emotional-experience-in-architecture]] — Affective responses to built environments characterized by pleasure-displeasure, arousal, and dominance dimensions; manifest through feelings, appraisals, behavior
+- [[sensory-experience-in-architecture]] — Felt, embodied encounter with environmental stimuli; requires active attention to how sensory input is experienced through body and senses
+- [[place-preference]] — Overall positive or negative evaluation of a place influenced by physical qualities, sensory experiences, emotional responses, and affordances for activity
+- [[envides]] — Survey method using sentence stems to help participants describe environmental qualities, settings, and meanings with quantified experience ratings
+- [[jenkins-et-al-2015-multisensory-visual-impairment]] — Jenkins et al. 2015 paper exploring sensory characteristics of public spaces for people with visual impairment
+- [[visual-impairment-public-space-access]] — Challenges and strategies for people with visual impairment accessing and participating in public spaces
+- [[sensory-barriers-navigation]] — Environmental characteristics hindering navigation for people with visual impairment (population-specific design, extreme sensory backgrounds, uneven surfaces, inconsistent lighting)
+- [[auditory-navigation-cues]] — Sound cues (pedestrian signals, echoes, landmark sounds) supporting wayfinding for people with visual impairment
+- [[olfactory-navigation-cues]] — Smell landmarks helping people with visual impairment confirm location and validate travel paths
+- [[tactile-navigation-cues]] — Haptic sensations from ground texture and tactile indicators guiding navigation for people with visual impairment
+- [[thermal-navigation-cues]] — Temperature, airflow, and sun placement providing orientation cues for people with visual impairment
+- [[context-dependent-sensory-effectiveness]] — How sensory cue effectiveness varies based on proximity, intensity, activity type, and individual factors
+- [[occupational-therapy-visual-impairment]] — OT's role in understanding sensory-environment-occupation relationships and supporting participation for people with visual impairment
+- [[universal-design-public-space]] — Design principles ensuring accessibility for all users including those with visual impairment without visible stigmatization
+- [[parker-et-al-2024-sensory-methodology]] — Comprehensive methodological protocol for identifying and documenting on-site sensory and multisensory experiences across five sensory modalities
+- [[sensory-transect]] — Walking methodology capturing spatial transformation of sensory perception through predetermined or emerging routes
+- [[sensory-survey-design]] — Systematic approach to planning comprehensive documentation of sensory experiences combining point measurements and transect surveys
+- [[taste-documentation-methods]] — Methodologies for recording in-situ gustatory experiences and multisensory flavor perception; addresses understudied gustatory domain
+- [[smell-habituation]] — Physiological phenomenon where continuous odor exposure reduces olfactory perception; key limitation in olfactory research requiring dual-researcher mitigation strategies
+- [[epistemic-justice]] — Principle that all people deserve recognition as credible sources of knowledge about themselves; ethical foundation for inclusive research
+- [[epistemic-enablement]] — Conditions and environments that actively support people in meaningfully contributing their knowledge and perspectives; relational concept
+- [[autism-embodiment]] — Concept that autism is fundamentally an embodied, inseparable part of autistic people's lived experience
+- [[relational-inclusion]] — Principle that inclusion is enacted through relationships and trust, not merely through policies or checklists
+- [[risky-play]] — Play involving an element of risk or challenge; developmentally essential yet often eliminated from school playgrounds due to safety-averse institutional policies
+- [[monotropic-attention]] — Pattern of attentional focus concentrating intensely on one or few interconnected interests; neurocognitive trait in autistic people
+- [[executive-functioning]] — Cognitive processes involved in planning, organizing, initiating tasks, managing time; neuro-cognitive trait shaping research participation
+- [[communication-preferences]] — Diverse ways neurodivergent people prefer to express themselves and engage in dialogue; shaped by neurological differences
+- [[neuro-cognitive-trait-interaction-model]] — Structured framework (NCTIM) by Jessica Dark for inclusive research design through three stages: mapping demands, identifying trait interactions, embedding responsive features
+- [[jessica-dark]] — Neurodivergent scholar and doctoral researcher at Birkbeck, University of London; developer of NCTIM and Eight Principles of Neuro-Inclusion
+- [[eight-principles-of-neuro-inclusion]] — Complementary framework by Jessica Dark emphasizing autonomy, trust, and epistemic respect in inclusive research
+- [[zones-of-regulation]] — CBT-based self-regulation framework using color-coded zones (blue, green, yellow, red) helping children identify emotional states and develop regulation strategies
+- [[ideas]] — Interface Design Experience for the Autistic Spectrum; co-design methodology using visual supports and templates enabling equitable participation of neurodivergent children in design
+- [[participatory-action-research]] — Research methodology where researchers and participants undertake collective self-reflective inquiry linked to action for change; foundational to participatory and co-design approaches
+- [[paulo-freire]] — Brazilian educator and philosopher (1921–1997) whose concept of praxis (unity of reflection and action) is foundational to participatory action research
+- [[lived-experience]] — Firsthand subjective knowledge from directly experiencing a phenomenon; treated as legitimate epistemology in PAR and participatory research
+- [[empowerment-in-research]] — Dynamic quality of power relations tending towards equity; central aim of PAR through challenging surveillance and knowledge control systems
+- [[critical-reflection]] — Freirean praxis concept holding that action and reflection are indissolubly united; central mechanism of participatory action research cycles
+- [[vargas-et-al-2025-co-design-systematic-review]] — Systematic review of 55 public health co-design studies (2016–2024) synthesizing definitions, processes, frameworks, and participant engagement via MATE taxonomy
+- [[mate-taxonomy]] — Methodology, Agent of change, Training, and Engagement taxonomy for classifying participatory design engagement levels (low/medium/high)
+- [[cornish-et-al-2023-par-primer]] — Nature Reviews Methods Primers article (Cornish et al. 2023) defining six PAR building blocks, challenges, counter-strategies, and comprehensive glossary
+- [[extractive-research]] — Research that extracts information and exploits relationships, producing benefit for scholars elsewhere while depleting resources at research sites
+- [[reflexivity]] — Methodological practice of critically reflecting on positionality and its impact on research process, participants, and knowledge produced
+- [[relational-ethics]] — Ethical approach situating ethics as ongoingly negotiated within respectful relationships, beyond procedural rules
+- [[co-option-in-research]] — Process through which participatory activities are altered or appropriated to serve another group's interests; key PAR challenge
+- [[photovoice]] — PAR method using participant photography to document experiences, promote critical dialogue, and reach policymakers (Wang & Burris 1997)
+- [[decolonization-in-research]] — Call to recognize and dismantle colonial legacies in research institutions and construct alternative knowledge relationships
+- [[vaughn-jacquez-2020-choice-points]] — Vaughn & Jacquez (2020) paper introducing the choice points model for selecting participatory research methods at each stage of the research cycle
+- [[participation-continuum]] — Spectrum of stakeholder engagement from inform through consult, involve, collaborate, to empower; drawn from IAP2 and adapted for research contexts
+- [[community-based-participatory-research]] — Health-focused research orientation equitably involving all partners in all phases from study design to dissemination
+- [[peters-et-al-2024-co-design-evaluation]] — Systematic overview of 51 reviews developing a Co-Design Evaluation Framework (tree metaphor) for health research co-design
+- [[co-design-evaluation-framework]] — Tree-metaphor framework with 15 evaluation themes in 7 clusters for prospective, concurrent, and retrospective evaluation of research co-design
+- [[gripp2]] — Guidance for Reporting Involvement of Patients and the Public, version 2; Equator Network reporting checklist for patient/public involvement in research
+- [[kilfoy-et-al-2024-digital-codesign-umbrella-review]] — Umbrella review of 21 reviews (2015–2023) finding pervasive inconsistency in digital health co-design reporting, terminology, and evaluation; all reviews critically low quality on AMSTAR-2
+- [[digital-health-interventions]] — Health interventions delivered through digital tools (apps, wearables, telehealth, etc.) for managing illness or promoting wellness
+- [[amstar-2]] — A Measurement Tool to Assess Systematic Reviews, version 2; critical appraisal instrument for evaluating methodological quality of systematic reviews
+- [[collins-et-al-2018-cbpr-psychology]] — Collins et al. (2018) paper introducing CBPR to psychology with seven principles, implementation steps, and Housing First LEAP case study
+- [[cultural-humility]] — Orientation involving accurate self-view, non-superiority, and openness to others' identities; core CBPR principle
+- [[action-research]] — Research approach coined by Kurt Lewin (1940s) solving problems through community effort; northern-tradition origin of CBPR and PAR
+- [[health-disparities]] — Inequities in health outcomes across populations driving CBPR adoption; addressed through community-engaged research
+- [[capacity-building]] — Assessment and development of community skills, resources, and competencies for sustainable research partnerships
+- [[slattery-et-al-2020-codesign-overview]] — Rapid overview of 23 reviews of health research co-design examining approaches, activities, effectiveness, and the INVVOLVE recommendations (Slattery, Saeri & Bragge 2020)
+- [[research-waste]] — Avoidable loss of health research investment (~85%, $170B annually) through poor design, non-publication, and misalignment with end-user needs
+- [[patient-and-public-involvement]] — UK-centric research co-design approach (PPI) doing research "with" or "by" the public; three levels from consultation to publicly-led
+- [[gregory-2003-scandinavian-pd]] — Gregory (2003) review of Scandinavian participatory design's three distinguishing principles: democracy, values in design, and conflict as resource
+- [[scandinavian-participatory-design]] — Design tradition originating in 1970s Scandinavia, distinguished by democratic commitments, explicit values, and treating conflict as a resource
+- [[mutual-learning]] — Core participatory design principle where designers/researchers and users/participants learn from each other through collaborative engagement
+- [[values-in-design]] — Scandinavian PD principle that design is inherently value-laden and values should be made explicit and discussed collaboratively
+- [[conflict-as-resource-in-design]] — Scandinavian PD principle that conflicts, contradictions, and heterogeneity are generative resources in design rather than problems to eliminate
+- [[chinn-balota-2024-photovoice-intellectual-disabilities]] — Systematic review of 31 photovoice studies (2003–2022) with people with intellectual disabilities examining adaptations, participation, power, and outcomes
+- [[intellectual-disability]] — Significant limitations in intellectual functioning and adaptive behaviour manifesting before age 18; implications for inclusive research participation
+- [[showed-method]] — Structured five-question discussion technique (See, Happening, Our lives, Why, Do) used in photovoice to connect photographs to structural inequalities
+- [[van-der-velden-mortberg-pd-values]] — Book chapter on Participatory Design as value-centred design approach: six guiding principles, emergent values, VSD contrast, four PD methods
+- [[value-sensitive-design]] — Design approach (VSD) advancing predetermined moral values (privacy, autonomy, trust, etc.); contrasted with PD's emergent value approach
+- [[use-before-use]] — Core PD concept (Ehn 2008): designing for anticipated use of artefacts that do not yet exist through telling, making, and enacting
+- [[future-workshop]] — Participatory method (Jungk & Mullert 1981) with five phases (preparation, critique, fantasy, realisation, follow-up) for envisioning change
+- [[participatory-prototyping]] — Core PD method (cooperative/collaborative prototyping) for materialising values in designed objects through iterative co-designer involvement
+- [[price-et-al-2025-sensory-sensitivities]] — Diagnosis-independent qualitative study (n=713) of sensory sensitivity impact, exacerbating factors, coping strategies, and problematic locations (Price, Oates, Sumner & Powell 2025)
+- [[bernard-et-al-2023-inclusion-ethics]] — IOP 2023 commentary arguing for neurodivergent researcher inclusion and participation ethics in neurodiversity scholarship (Bernard, Fox, Kulason et al.)
+- [[canary-code]] — Praslova's six-practice model (participation, outcomes, flexibility, justice, transparency, valid tools) for intersectional inclusion in workplaces and research teams
+- [[ludmila-praslova]] — Autistic I-O psychologist; developer of the Canary Code; co-author of Bernard et al. 2023
+- [[promoted/q-built-environment-questions-autistic-adults]] — In-situ questionnaire for gathering autistic adults' sensory and experiential responses to a built environment, grouped by zone (promoted)
