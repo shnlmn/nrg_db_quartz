@@ -147,3 +147,4 @@ Catalog of all wiki pages. Maintained by the LLM. Do not hand-edit.
 - [[canary-code]] — Praslova's six-practice model (participation, outcomes, flexibility, justice, transparency, valid tools) for intersectional inclusion in workplaces and research teams
 - [[ludmila-praslova]] — Autistic I-O psychologist; developer of the Canary Code; co-author of Bernard et al. 2023
 - [[promoted/q-built-environment-questions-autistic-adults]] — In-situ questionnaire for gathering autistic adults' sensory and experiential responses to a built environment, grouped by zone (promoted)
+- [[promoted/q-cbpr-neurodivergent]] — Comprehensive synthesis of CBPR principles applied to neurodivergent research: epistemic justice, relational inclusion, method accessibility, co-option risks, and the seven CBPR principles mapped to neurodivergent contexts (promoted)

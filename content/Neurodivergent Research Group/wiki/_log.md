@@ -4,6 +4,15 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-04-16 11:17 — Query-promotion: CBPR Applied to Neurodivergent Research
+
+- **Query promoted:** "Write a comprehensive explanation of CBPR in how it applies to working with Neurodivergent people."
+- **Page created:** `pages/promoted/q-cbpr-neurodivergent.md` — synthesis mapping seven CBPR principles to neurodivergent contexts; covers epistemic justice/enablement/relational inclusion triad, practical implementation (CABs, method accessibility, capacity building, reflexivity), and risks (co-option, research waste, validity myths)
+- **`_index.md` updated:** entry added with `(promoted)` tag
+- **Cross-reference added:** `pages/community-based-participatory-research.md` — "Related (neurodivergent-specific)" section linking to promoted page
+
+---
+
 ## 2026-04-15 — Lint: full wiki audit (145 pages, 37 raw files)
 
 - **Findings:** 33 pages with stale wikilinks to moved promoted pages; 9 pages with mismatched source path (curly double-quote vs. single-quote in Bernard et al. filename); 2 orphan pages (Untitled.md empty, Experience of Multisensory Environments... superseded); 1 naming violation (IDEAS.md); 3 invalid log timestamps (hours 32–34); 10 uncited PDF originals (extracted versions cited); 0 contradictions, 0 stale claims, 0 uncited raw .md files

@@ -45,6 +45,10 @@ Community-based participatory research (CBPR) is a collaborative research approa
 - [[reflexivity]] — essential practice for examining researcher positionality in CBPR
 - [[paulo-freire]] — southern-tradition theorist foundational to CBPR
 
+## Related (neurodivergent-specific)
+
+- [[promoted/q-cbpr-neurodivergent]] — synthesis of CBPR applied to neurodivergent communities; maps seven principles to neurodivergent contexts
+
 ## Open questions
 
 > [!todo] verify: How do outcomes differ between CBPR and CAB-only models in neurodiversity research contexts? (See also open question on [[community-advisory-board]])
