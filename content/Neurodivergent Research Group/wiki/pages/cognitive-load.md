@@ -20,7 +20,7 @@ Cognitive load refers to the amount of mental effort and working memory capacity
 
 - [[sensory-processing-dysfunction]]
 - [[inclusive-research-methods]]
-- [[formatting-building-experience-questions]]
+- [[promoted/q-formatting-building-experience-questions]]
 
 ## Open questions
 

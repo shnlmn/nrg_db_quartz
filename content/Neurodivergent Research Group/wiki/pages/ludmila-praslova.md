@@ -13,10 +13,10 @@ Dr. Ludmila Praslova is an autistic industrial-organizational psychologist and r
 
 ## Key claims
 
-- Autistic researcher focused on diversity and inclusion in organizational psychology [[raw/Not your "typical" research_ Inclusion ethics in neurodiversity scholarship _ Industrial and Organizational Psychology|Bernard et al. 2023]]
-- Developed the [[canary-code]] model for neurodiversity and intersectional inclusion, which focuses on systemically removing barriers faced by marginalized workers [[raw/Not your "typical" research_ Inclusion ethics in neurodiversity scholarship _ Industrial and Organizational Psychology|Bernard et al. 2023]]
-- Writes accessible pieces on neurodiversity and leadership for the *Harvard Business Review* and *Fast Company* [[raw/Not your "typical" research_ Inclusion ethics in neurodiversity scholarship _ Industrial and Organizational Psychology|Bernard et al. 2023]]
-- Co-author of Bernard et al. (2023) "Not your 'typical' research: Inclusion ethics in neurodiversity scholarship," *Industrial and Organizational Psychology*, Vol. 16, Issue 1 [[raw/Not your "typical" research_ Inclusion ethics in neurodiversity scholarship _ Industrial and Organizational Psychology|Bernard et al. 2023]]
+- Autistic researcher focused on diversity and inclusion in organizational psychology [[raw/Not your 'typical' research_ Inclusion ethics in neurodiversity scholarship _ Industrial and Organizational Psychology|Bernard et al. 2023]]
+- Developed the [[canary-code]] model for neurodiversity and intersectional inclusion, which focuses on systemically removing barriers faced by marginalized workers [[raw/Not your 'typical' research_ Inclusion ethics in neurodiversity scholarship _ Industrial and Organizational Psychology|Bernard et al. 2023]]
+- Writes accessible pieces on neurodiversity and leadership for the *Harvard Business Review* and *Fast Company* [[raw/Not your 'typical' research_ Inclusion ethics in neurodiversity scholarship _ Industrial and Organizational Psychology|Bernard et al. 2023]]
+- Co-author of Bernard et al. (2023) "Not your 'typical' research: Inclusion ethics in neurodiversity scholarship," *Industrial and Organizational Psychology*, Vol. 16, Issue 1 [[raw/Not your 'typical' research_ Inclusion ethics in neurodiversity scholarship _ Industrial and Organizational Psychology|Bernard et al. 2023]]
 
 ## Related
 

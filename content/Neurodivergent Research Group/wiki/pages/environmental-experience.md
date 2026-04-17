@@ -47,7 +47,7 @@ First-person reports are the *only* way to study human experiences, since experi
 - [[sensory-experience-in-architecture]] — sensory dimension
 - [[sensory-responsive-design]] — design methodology intentionally shaping environmental experience
 - [[biophilic-design]] — design approach using nature to support positive environmental experience
-- [[formatting-building-experience-questions]] — practical methods for eliciting first-person reports
+- [[promoted/q-formatting-building-experience-questions]] — practical methods for eliciting first-person reports
 
 ## Open questions
 

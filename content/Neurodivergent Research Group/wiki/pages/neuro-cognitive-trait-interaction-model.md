@@ -66,7 +66,7 @@ updated: 2026-04-15
 - [[participatory-research]] — complementary methodological approach
 - [[reasonable-adjustments]] — practical accommodations aligned with NCTIM principles
 - [[community-advisory-board]] — relational structure supporting NCTIM implementation
-- [[formatting-building-experience-questions]] — application of NCTIM to questionnaire design
+- [[promoted/q-formatting-building-experience-questions]] — application of NCTIM to questionnaire design
 
 ## Open questions
 

@@ -31,7 +31,7 @@ RADES differs from simpler sensory assessment techniques by:
 - [[environmental-experience]] — the broader theoretical framework RADES investigates
 - [[multi-sensory-environment-evaluation]] — related practice of assessing environments through multiple modalities
 - [[sensory-walk-questionnaire]] — complementary quantitative method using CATA for sensory characterization
-- [[formatting-building-experience-questions]] — image-based elicitation bypassing language-generation barriers
+- [[promoted/q-formatting-building-experience-questions]] — image-based elicitation bypassing language-generation barriers
 
 ## Open questions
 

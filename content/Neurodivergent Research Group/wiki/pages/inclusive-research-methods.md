@@ -29,7 +29,7 @@ Inclusive research methods are approaches to design research, user testing, and 
 - Likert scales should be labelled with clear descriptors for each number, not just endpoints, and should include an open-box option for further comments [[raw/3 tips for designing user research for neurodivergent testers|AbilityNet]]
 - The [[double-empathy-problem]] highlights miscommunications between neurodivergent and non-neurodivergent individuals; questions must use clear, specific language to avoid ambiguity [[raw/3 tips for designing user research for neurodivergent testers|AbilityNet]]
 - [[alexithymia]], prevalent among neurodivergent individuals, makes it challenging to articulate emotions through language; alternative mediums (art, descriptions of physical sensations) should be offered [[raw/3 tips for designing user research for neurodivergent testers|AbilityNet]]
-- Qualitative methods benefit neurodiversity research by enabling open responses less restricted than pre-generated quantitative scales, which can reflect researchers' preconceived notions [[raw/Not your "typical" research_ Inclusion ethics in neurodiversity scholarship _ Industrial and Organizational Psychology|Bernard et al.]] (cited via [[raw/How to Make Design Research Neurodivergent Friendly|Salesforce]])
+- Qualitative methods benefit neurodiversity research by enabling open responses less restricted than pre-generated quantitative scales, which can reflect researchers' preconceived notions [[raw/Not your 'typical' research_ Inclusion ethics in neurodiversity scholarship _ Industrial and Organizational Psychology|Bernard et al.]] (cited via [[raw/How to Make Design Research Neurodivergent Friendly|Salesforce]])
 - However, qualitative-only approaches (interviews, focus groups, recordings) make cross-site comparison difficult; standardised quantitative multi-sensory tools like the [[sensory-walk-questionnaire]] can complement qualitative methods by enabling structured comparison across environments [[raw/Sensory characteristics of a place_ The development of the sensory walk questionnaire|Pohjanheimo et al.]]
 - Start every research engagement by asking: "How do you prefer to be communicated with?" [[raw/How to Make Design Research Neurodivergent Friendly|Salesforce]]
 - Include neurodivergent researchers in the planning process — "Nothing about us, without us" [[raw/How to Make Design Research Neurodivergent Friendly|Salesforce]]
@@ -52,7 +52,7 @@ Inclusive research methods are approaches to design research, user testing, and 
 - [[participatory-research]]
 - [[neurodiversity-paradigm]]
 - [[neurodiversity-attitudes-questionnaire]]
-- [[formatting-building-experience-questions]]
+- [[promoted/q-formatting-building-experience-questions]]
 - [[sensory-walk-questionnaire]]
 - [[multi-sensory-environment-evaluation]]
 - [[community-advisory-board]]

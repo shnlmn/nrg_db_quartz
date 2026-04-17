@@ -27,4 +27,4 @@ Sensory processing dysfunction refers to atypical patterns in how the nervous sy
 - [[subjective-sensory-sensitivities]] — lived experience dimension of sensory processing differences
 - [[sensory-sensitivity-coping-strategies]] — how individuals adapt to sensory differences
 - [[social-impact-sensory-sensitivity]] — functional and relational consequences of sensory differences
-- [[formatting-building-experience-questions]] — why standard instruments may miss neurodivergent experiences
+- [[promoted/q-formatting-building-experience-questions]] — why standard instruments may miss neurodivergent experiences

@@ -36,4 +36,4 @@ The Sensory Profile 2 framework organizes sensory processing patterns into four 
 - [[sensory-processing-autism]] — patterns of quadrant elevation in ASD populations
 - [[sensory-processing-adhd]] — Registration quadrant in differential diagnosis
 - [[sensory-processing-anxiety]] — Sensitivity/Avoiding quadrants in anxiety
-- [[formatting-building-experience-questions]] — quadrant-informed response format stratification
+- [[promoted/q-formatting-building-experience-questions]] — quadrant-informed response format stratification

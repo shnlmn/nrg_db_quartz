@@ -27,7 +27,7 @@ RADES and ENVIDES are complementary: RADES captures experiential responses (feel
 - [[rades]] — complementary method capturing bodily and emotional experience
 - [[environmental-experience]] — broader framework both methods investigate
 - [[check-all-that-apply]] — related quantitative approach to structured description
-- [[formatting-building-experience-questions]] — sentence-stem format reducing cognitive load
+- [[promoted/q-formatting-building-experience-questions]] — sentence-stem format reducing cognitive load
 
 ## Open questions
 

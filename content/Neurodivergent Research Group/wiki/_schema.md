@@ -83,5 +83,8 @@ When asked to lint:
 - Raw sources not yet incorporated: every file in `raw/` that is not cited
   by any wiki page (via `sources:` frontmatter or wikilinks). These are
   candidates for re-ingestion.
+- **Note on PDF originals:** A PDF file in `raw/` is considered incorporated if its
+  corresponding `.extracted.md` counterpart is cited by at least one wiki page.
+  Do not flag uncited PDFs as lint errors when their extracted versions are cited.
 
 Write findings to a fresh `_lint-report.md` and append a one-line summary to `_log.md`.

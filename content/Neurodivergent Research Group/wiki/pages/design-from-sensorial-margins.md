@@ -34,5 +34,5 @@ DFSM operates hand-in-hand with [[sensory-zoning]] to provide multiple sensory e
 - [[sensory-responsive-design]]
 - [[neuro-inclusive-design]]
 - [[co-design-in-research]]
-- [[formatting-building-experience-questions]] — DFSM applied to question format design
-- [[designing-spaces-for-neurodivergent-people]] — Architectural practice synthesis applying DFSM
+- [[promoted/q-formatting-building-experience-questions]] — DFSM applied to question format design
+- [[promoted/q-designing-spaces-for-neurodivergent-people]] — Architectural practice synthesis applying DFSM

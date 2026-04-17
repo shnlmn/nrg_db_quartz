@@ -19,6 +19,6 @@ Recall bias occurs when research participants' ability to accurately remember pa
 ## Related
 
 - [[inclusive-research-methods]]
-- [[formatting-building-experience-questions]]
+- [[promoted/q-formatting-building-experience-questions]]
 - [[neurodiversity-paradigm]]
 - [[participatory-research]]

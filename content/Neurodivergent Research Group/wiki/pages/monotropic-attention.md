@@ -19,7 +19,7 @@ updated: 2026-04-15
 - [[neuro-cognitive-trait-interaction-model]] — framework recognizing monotropic attention as a key trait to map
 - [[executive-functioning]] — related attentional and cognitive control dimension
 - [[sensory-processing-autism]] — co-occurring neurodivergent trait in autistic people
-- [[formatting-building-experience-questions]] — topic-sequencing considerations for questionnaires
+- [[promoted/q-formatting-building-experience-questions]] — topic-sequencing considerations for questionnaires
 
 ## Open questions
 

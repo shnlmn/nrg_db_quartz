@@ -19,7 +19,7 @@ The double empathy problem describes the bidirectional miscommunication that ari
 
 - [[inclusive-research-methods]] — designing research with bidirectional understanding in mind
 - [[neurodiversity-paradigm]] — framework supporting mutual accommodation rather than one-directional adaptation
-- [[formatting-building-experience-questions]] — applying the double empathy concept to environmental research
+- [[promoted/q-formatting-building-experience-questions]] — applying the double empathy concept to environmental research
 - [[participatory-research]] — including neurodivergent people as co-researchers to bridge understanding gaps
 - [[social-impact-sensory-sensitivity]] — how lack of sensory literacy from others exacerbates social strain and leads to masking
 - [[subjective-sensory-sensitivities]] — sensory communication barriers as an example of bidirectional miscommunication

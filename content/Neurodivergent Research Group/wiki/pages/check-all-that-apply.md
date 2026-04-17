@@ -21,7 +21,7 @@ Check-All-That-Apply (CATA) is a questionnaire method in which respondents selec
 
 - [[sensory-walk-questionnaire]]
 - [[multi-sensory-environment-evaluation]]
-- [[formatting-building-experience-questions]]
+- [[promoted/q-formatting-building-experience-questions]]
 
 ## Open questions
 

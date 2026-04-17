@@ -44,4 +44,4 @@ Current landscape architecture and urban design practices:
 - [[inclusive-research-methods]]
 - [[co-design-in-research]]
 - [[landscape-architecture-neurodiversity]]
-- [[designing-spaces-for-neurodivergent-people]]
+- [[promoted/q-designing-spaces-for-neurodivergent-people]]

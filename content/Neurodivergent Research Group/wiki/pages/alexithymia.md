@@ -19,6 +19,6 @@ Alexithymia is a condition prevalent among neurodivergent individuals that makes
 
 - [[inclusive-research-methods]] — designing research questions that don't rely solely on emotional language
 - [[double-empathy-problem]] — difficulty communicating emotional/sensory experiences contributes to bidirectional miscommunication
-- [[formatting-building-experience-questions]] — alternative response formats for those with difficulty articulating experiences
+- [[promoted/q-formatting-building-experience-questions]] — alternative response formats for those with difficulty articulating experiences
 - [[participatory-research]] — including neurodivergent voices to understand communication needs
 - [[social-impact-sensory-sensitivity]] — difficulty articulating sensory needs creates barriers to social understanding and accommodation

@@ -23,7 +23,7 @@ The Sensory Walk Questionnaire is a quantitative tool for measuring the multi-se
 ## Related
 
 - [[multi-sensory-environment-evaluation]]
-- [[formatting-building-experience-questions]]
+- [[promoted/q-formatting-building-experience-questions]]
 - [[inclusive-research-methods]]
 - [[check-all-that-apply]]
 - [[soundwalk]]

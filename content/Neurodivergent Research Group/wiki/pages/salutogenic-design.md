@@ -57,4 +57,4 @@ Salutogenic design aligns with and reinforces:
 - [[risky-play]]
 - [[sensory-responsive-design]]
 - [[neuro-inclusive-design]]
-- [[designing-spaces-for-neurodivergent-people]]
+- [[promoted/q-designing-spaces-for-neurodivergent-people]]

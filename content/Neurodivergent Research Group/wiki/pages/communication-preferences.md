@@ -22,7 +22,7 @@ updated: 2026-04-15
 - [[double-empathy-problem]] — related concept describing bidirectional miscommunication between neurodivergent and neurotypical individuals
 - [[reasonable-adjustments]] — practical accommodations for communication needs
 - [[inclusive-research-methods]] — application of communication preference accommodation
-- [[formatting-building-experience-questions]] — first step in building-experience research sessions
+- [[promoted/q-formatting-building-experience-questions]] — first step in building-experience research sessions
 
 ## Open questions
 

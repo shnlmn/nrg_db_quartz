@@ -12,14 +12,14 @@ updated: 2026-04-15
 
 ## Summary
 
-A structured in-situ questionnaire for gathering autistic adults' sensory and experiential responses to a built environment (e.g. a library visit). Grounded in principles from [[formatting-building-experience-questions]], [[sensory-walk-questionnaire]], [[alexithymia]], [[monotropic-attention]], and [[cognitive-load]]. Questions are grouped by spatial zone rather than by topic, use fully-labelled scales, and offer CATA and sensation-based response alternatives to emotion-first prompts.
+A structured in-situ questionnaire for gathering autistic adults' sensory and experiential responses to a built environment (e.g. a library visit). Grounded in principles from [[promoted/q-formatting-building-experience-questions]], [[sensory-walk-questionnaire]], [[alexithymia]], [[monotropic-attention]], and [[cognitive-load]]. Questions are grouped by spatial zone rather than by topic, use fully-labelled scales, and offer CATA and sensation-based response alternatives to emotion-first prompts.
 
 ## Design principles
 
-- **Ask in situ, not retrospectively** — [[recall-bias]] is heightened in many neurodivergent people; questions should be posed while participants are physically present in each zone, not after the visit [[formatting-building-experience-questions]]
-- **Group questions by zone, not by sensory modality** — [[monotropic-attention]] means sudden topic switches cause disorientation; complete all questions for one room before moving to the next [[formatting-building-experience-questions]]
-- **Avoid emotion-first prompts** — [[alexithymia]] makes "How did the space make you feel?" unreliable. Offer sensation-based alternatives ("Did your shoulders feel tense?") and [[check-all-that-apply|CATA]] descriptor lists [[formatting-building-experience-questions]]
-- **Label every scale point** — Partially-labelled Likert scales impose interpretive load; label all five points explicitly [[formatting-building-experience-questions]]
+- **Ask in situ, not retrospectively** — [[recall-bias]] is heightened in many neurodivergent people; questions should be posed while participants are physically present in each zone, not after the visit [[promoted/q-formatting-building-experience-questions]]
+- **Group questions by zone, not by sensory modality** — [[monotropic-attention]] means sudden topic switches cause disorientation; complete all questions for one room before moving to the next [[promoted/q-formatting-building-experience-questions]]
+- **Avoid emotion-first prompts** — [[alexithymia]] makes "How did the space make you feel?" unreliable. Offer sensation-based alternatives ("Did your shoulders feel tense?") and [[check-all-that-apply|CATA]] descriptor lists [[promoted/q-formatting-building-experience-questions]]
+- **Label every scale point** — Partially-labelled Likert scales impose interpretive load; label all five points explicitly [[promoted/q-formatting-building-experience-questions]]
 - **Offer response-format choice** — written sheet, verbal dictation, voice note, annotated photo. See [[communication-preferences]] and [[reasonable-adjustments]]
 - **Allow processing time** — do not debrief immediately; allow post-visit processing before any group discussion [[cognitive-load]]
 - **Repeat the zone sheet** — give participants a fresh copy of Section C for each zone rather than asking them to remember across spaces [[monotropic-attention]]
@@ -168,7 +168,7 @@ A structured in-situ questionnaire for gathering autistic adults' sensory and ex
 
 ## Related
 
-- [[formatting-building-experience-questions]]
+- [[promoted/q-formatting-building-experience-questions]]
 - [[sensory-walk-questionnaire]]
 - [[alexithymia]]
 - [[monotropic-attention]]

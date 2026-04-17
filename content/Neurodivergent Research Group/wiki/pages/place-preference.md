@@ -30,7 +30,7 @@ Place preference appears to be an integrative outcome of emotional experience (p
 - [[sensory-experience-in-architecture]] — sensory qualities driving preference
 - [[biophilic-design]] — design approach supporting preference through nature connection
 - [[sensory-responsive-design]] — accommodation of diverse sensory preferences
-- [[formatting-building-experience-questions]] — probing preference as integrative outcome
+- [[promoted/q-formatting-building-experience-questions]] — probing preference as integrative outcome
 
 ## Open questions
 

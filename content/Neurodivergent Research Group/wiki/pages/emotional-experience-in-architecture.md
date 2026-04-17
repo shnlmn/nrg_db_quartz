@@ -28,7 +28,7 @@ Environmental experience studies using the Affect Grid (pleasure-displeasure + a
 - [[sensory-experience-in-architecture]] — sensory-affective integration
 - [[rades]] — measurement technique capturing emotional responses through image-based elicitation
 - [[biophilic-design]] — design approach documented to elicit positive emotional responses
-- [[formatting-building-experience-questions]] — PAD model as structured alternative for alexithymic participants
+- [[promoted/q-formatting-building-experience-questions]] — PAD model as structured alternative for alexithymic participants
 
 ## Open questions
 

@@ -39,4 +39,4 @@ Subjective sensory sensitivities refer to individual experiences of heightened d
 - [[sensory-profile-2]] — clinical assessment of sensory processing patterns
 - [[calming-and-alerting-strategies]] — self-regulation techniques convergent with coping themes
 - [[inclusive-research-methods]] — how to design research that accounts for sensory sensitivities
-- [[formatting-building-experience-questions]] — temporal sensitivity variation in questionnaire administration
+- [[promoted/q-formatting-building-experience-questions]] — temporal sensitivity variation in questionnaire administration

@@ -21,7 +21,7 @@ updated: 2026-04-15
 - [[cognitive-load]] — related concept affecting mental effort and information processing
 - [[sensory-processing-adhd]] — common co-occurring trait affecting executive functioning
 - [[communication-preferences]] — intersecting trait affecting research participation
-- [[formatting-building-experience-questions]] — application to questionnaire design
+- [[promoted/q-formatting-building-experience-questions]] — application to questionnaire design
 
 ## Open questions
 

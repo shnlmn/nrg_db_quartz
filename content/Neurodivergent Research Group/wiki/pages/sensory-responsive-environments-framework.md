@@ -35,8 +35,8 @@ The framework aims to:
 - [[sensory-responsive-design]]
 - [[landscape-architecture-neurodiversity]]
 - [[kathryn-finnigan]]
-- [[formatting-building-experience-questions]] — DFSM principle applied to question design
-- [[designing-spaces-for-neurodivergent-people]] — Architectural practice synthesis drawing on SREF
+- [[promoted/q-formatting-building-experience-questions]] — DFSM principle applied to question design
+- [[promoted/q-designing-spaces-for-neurodivergent-people]] — Architectural practice synthesis drawing on SREF
 
 ## Open Questions
 

@@ -4,6 +4,25 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-04-16 20:41 — Lint-apply: resolve findings from 2026-04-15 full audit
+
+- **§1 Stale wikilinks (33 pages) — FIXED:**
+  - Replaced `[[formatting-building-experience-questions]]` → `[[promoted/q-formatting-building-experience-questions]]` in all 27 affected pages
+  - Replaced `[[designing-spaces-for-neurodivergent-people]]` → `[[promoted/q-designing-spaces-for-neurodivergent-people]]` in all 6 affected pages
+- **§2 Source path mismatch — FIXED:**
+  - Replaced curly double-quote characters (`"typical"`) with curly single-quotes (`'typical'`) in `sources:` frontmatter and body wikilinks across all 9 affected pages: `neurodiversity-paradigm`, `inclusive-research-methods`, `participatory-research`, `lived-experience`, `extractive-research`, `reflexivity`, `bernard-et-al-2023-inclusion-ethics`, `canary-code`, `ludmila-praslova`
+- **§3 Orphan pages — PENDING MANUAL DELETION (no Bash available):**
+  - `pages/Untitled.md` — empty file, no content, not indexed
+  - `pages/Experience of Multisensory Environments in Public Space among People with Visual Impairment.md` — superseded; still present on disk
+- **§4 Naming convention violation — PENDING MANUAL RENAME (no Bash available):**
+  - `pages/IDEAS.md` should be `pages/ideas.md`; `_index.md` already references `[[ideas]]` correctly
+- **§5 Invalid log timestamps — ACKNOWLEDGED:**
+  - Entries at `34:00`, `33:00`, `32:00` on 2026-04-15 used sequential counters rather than wall-clock time; content is accurate; accepted as historical artefact
+- **§7 Uncited PDF originals — DOCUMENTED:**
+  - Added note to `_schema.md` clarifying that PDF originals are considered incorporated when their `.extracted.md` counterparts are cited
+
+---
+
 ## 2026-04-16 11:17 — Query-promotion: CBPR Applied to Neurodivergent Research
 
 - **Query promoted:** "Write a comprehensive explanation of CBPR in how it applies to working with Neurodivergent people."

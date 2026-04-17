@@ -35,7 +35,7 @@ Sensory experience in architectural settings is the felt, embodied encounter wit
 - [[soundwalk]] — method for profiling acoustic sensory experience
 - [[smellwalk]] — method for profiling olfactory sensory experience
 - [[sensory-responsive-design]] — design accommodating diverse sensory processing
-- [[formatting-building-experience-questions]] — stimulus vs. experience distinction in question design
+- [[promoted/q-formatting-building-experience-questions]] — stimulus vs. experience distinction in question design
 
 ## Open questions
 

@@ -39,4 +39,4 @@ Effective sensory zoning involves:
 - [[sensory-refuge]]
 - [[sensory-affordances]]
 - [[sensory-responsive-design]]
-- [[designing-spaces-for-neurodivergent-people]]
+- [[promoted/q-designing-spaces-for-neurodivergent-people]]

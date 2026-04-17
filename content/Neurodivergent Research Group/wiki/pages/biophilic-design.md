@@ -64,4 +64,4 @@ Finnigan (2024) notes no conflicts between [[sensory-responsive-design|sensory-r
 - [[kelly-et-al-2025-inclusive-playgrounds]]
 - [[inclusive-playground-design]]
 - [[salutogenic-design]]
-- [[designing-spaces-for-neurodivergent-people]]
+- [[promoted/q-designing-spaces-for-neurodivergent-people]]

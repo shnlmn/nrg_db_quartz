@@ -27,7 +27,7 @@ Multi-sensory environment evaluation is the practice of assessing a place throug
 ## Related
 
 - [[sensory-walk-questionnaire]]
-- [[formatting-building-experience-questions]]
+- [[promoted/q-formatting-building-experience-questions]]
 - [[inclusive-research-methods]]
 - [[soundwalk]]
 - [[smellwalk]]

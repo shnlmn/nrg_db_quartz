@@ -23,7 +23,7 @@ Psychological safety in research contexts refers to the shared belief that Commu
 - [[community-advisory-board]]
 - [[participatory-research]]
 - [[co-design-in-research]]
-- [[formatting-building-experience-questions]] — safety considerations for sensory-response disclosure
+- [[promoted/q-formatting-building-experience-questions]] — safety considerations for sensory-response disclosure
 
 ## Open questions
 

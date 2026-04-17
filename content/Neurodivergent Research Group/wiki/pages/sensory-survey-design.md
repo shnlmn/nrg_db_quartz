@@ -92,7 +92,7 @@ All decisions informed by prior research, team knowledge/insight, and refined th
 - [[smell-habituation]] — temporal/observer factor
 - [[multi-sensory-environment-evaluation]] — broader environmental assessment approach
 - [[sensory-responsive-design]] — application to design outcomes
-- [[formatting-building-experience-questions]] — survey design decisions for building-experience research
+- [[promoted/q-formatting-building-experience-questions]] — survey design decisions for building-experience research
 
 ## Open Questions
 
