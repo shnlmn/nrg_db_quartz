@@ -184,13 +184,13 @@ Ten PDF originals in `raw/` have no direct citations in wiki pages. Each has a c
 
 ## Summary Table
 
-| # | Category | Count | Severity | Action |
-|---|----------|-------|----------|--------|
-| 1 | Stale wikilinks (promoted moves) | 33 pages | High | Update links in all 33 pages |
-| 2 | Source path mismatch (Bernard et al.) | 9 pages | High | Fix quote chars in YAML + body |
-| 3 | Orphan pages | 2 files | Medium | Delete both files |
-| 4 | Naming convention violation | 1 file | Low | Rename IDEAS.md → ideas.md |
-| 5 | Invalid log timestamps | 3 entries | Low | Cosmetic; accept or annotate |
-| 6 | Empty page without sources | 1 (same as §3) | Medium | Delete file |
-| 7 | Uncited PDF originals | 10 PDFs | Low | Document in `_schema.md` |
-| 8 | Contradictions, stale claims, orphans (other), uncited raw .md | 0 | — | None required |
+| #   | Category                                                       | Count          | Severity | Action                         |
+| --- | -------------------------------------------------------------- | -------------- | -------- | ------------------------------ |
+| 1   | Stale wikilinks (promoted moves)                               | 33 pages       | High     | Update links in all 33 pages   |
+| 2   | Source path mismatch (Bernard et al.)                          | 9 pages        | High     | Fix quote chars in YAML + body |
+| 3   | Orphan pages                                                   | 2 files        | Medium   | Delete both files              |
+| 4   | Naming convention violation                                    | 1 file         | Low      | Rename IDEAS.md → ideas.md     |
+| 5   | Invalid log timestamps                                         | 3 entries      | Low      | Cosmetic; accept or annotate   |
+| 6   | Empty page without sources                                     | 1 (same as §3) | Medium   | Delete file                    |
+| 7   | Uncited PDF originals                                          | 10 PDFs        | Low      | Document in `_schema.md`       |
+| 8   | Contradictions, stale claims, orphans (other), uncited raw .md | 0              | —        | None required                  |
