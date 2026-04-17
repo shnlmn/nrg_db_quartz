@@ -216,6 +216,10 @@ async function setupExplorer(currentSlug: FullSlug) {
 
     // Create and insert new content
     const fragment = document.createDocumentFragment()
+    // If rootPath folder has an index file (_index.md), show it as a link at the top
+    if (rootPath && renderRoot !== trie && renderRoot.data) {
+      fragment.appendChild(createFileNode(currentSlug, renderRoot))
+    }
     for (const child of renderRoot.children) {
       const node = child.isFolder
         ? createFolderNode(currentSlug, child, opts)
