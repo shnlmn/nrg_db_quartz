@@ -274,7 +274,7 @@ export async function handleBuild(argv) {
             text = text.replace("export", "")
 
             const sourcefile = path.relative(path.resolve("."), args.path)
-            const resolveDir = path.dirname(sourcefile)
+            const resolveDir = path.dirname(args.path)
             const transpiled = await esbuild.build({
               stdin: {
                 contents: text,
@@ -318,7 +318,7 @@ export async function handleBuild(argv) {
 
     const result = await ctx.rebuild().catch((err) => {
       console.error(`${styleText("red", "Couldn't parse Quartz configuration:")} ${fp}`)
-      console.log(`Reason: ${styleText("gray", err)}`)
+      console.log(`Reason: ${styleText("gray", String(err))}`)
       process.exit(1)
     })
     release()
