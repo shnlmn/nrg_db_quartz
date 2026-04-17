@@ -273,8 +273,9 @@ export async function handleBuild(argv) {
             text = text.replace("export default", "")
             text = text.replace("export", "")
 
-            const sourcefile = path.relative(path.resolve("."), args.path)
-            const resolveDir = path.dirname(args.path)
+            const absPath = path.resolve(args.path)
+            const sourcefile = path.relative(path.resolve("."), absPath)
+            const resolveDir = path.dirname(absPath)
             const transpiled = await esbuild.build({
               stdin: {
                 contents: text,
