@@ -39,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      rootPath: "neurodivergent-research-group/wiki",
+      rootPath: "Neurodivergent-Research-Group/wiki",
       filterFn: (node) => !node.slugSegment.startsWith("_") && node.slugSegment !== "tags",
     }),
   ],
@@ -66,7 +66,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      rootPath: "neurodivergent-research-group/wiki",
+      rootPath: "Neurodivergent-Research-Group/wiki",
       filterFn: (node) => !node.slugSegment.startsWith("_") && node.slugSegment !== "tags",
     }),
   ],
