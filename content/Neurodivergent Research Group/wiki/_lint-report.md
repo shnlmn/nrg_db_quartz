@@ -37,11 +37,11 @@ Both require filesystem deletion — no Bash available to do this automatically.
 
 Three `_log.md` entries carry impossible timestamps (hours > 23):
 
-| Entry | Timestamp |
-|-------|-----------|
-| Promoted page migration | `2026-04-15 34:00` |
+| Entry                                        | Timestamp          |
+| -------------------------------------------- | ------------------ |
+| Promoted page migration                      | `2026-04-15 34:00` |
 | Query-promotion: Built Environment Questions | `2026-04-15 33:00` |
-| Ingest: Bernard et al. 2023 | `2026-04-15 32:00` |
+| Ingest: Bernard et al. 2023                  | `2026-04-15 32:00` |
 
 Content is accurate. Accepted as historical artefact per 2026-04-16 lint-apply.
 
