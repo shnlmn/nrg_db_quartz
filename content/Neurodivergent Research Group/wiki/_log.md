@@ -4,6 +4,21 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-04-19 — Query-promotion: sensory room architectural installations
+
+- **Question promoted:** "I would like some idea for architectural installation interventions for a sensory room."
+- **New page created:** `pages/promoted/q-sensory-room-architectural-installations.md`
+- **Content:** Spatial structure (ASPECTSS escape space, sensory zoning, transition thresholds), material/surface interventions, lighting, modality-specific affordance table (vestibular, proprioceptive, auditory, tactile, olfactory), and "senso-spatial acupuncture" conceptual frame from Venice 2023
+- **Pages updated (cross-references added):**
+  - `pages/sensory-refuge.md`
+  - `pages/sensory-zoning.md`
+  - `pages/sensory-affordances.md`
+  - `pages/biophilic-design.md`
+  - `pages/aspectss-design-index.md`
+- **Index updated:** entry added with `(promoted)` tag
+
+---
+
 ## 2026-04-19 19:00 — Ingest: autism.archi ASPECTSS Design Index official page
 
 - **File ingested:** `raw/autism.archi-The Autism ASPECTSS Design Index is the first set of evidence based design guidelines worldwide to ad.md` (official autism.archi/aspectss page, Magda Mostafa)

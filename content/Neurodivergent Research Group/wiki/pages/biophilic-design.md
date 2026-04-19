@@ -65,3 +65,4 @@ Finnigan (2024) notes no conflicts between [[sensory-responsive-design|sensory-r
 - [[inclusive-playground-design]]
 - [[salutogenic-design]]
 - [[promoted/q-designing-spaces-for-neurodivergent-people]]
+- [[promoted/q-sensory-room-architectural-installations]] — applies biophilic materials and lighting principles to sensory room installations

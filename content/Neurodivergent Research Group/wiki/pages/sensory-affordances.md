@@ -52,3 +52,4 @@ From [[kelly-et-al-2025-inclusive-playgrounds|Kelly et al. (2025)]], sensory aff
 - [[inclusive-playground-design]]
 - [[self-regulation-in-play]]
 - [[affordances]]
+- [[promoted/q-sensory-room-architectural-installations]] — modality-by-modality affordance table for sensory room design

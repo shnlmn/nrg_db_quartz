@@ -137,3 +137,4 @@ The most direct published case study of ASPECTSS intervention outcomes is [[most
 - [[design-from-sensorial-margins]]
 - [[sensory-processing-autism]]
 - [[autism-embodiment]]
+- [[promoted/q-sensory-room-architectural-installations]] — applies ASPECTSS escape space, compartmentalization, and transitions criteria to interior sensory room design

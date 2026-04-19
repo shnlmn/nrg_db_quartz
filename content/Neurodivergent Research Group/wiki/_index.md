@@ -164,6 +164,7 @@ Catalog of all wiki pages. Maintained by the LLM. Do not hand-edit.
 - [[ludmila-praslova]] — Autistic I-O psychologist; developer of the Canary Code; co-author of Bernard et al. 2023
 - [[promoted/q-built-environment-questions-autistic-adults]] — In-situ questionnaire for gathering autistic adults' sensory and experiential responses to a built environment, grouped by zone (promoted)
 - [[promoted/q-cbpr-neurodivergent]] — Comprehensive synthesis of CBPR principles applied to neurodivergent research: epistemic justice, relational inclusion, method accessibility, co-option risks, and the seven CBPR principles mapped to neurodivergent contexts (promoted)
+- [[promoted/q-sensory-room-architectural-installations]] — Architectural installation interventions for a sensory room: spatial structure (ASPECTSS escape space, sensory zoning, transition thresholds), materials, lighting, and modality-specific affordances (promoted)
 - [[relief-maps]] — Free-access digital tool (Rodó-Zárate) for collecting and visualising emotional dimensions of inequality; shows how places are differently experienced across intersecting social axes
 - [[maria-rodo-zarate]] — Serra Húnter Fellow, University of Barcelona; PhD in Geography; developer of Relief Maps; research on intersectional, spatial, and emotional dimensions of urban inequality
 - [[intersectionality]] — Framework describing how multiple social structures (gender, race, class, etc.) intersect to produce compounded, place-specific experiences of privilege and oppression

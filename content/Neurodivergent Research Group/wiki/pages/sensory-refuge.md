@@ -49,3 +49,4 @@ A spatial experiment at the 2023 Venice Architecture Biennale tested whether a b
 - [[aspectss-design-index]]
 - [[price-et-al-2025-sensory-sensitivities]] — participants described withdrawing to low-stimulation, high-control spaces to "recharge" after sensory overload
 - [[subjective-sensory-sensitivities]]
+- [[promoted/q-sensory-room-architectural-installations]] — applies sensory refuge principles to interior sensory room design

@@ -40,3 +40,4 @@ Effective sensory zoning involves:
 - [[sensory-affordances]]
 - [[sensory-responsive-design]]
 - [[promoted/q-designing-spaces-for-neurodivergent-people]]
+- [[promoted/q-sensory-room-architectural-installations]] — applies sensory zoning to interior single-room sensory space design
