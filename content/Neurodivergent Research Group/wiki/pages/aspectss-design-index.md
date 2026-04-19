@@ -1,6 +1,6 @@
 ---
 type: method
-sources: [raw/ASPECTSS.md, "raw/The Autism Design Index.md", raw/ASPECTSS_EXHIBITIONS.md, raw/PROJECTS.md, "raw/Sensory Escape - a walkthrough.md"]
+sources: [raw/ASPECTSS.md, "raw/The Autism Design Index.md", raw/ASPECTSS_EXHIBITIONS.md, raw/PROJECTS.md, "raw/Sensory Escape - a walkthrough.md", "raw/Identifying landscapes of sensory escape.md", "raw/Designkriterier til arkitektur, der rummer autisme.md"]
 updated: 2026-04-19
 ---
 
@@ -12,7 +12,7 @@ The ASPECTSS® Design Index is an autism-specific architectural design framework
 
 ## ASPECTSS Acronym
 
-> [!todo] verify: Full expansion of each letter in the ASPECTSS acronym not captured in raw/ASPECTSS_EXHIBITIONS.md — source raw/ASPECTSS.md is a stub. Revisit https://www.autism.archi/aspectss for complete acronym definitions.
+> [!todo] verify: ASPECTSS acronym partially resolved from raw/Identifying landscapes of sensory escape.md (Neilson 2023-11-23). Confirmed 6 of 8 letters: **A**coustics, **S**patial Sequencing, **E**scape Space, **C**ompartmentalization, **T**ransitions, **S**ensory Zoning. Two letters (P and final S) remain unconfirmed. Revisit https://www.autism.archi/aspectss for complete definitions. Note: rumsans.dk source confirms **7** design criteria total (not 8); the acronym has 8 letters but one letter may map to two criteria or share a construct.
 
 ## Core Premises
 
@@ -61,10 +61,13 @@ Five documented real-world applications by [[magda-mostafa|Magda Mostafa]] (see 
 ## Related
 
 - [[magda-mostafa]]
+- [[stuart-neilson]]
 - [[autism-friendly-design]]
 - [[sensory-decolonisation]]
 - [[sensory-refuge]]
 - [[sensory-zoning]]
+- [[sensory-wayfinding]]
+- [[motion-intensity-heatmap]]
 - [[neuro-inclusive-design]]
 - [[design-from-sensorial-margins]]
 - [[sensory-processing-autism]]

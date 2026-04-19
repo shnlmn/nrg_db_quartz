@@ -4,6 +4,20 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-04-19 13:40 — Ingest: Designkriterier til arkitektur, der rummer autisme
+
+- **File ingested:** `raw/Designkriterier til arkitektur, der rummer autisme.md` (web clipping from rumsans.dk; Danish popular article on ASPECTSS design criteria)
+- **Key content:** Overview of Magda Mostafa's 7 ASPECTSS design criteria for autism-inclusive architecture; introduction of Judy Singer as coiner of "neurodiversity"; framing of neurodiversity as natural variation not inherently a disadvantage when environment is accommodating
+- **Pages created:**
+  - `pages/judy-singer.md` — new person page; Australian sociologist who coined "neurodiversity"
+- **Pages updated:**
+  - `pages/aspectss-design-index.md` — added source to frontmatter; updated todo/verify note: source confirms **7** design criteria (vs 8 acronym letters)
+  - `pages/magda-mostafa.md` — added source to frontmatter; added "Egyptian" to description
+  - `pages/neurodiversity-paradigm.md` — added Origins section crediting Judy Singer; added [[judy-singer]] to Related; updated date
+- **Index updated:** `judy-singer` entry added to `_index.md`
+
+---
+
 ## 2026-04-19 — Ingest: Sensory Escape - a walkthrough
 
 - **File ingested:** `raw/Sensory Escape - a walkthrough.md` (Vimeo clipping, Stuart Neilson, 2023-11-29, https://vimeo.com/889418692)
@@ -56,6 +70,25 @@ Append-only chronological record of ingest, query-promotion, and lint operations
   - `pages/sensory-refuge.md` — added cross-references to `sensory-decolonisation` and `aspectss-design-index`
 - **Index updated:** two new entries added to `_index.md`
 - **Todo resolved:** pending todo from 2026-04-19 stub ingest for `pages/aspectss-design-index.md` now fulfilled
+
+---
+
+## 2026-04-19 — Ingest: Identifying landscapes of sensory escape
+
+- **File ingested:** `raw/Identifying landscapes of sensory escape.md` (blog post, Stuart Neilson, 2023-11-23, wordpress.stuartneilson.com)
+- **Key content:** Neilson's first-person autistic account of using motion intensity heatmaps to identify sensory refuges and navigation routes in public spaces; methodology (pixel-level video accumulation); CNC tactile panels; semimaginary terrain mapping; contribution to Venice Biennale 2023 "A Case for Sensory Decolonisation: Autistic Escape"; Sensory Atlas; ASPECTSS domains applied to sensory wayfinding
+- **Pages created:**
+  - `pages/motion-intensity-heatmap.md` — new method page; Neilson's pixel-accumulation technique; color coding; 11+ global locations; tactile CNC extension; semimaginary terrain metaphor
+  - `pages/sensory-wayfinding.md` — new concept page; navigating cities via sensory intensity gradients; gradient as refuge enabler; flat intensity maps as hostile; imaginary-roads model; 6 ASPECTSS domains mapped
+- **Pages updated:**
+  - `pages/stuart-neilson.md` — major rewrite; now documents Neilson as autistic researcher/artist in Cork; full methodology; Venice 2023 and 2021 contributions; DCU visitor note; removed open verify todo (substantially resolved)
+  - `pages/aspectss-design-index.md` — added source; partially resolved ASPECTSS acronym todo (6/8 letters confirmed: A=Acoustics, S=Spatial Sequencing, E=Escape Space, C=Compartmentalization, T=Transitions, S=Sensory Zoning; P and final S remain unconfirmed); added [[sensory-wayfinding]] and [[motion-intensity-heatmap]] to Related
+  - `pages/sensory-decolonisation.md` — added source; added Neilson's Contribution and Sensory Atlas section with installation specifics (three locations, MDF tactile panels, laser-cut metaphor); added new wikilinks
+  - `pages/magda-mostafa.md` — added source; added Sensory Atlas section documenting the wall component and Neilson's contributions; added [[stuart-neilson]] and [[motion-intensity-heatmap]] to Related
+  - `pages/sensory-refuge.md` — added source; added Interstitial Refuge in Public Space section (Neilson's Campo Santa Maria Formosa example; refuge connectivity constraint)
+- **Index updated:** `stuart-neilson` entry updated; `motion-intensity-heatmap` and `sensory-wayfinding` entries added
+- **Todo resolved:** `stuart-neilson.md` open verify todo about Neilson's identity and affiliation — substantially resolved by this source
+- **Todo remaining:** ASPECTSS acronym letters P and final S still unconfirmed
 
 ---
 

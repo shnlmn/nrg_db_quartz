@@ -1,6 +1,6 @@
 ---
 type: concept
-sources: [raw/ASPECTSS_EXHIBITIONS.md, "raw/Sensory Escape - a walkthrough.md"]
+sources: [raw/ASPECTSS_EXHIBITIONS.md, "raw/Sensory Escape - a walkthrough.md", "raw/Identifying landscapes of sensory escape.md"]
 updated: 2026-04-19
 ---
 
@@ -30,9 +30,16 @@ The installation proposed "EscapeScapes" — designed landscapes of sensory esca
 - Function as [[sensory-refuge|sensory refuge]] at the urban/public scale
 - Are framed as a form of "senso-spatial acupuncture"
 
+## Neilson's Contribution and the Sensory Atlas
+
+[[stuart-neilson|Stuart Neilson]] contributed [[motion-intensity-heatmap|motion intensity heatmaps]], long-exposure sensory composites, and timelapse sequences of global city spaces to Mostafa's **Sensory Atlas** — a curated collection of visual records of cities from an autistic sensory perspective. Three locations were selected from Neilson's work for the Venice Biennale 2023 wall projection: Dublin City University (Glasnevin Campus), Rialto Bridge (Venice), and Eleftheriou Venizelou Square (Heraklion). Physical tactile panels were produced by Mostafa's team at the American University Cairo: full-size MDF panels CNC-cut with the motion intensity contours, with a video loop cycling through photo, timelapse, developing heatmap, and final map. The metaphor: pedestrians laser-cutting the surface by walking on it.
+
 ## Related
 
 - [[aspectss-design-index]]
+- [[stuart-neilson]]
+- [[motion-intensity-heatmap]]
+- [[sensory-wayfinding]]
 - [[sensory-refuge]]
 - [[sensory-zoning]]
 - [[sensory-processing-autism]]

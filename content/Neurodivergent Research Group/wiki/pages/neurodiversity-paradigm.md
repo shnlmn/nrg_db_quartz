@@ -4,7 +4,7 @@ sources:
   - raw/The Neurodiversity Attitudes Questionnaire_ Development and Initial Validation.md
   - raw/dark-2025-inclusion-by-design-a-neuro-cognitive-trait-interaction-approach-to-neurodivergent-research.extracted.md
   - "raw/Not your \u201Ctypical\u201D research_ Inclusion ethics in neurodiversity scholarship _ Industrial and Organizational Psychology.md"
-updated: 2026-04-15
+updated: 2026-04-19
 ---
 
 # Neurodiversity Paradigm
@@ -12,6 +12,10 @@ updated: 2026-04-15
 ## Summary
 
 The neurodiversity paradigm is a political and philosophical position holding that neurological and cognitive diversity—particularly among neurodivergent people, those whose minds differ from societal norms—is something to be accepted and even celebrated. It presents an alternative to both the [[medical-model-of-disability]] and the [[social-model-of-disability]], retaining and rejecting aspects of each.
+
+## Origins
+
+The term "neurodiversity" was coined by Australian sociologist [[judy-singer|Judy Singer]], who first proposed it as a unifying concept covering variation between all human brains — both atypical and neurotypical [[raw/Designkriterier til arkitektur, der rummer autisme|rumsans.dk 2026]].
 
 ## Key claims
 
@@ -27,6 +31,7 @@ The neurodiversity paradigm is a political and philosophical position holding th
 
 ## Related
 
+- [[judy-singer]] — Australian sociologist who coined "neurodiversity"
 - [[neuro-cognitive-trait-interaction-model]] — methodological framework grounded in neurodiversity paradigm principles
 - [[epistemic-justice]] — related ethical principle from which NCTIM is developed
 - [[medical-model-of-disability]]

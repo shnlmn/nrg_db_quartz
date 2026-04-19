@@ -1,6 +1,6 @@
 ---
 type: concept
-sources: [raw/land-13-00636-v2.extracted.md, raw/Sensory_Responsive_Environments_A_Qualitative_Stud.extracted.md]
+sources: [raw/land-13-00636-v2.extracted.md, raw/Sensory_Responsive_Environments_A_Qualitative_Stud.extracted.md, "raw/Identifying landscapes of sensory escape.md"]
 updated: 2026-04-15
 ---
 
@@ -28,6 +28,10 @@ Study participants emphasized the importance of sensory refuges adjacent to or w
 - Easy access during sensory overload
 - Brief recovery periods within longer outings
 - Balance between participation and protection
+
+## Interstitial Refuge in Public Space
+
+[[stuart-neilson|Stuart Neilson]] identifies sensory refuges in city spaces as **interstitial** — small low-intensity pockets within high-traffic zones, often overlooked by urban designers. His [[motion-intensity-heatmap|motion intensity heatmaps]] make these pockets visible: e.g., a small triangular refuge in Campo Santa Maria Formosa (Venice) surrounded by busy pedestrian flow, where children had organically "decolonised" low-intensity real estate. A critical constraint: a refuge must be reachable via a sufficiently low-intensity route to be usable — a refuge surrounded by sensory ridges becomes isolating. See [[sensory-wayfinding]].
 
 ## Related
 
