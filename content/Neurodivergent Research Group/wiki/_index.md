@@ -62,7 +62,10 @@ Catalog of all wiki pages. Maintained by the LLM. Do not hand-edit.
 - [[neuro-inclusive-design]] — Approach to architecture and landscape design intentionally accommodating diverse neurological profiles beyond ADA compliance
 - [[landscape-architecture-neurodiversity]] — Field practice of designing outdoor built environments supporting sensory, cognitive, and social needs of neurodivergent individuals
 - [[nait-sensory-checklist]] — Informal assessment tool for evaluating sensory preferences in adults undergoing neurodevelopmental assessment across six sensory domains
-- [[autism-friendly-design]] — Specialized design approach (e.g., Mostafa's ASPECTSS™ framework) for creating autistic-inclusive built environments, primarily indoor
+- [[aspectss-design-index]] — Autism-specific architectural design framework (Mostafa 2013, AUC) providing structured spatial constructs for autistic space: sensory seeking, refuge, and transition
+- [[magda-mostafa]] — Autism design consultant and architect; developer of ASPECTSS® Design Index; applied across five documented international projects (2015–2021)
+- [[sensory-decolonisation]] — Concept that capitalistic city sensoryscapes are colonised commodities burdening autistic citizens; design goal of restoring sensory escape and refuge at urban scale
+- [[autism-friendly-design]] — Specialized design approach (e.g., Mostafa's ASPECTSS® framework) for creating autistic-inclusive built environments, primarily indoor
 - [[kathryn-finnigan]] — Researcher and landscape architect (University of Colorado) who developed the Sensory Responsive Environments Framework through qualitative study of neurodivergent experiences
 - [[rades]] — Survey method using 120 evocative images to elicit first-person descriptions of emotional, sensory, bodily, and interactive experiences in a place
 - [[environmental-experience]] — Subjective psychological states during human-environment encounter encompassing emotional, sensory, bodily, interactive, and cognitive dimensions

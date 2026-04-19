@@ -4,6 +4,45 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-04-19 — Ingest: PROJECTS.md
+
+- **File ingested:** `raw/PROJECTS.md` (web clipping from https://www.autism.archi/aspectss-projects)
+- **Key content:** Five documented real-world ASPECTSS® Design Index projects by Magda Mostafa (2015–2021): DCU Dublin, Sharjah UAE, Munroe-Meyer Omaha, El Balad Ramallah, ELS Center Florida
+- **Pages created:**
+  - `pages/magda-mostafa.md` — new person page; autism design consultant and developer of ASPECTSS®; five applied projects documented with scope, collaborators, and outcomes
+- **Pages updated:**
+  - `pages/aspectss-design-index.md` — added `raw/PROJECTS.md` to sources; resolved todo about Mostafa's named authorship (confirmed across all five projects); added Applied Projects section with five project summaries; added `[[magda-mostafa]]` to Related
+- **Index updated:** `magda-mostafa` entry added to `_index.md`
+- **Todo resolved:** `aspectss-design-index.md` todo "Confirm Magda Mostafa is the named developer" — confirmed by PROJECTS.md (named explicitly across all five engagements)
+
+---
+
+## 2026-04-19 13:30 — Ingest: ASPECTSS_EXHIBITIONS.md
+
+- **File ingested:** `raw/ASPECTSS_EXHIBITIONS.md` (web clipping from https://www.autism.archi/aspectss-exhibitions)
+- **Key content:** ASPECTSS® Venice Biennale exhibitions 2021 (Palazzo Bembo) and 2023 (Palazzo Mora); "A Case for Sensory Decolonisation: Autistic Escape"; sensory colonisation concept; Sensory Atlas and EscapeScapes installations
+- **Pages created:**
+  - `pages/aspectss-design-index.md` — new; fulfills the pending todo from 2026-04-19 stub ingest; covers ASPECTSS® framework origin (2013, AUC + Progressive Architects), three spatial constructs, both Venice exhibitions
+  - `pages/sensory-decolonisation.md` — new concept; cities as colonised sensoryscapes; autistic experience as litmus test for sensory taxation; EscapeScapes as spatial protest
+- **Pages updated:**
+  - `pages/autism-friendly-design.md` — added `raw/ASPECTSS_EXHIBITIONS.md` to sources; expanded ASPECTSS section with links to new pages
+  - `pages/sensory-refuge.md` — added cross-references to `sensory-decolonisation` and `aspectss-design-index`
+- **Index updated:** two new entries added to `_index.md`
+- **Todo resolved:** pending todo from 2026-04-19 stub ingest for `pages/aspectss-design-index.md` now fulfilled
+
+---
+
+## 2026-04-19 — Ingest attempt: ASPECTSS Design Index stub
+
+- **File submitted:** `raw/ASPECTSS.md` (web clipping from https://www.autism.archi/aspectss — "the ASPECTSS Design Index for Autism")
+- **Status:** ⚠️ **STUB** — File contains frontmatter only; no body content was captured in the web clipping
+- **Action taken:**
+  - Added `raw/ASPECTSS.md` to `sources:` frontmatter of `pages/autism-friendly-design.md` (existing page already covers Mostafa's ASPECTSS™ framework adequately)
+  - No new pages created (insufficient source content)
+- **Todo:** `> [!todo] needs-conversion: raw/ASPECTSS.md — web clip captured no body content; revisit https://www.autism.archi/aspectss to extract ASPECTSS acronym definitions and design principles for a dedicated `pages/aspectss-design-index.md` page`
+
+---
+
 ## 2026-04-16 20:41 — Lint-apply: resolve findings from 2026-04-15 full audit
 
 - **§1 Stale wikilinks (33 pages) — FIXED:**

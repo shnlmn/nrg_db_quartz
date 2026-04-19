@@ -37,5 +37,7 @@ Study participants emphasized the importance of sensory refuges adjacent to or w
 - [[biophilic-design]]
 - [[sensory-sensitivity-coping-strategies]]
 - [[sensory-sensitivity-exacerbating-factors]]
+- [[sensory-decolonisation]] — the ASPECTSS® 2023 Venice exhibition frames urban sensory refuges ("EscapeScapes") as spatial protest against city-scale sensory colonisation
+- [[aspectss-design-index]]
 - [[price-et-al-2025-sensory-sensitivities]] — participants described withdrawing to low-stimulation, high-control spaces to "recharge" after sensory overload
 - [[subjective-sensory-sensitivities]]

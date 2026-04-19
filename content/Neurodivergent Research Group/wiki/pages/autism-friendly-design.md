@@ -1,7 +1,7 @@
 ---
 type: method
-sources: [raw/land-13-00636-v2.extracted.md, raw/Sensory_Responsive_Environments_A_Qualitative_Stud.extracted.md]
-updated: 2026-04-15
+sources: [raw/land-13-00636-v2.extracted.md, raw/Sensory_Responsive_Environments_A_Qualitative_Stud.extracted.md, raw/ASPECTSS.md, raw/ASPECTSS_EXHIBITIONS.md]
+updated: 2026-04-19
 ---
 
 # Autism-Friendly Design
@@ -23,10 +23,11 @@ Research-informed autism-friendly design includes:
 
 ## Existing Frameworks
 
-**Mostafa's ASPECTSS™ Design Index:**
-- Autism-specific design principles
-- Emphasis on school and therapeutic environments
-- Focus on children
+**[[aspectss-design-index|Mostafa's ASPECTSS® Design Index]]** (developed 2013, American University in Cairo):
+- Autism-specific design principles premised on the value of autistic insight
+- Emphasis on school and therapeutic environments; primarily focused on children
+- Three core spatial constructs: sensory seeking, sensory refuge, transition
+- Exhibited at Venice Biennale 2021 and 2023; 2023 exhibition introduced [[sensory-decolonisation]] as conceptual thesis
 
 **Other cited approaches:**
 - Sachs (2011) — Therapies and treatments through design
@@ -53,6 +54,8 @@ Finnigan's (2024) [[sensory-responsive-environments-framework]] extends autism-f
 
 ## Related
 
+- [[aspectss-design-index]]
+- [[sensory-decolonisation]]
 - [[neuro-inclusive-design]]
 - [[sensory-responsive-design]]
 - [[sensory-responsive-environments-framework]]
