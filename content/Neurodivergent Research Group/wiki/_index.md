@@ -76,6 +76,9 @@ Catalog of all wiki pages. Maintained by the LLM. Do not hand-edit.
 - [[autism-lifespan-design]] — Concept that autistic individuals need built environment support across all life stages; design waves from K-12 → university → workplace → assisted living
 - [[sensory-decolonisation]] — Concept that capitalistic city sensoryscapes are colonised commodities burdening autistic citizens; design goal of restoring sensory escape and refuge at urban scale
 - [[autism-friendly-design]] — Specialized design approach (e.g., Mostafa's ASPECTSS® framework) for creating autistic-inclusive built environments, primarily indoor
+- [[autism-healthcare-outcomes]] — Finding that autistic individuals have shorter lifespans and higher mortality; healthcare space anxiety identified as contributing cause
+- [[strength-based-approach-autism-design]] — Paradigm shift from charitable/deficit framing to recognizing autistic strengths, abilities, and lived expertise as design assets
+- [[sap-autism-at-work]] — SAP's 2013 workplace autism inclusion program; first major and most influential tech-sector autism-at-work initiative
 - [[kathryn-finnigan]] — Researcher and landscape architect (University of Colorado) who developed the Sensory Responsive Environments Framework through qualitative study of neurodivergent experiences
 - [[rades]] — Survey method using 120 evocative images to elicit first-person descriptions of emotional, sensory, bodily, and interactive experiences in a place
 - [[environmental-experience]] — Subjective psychological states during human-environment encounter encompassing emotional, sensory, bodily, interactive, and cognitive dimensions
@@ -161,3 +164,9 @@ Catalog of all wiki pages. Maintained by the LLM. Do not hand-edit.
 - [[ludmila-praslova]] — Autistic I-O psychologist; developer of the Canary Code; co-author of Bernard et al. 2023
 - [[promoted/q-built-environment-questions-autistic-adults]] — In-situ questionnaire for gathering autistic adults' sensory and experiential responses to a built environment, grouped by zone (promoted)
 - [[promoted/q-cbpr-neurodivergent]] — Comprehensive synthesis of CBPR principles applied to neurodivergent research: epistemic justice, relational inclusion, method accessibility, co-option risks, and the seven CBPR principles mapped to neurodivergent contexts (promoted)
+- [[relief-maps]] — Free-access digital tool (Rodó-Zárate) for collecting and visualising emotional dimensions of inequality; shows how places are differently experienced across intersecting social axes
+- [[maria-rodo-zarate]] — Serra Húnter Fellow, University of Barcelona; PhD in Geography; developer of Relief Maps; research on intersectional, spatial, and emotional dimensions of urban inequality
+- [[intersectionality]] — Framework describing how multiple social structures (gender, race, class, etc.) intersect to produce compounded, place-specific experiences of privilege and oppression
+- [[feminist-geographies]] — Academic field studying how social structures shape and are shaped by spatial arrangements; foregrounds emotional, embodied, intersectional dimensions of urban experience
+- [[mostafa-et-al-2023-aspectss-case-study]] — Mixed-methods case study (Mostafa et al. 2023) assessing five ASPECTSS design interventions at Els for Autism K-12 school; staff survey, observations, interviews all show positive outcomes
+- [[post-occupancy-evaluation]] — Systematic assessment of a built environment after occupancy; used by Mostafa as primary diagnostic and outcome-measurement tool for ASPECTSS interventions

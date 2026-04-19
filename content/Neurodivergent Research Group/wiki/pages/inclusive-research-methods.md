@@ -6,6 +6,7 @@ sources:
   - raw/The Neurodiversity Attitudes Questionnaire_ Development and Initial Validation.md
   - "raw/Not your \u201Ctypical\u201D research_ Inclusion ethics in neurodiversity scholarship _ Industrial and Organizational Psychology.md"
   - "raw/Sensory characteristics of a place_ The development of the sensory walk questionnaire.md"
+  - "raw/Autism friendly design – an interview with Magda Mostafa.md"
   - "raw/Co-Design for Participatory Neurodiversity Research_ Collaborating With a Community Advisory Board to Design a Research Study _ Published in Journal of Participatory Resea.md"
   - raw/dark-2025-inclusion-by-design-a-neuro-cognitive-trait-interaction-approach-to-neurodivergent-research.extracted.md
   - raw/A systematic review of photovoice research methods with people with intellectual disabilities.md
@@ -38,6 +39,9 @@ Inclusive research methods are approaches to design research, user testing, and 
 - [[reasonable-adjustments]] for [[focus-groups]] with neurodivergent participants include: multiple modes of participation (in-person and online); ground rules in written and verbal formats; permitted breaks; questions presented in both verbal and written forms (e.g., chat for online); and permission to use assistive software [[raw/Co-Design for Participatory Neurodiversity Research_ Collaborating With a Community Advisory Board to Design a Research Study _ Published in Journal of Participatory Resea.md|Le Cunff et al.]]
 
 - [[photovoice]] offers an accessible alternative for people with [[intellectual-disability|intellectual disabilities]] who need support with verbal communication; adaptations include individual interviews, supported photo-taking, walking interviews, and simplified discussion prompts [[raw/A systematic review of photovoice research methods with people with intellectual disabilities.md|Chinn & Balota]]
+- Standard design-thinking workshops are explicitly open-ended and ambiguous by design — this structure can cause anxiety for autistic participants; adaptations include minute-by-minute agendas, highly predictable scheduling, regular check-ins, and openness to in-session format changes [[raw/Autism friendly design – an interview with Magda Mostafa.md|Mostafa 2021]]
+- Enabling multiple engagement modes simultaneously (visual: sketching/drawing/markup; verbal: transcribed responses; asynchronous) ensures autistic and non-verbal participants can contribute equitably [[raw/Autism friendly design – an interview with Magda Mostafa.md|Mostafa 2021]]
+- Flipping the user/expert model — explicitly framing the researcher as learner and the participant as expert — is especially important with autistic participants whose lived expertise in their own perceptual experience the researcher cannot replicate [[raw/Autism friendly design – an interview with Magda Mostafa.md|Mostafa 2021]]; see also [[strength-based-approach-autism-design]]
 
 ## Related
 

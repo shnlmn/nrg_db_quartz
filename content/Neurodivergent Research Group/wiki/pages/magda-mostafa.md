@@ -1,6 +1,6 @@
 ---
 type: person
-sources: [raw/PROJECTS.md, raw/ASPECTSS.md, raw/ASPECTSS_EXHIBITIONS.md, "raw/Autism Design and an Architecture for All_ Designing for a Differently Abled World.md", "raw/Sensory Escape - a walkthrough.md", "raw/Identifying landscapes of sensory escape.md", "raw/Designkriterier til arkitektur, der rummer autisme.md", "raw/When We Design for Autism, We Design for Everyone.md", "raw/Design for Inclusivity at the UIA World Congress of Architects 2023.md", "raw/Magda Mostafa Honored With Friendly and Inclusive Spaces Award.md", "raw/An Interview with Magda Mostafa_ Pioneer in Autism Design.md", "raw/Autistic Imaginaries of Architectural Space, Venice Architecture Biennale, 2021, Magda Mostafa.md"]
+sources: [raw/PROJECTS.md, raw/ASPECTSS.md, raw/ASPECTSS_EXHIBITIONS.md, raw/EXHIBITIONS.md, "raw/Autism Design and an Architecture for All_ Designing for a Differently Abled World.md", "raw/Sensory Escape - a walkthrough.md", "raw/Identifying landscapes of sensory escape.md", "raw/Designkriterier til arkitektur, der rummer autisme.md", "raw/When We Design for Autism, We Design for Everyone.md", "raw/Design for Inclusivity at the UIA World Congress of Architects 2023.md", "raw/Magda Mostafa Honored With Friendly and Inclusive Spaces Award.md", "raw/An Interview with Magda Mostafa_ Pioneer in Autism Design.md", "raw/Autistic Imaginaries of Architectural Space, Venice Architecture Biennale, 2021, Magda Mostafa.md", "raw/Autism friendly design – an interview with Magda Mostafa.md", "raw/The impact of ASPECTSS-based design intervention in autism school design_ a case study.md"]
 updated: 2026-04-19
 ---
 
@@ -36,6 +36,7 @@ Mostafa's stated architectural ethic (2022): "no one has the right to exist more
 - Institutional development partner: American University in Cairo (AUC) and Progressive Architects
 - Contributing designer on projects across the Middle East, North America, and Europe
 - Co-chair, Design for Inclusivity science panel — [[uia-world-congress-2023|UIA World Congress of Architects 2023]], Copenhagen, with [[ruth-baumeister|Ruth Baumeister]]
+- Co-director — MIXDesign Neurodiverse Studio, New York (as of 2021) [[raw/Autism friendly design – an interview with Magda Mostafa.md]]
 
 **2013 affiliations** (per ArchDaily interview): Assistant Professor, Department of Architectural Engineering, American University in Cairo; Deputy Vice President for Africa, UNESCO–International Union of Architects' Education Commission and Validation Council; special needs design consultant for government and private sector projects in Egypt, the Gulf, and Europe; associate, Progressive Architects (Cairo) [[raw/An Interview with Magda Mostafa_ Pioneer in Autism Design.md]].
 
@@ -59,7 +60,7 @@ Mostafa's stated architectural ethic (2022): "no one has the right to exist more
 
 **El Balad Autism Center, Ramallah (2018):** Education center for autistic Palestinian refugee orphans built with vernacular load-bearing stone and courtyard hierarchy in an olive grove. Review conducted via Cairo workshop applying ASPECTSS principles; live-learn facility serving a triple-vulnerable population.
 
-**ELS Center for Excellence, Jupiter, Florida (2015–2016):** Hybrid retro-fit and new build. Performed an ASPECTSS-informed Post-Occupancy Evaluation (POE) of the existing elementary school, informing retro-fit interventions and shaping the unbuilt high school design. Interventions: acoustical mitigation, visual navigation, independent wayfinding, sensory transition affordances, modular classroom strategies, de-escalation space. Post-post-occupancy evaluation found preliminary positive impact on student learning and experience.
+**ELS Center for Excellence / Els for Autism Foundation, Jupiter, Florida (2015–2016, follow-up 2023):** Hybrid retro-fit and new build at The Learning Academy (K-12 charter school for autistic students). Performed an ASPECTSS-informed [[post-occupancy-evaluation|Post-Occupancy Evaluation]] (POE) in 2018 informing five design interventions: colour-coded navigation, acoustical treatments, transition alcoves (purple pods), classroom compartmentalization template, and de-escalation spaces. Outcomes assessed via staff survey, structured observation, and interviews published in [[mostafa-et-al-2023-aspectss-case-study]] (Mostafa, Sotelo, Honsberger, Honsberger, Brooker Lozott & Shanok 2023); results generally positive across all four intervention categories.
 
 ## Autism Across the Lifespan
 

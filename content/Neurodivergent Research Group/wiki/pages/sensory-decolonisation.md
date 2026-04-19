@@ -1,6 +1,6 @@
 ---
 type: concept
-sources: [raw/ASPECTSS_EXHIBITIONS.md, "raw/Sensory Escape - a walkthrough.md", "raw/Identifying landscapes of sensory escape.md", "raw/When We Design for Autism, We Design for Everyone.md"]
+sources: [raw/ASPECTSS_EXHIBITIONS.md, raw/EXHIBITIONS.md, "raw/Sensory Escape - a walkthrough.md", "raw/Identifying landscapes of sensory escape.md", "raw/When We Design for Autism, We Design for Everyone.md"]
 updated: 2026-04-19
 ---
 

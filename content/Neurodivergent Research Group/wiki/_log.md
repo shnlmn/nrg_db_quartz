@@ -4,6 +4,49 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-04-19 19:00 — Ingest: autism.archi ASPECTSS Design Index official page
+
+- **File ingested:** `raw/autism.archi-The Autism ASPECTSS Design Index is the first set of evidence based design guidelines worldwide to ad.md` (official autism.archi/aspectss page, Magda Mostafa)
+- **Key content:** Official seven-criterion listing for original ASPECTSS framework with concise per-criterion definitions; confirms framework described as "first evidence-based design guidelines worldwide for ASD built environments"; used as both assessment and design development tool; developed over a decade of research; cites Mostafa (2008) for escape spaces empirical evidence; confirms "greenhouse effect" avoidance via graduated stimulus weaning
+- **No new pages created**
+- **Pages updated (1):**
+  - `pages/aspectss-design-index.md` — added source; expanded Summary with "first evidence-based guidelines worldwide" and "assessment + design development tool" framing; replaced incomplete criteria table with official 7-criterion table including per-criterion descriptions; updated acronym todo to reflect official page confirms 7 criteria with no P criterion identified
+
+---
+
+## 2026-04-19 18:00 — Ingest: The impact of ASPECTSS-based design intervention in autism school design: a case study
+
+- **File ingested:** `raw/The impact of ASPECTSS-based design intervention in autism school design_ a case study.md` (Mostafa, Sotelo, Honsberger×2, Brooker Lozott & Shanok, 2023-07-24, Emerald Architecture)
+- **Key content:** Mixed-methods POE case study at Els for Autism / The Learning Academy (Jupiter, FL); five ASPECTSS retro-fit interventions evaluated via staff survey (n=45), structured observation (compliant vs. control classroom), and thematic interviews (n=7); overall Likert mean M=2.34 favourable (p<0.001); 9/12 items significant; single unfavourable item (student independent navigation via colour-coding); transition pods adopted for unintended social/reward functions; ASPECTSS 2.0 described with 8 new criteria; cross-framework alignment with WELL, Barrett et al., Lackney confirmed
+- **New pages created (2):**
+  - `pages/mostafa-et-al-2023-aspectss-case-study.md` — paper page with full methods, findings, literature alignment table, and limitations
+  - `pages/post-occupancy-evaluation.md` — method page for POE as diagnostic + outcome tool in ASPECTSS research
+- **Pages updated (4):**
+  - `pages/aspectss-design-index.md` — added source; replaced vague "Expanded 18-Criterion Version" with ASPECTSS 2.0 section (8 named new criteria + discrepancy todo); added Empirical Evidence section citing 2023 case study; added links to new pages
+  - `pages/magda-mostafa.md` — added source; expanded ELS Center entry with POE detail, 2023 paper, and co-author names
+  - `pages/autism-friendly-design.md` — added source; added Cross-Framework Alignment section (WELL, Barrett, Lackney alignment; neurotypical benefit evidence)
+  - `_index.md` — 2 new entries added
+
+---
+
+## 2026-04-19 15:00 — Ingest: Autism friendly design – an interview with Magda Mostafa
+
+- **File ingested:** `raw/Autism friendly design – an interview with Magda Mostafa.md` (Cities People Love, Magda Mostafa, August 2021)
+- **Key content:** Interview covering: strength-based vs. charitable autism design framing; healthcare outcomes gap and space-anxiety mechanism; inclusive design workshop adaptations; SAP Autism at Work (2013); normative bias in design research tools; policy/legislation gap; "good design is cheaper than bad design"; universal benefit claim articulated directly; MIXDesign Neurodiverse Studio affiliation
+- **New pages created (3):**
+  - `pages/autism-healthcare-outcomes.md` — finding: worse health outcomes for autistic people; healthcare space anxiety as design-responsive cause
+  - `pages/strength-based-approach-autism-design.md` — concept: deficit/charitable framing vs. strength-based, social-model-aligned approach; user-as-expert design principle
+  - `pages/sap-autism-at-work.md` — entity: SAP's 2013 workplace autism inclusion initiative; first major tech-sector program
+- **Pages updated (5):**
+  - `pages/magda-mostafa.md` — added source; added MIXDesign Neurodiverse Studio (NYC) co-director role
+  - `pages/autism-friendly-design.md` — added source; added Policy and Sector Context section (legislation gap, healthcare, economic argument, scheduling); added Design Research Process section (workshop adaptations, strength-based framing); updated Limitations; added new Related links
+  - `pages/design-for-autism-design-for-all.md` — added source; added Direct Articulation section with Mostafa (2021) quote on autism as "heightened manifestation"; added elderly/dementia/post-COVID overlap
+  - `pages/inclusive-research-methods.md` — added source; added three claims on autism-specific workshop adaptations (predictable agendas, multimodal engagement, user/expert flip)
+  - `pages/autism-lifespan-design.md` — source already covered; no changes needed (interview reinforces existing content without new facts)
+- **Index updated:** 3 new entries added
+
+---
+
 ## 2026-04-19 — Ingest: Autistic Imaginaries of Architectural Space, Venice Architecture Biennale 2021
 
 - **File ingested:** `raw/Autistic Imaginaries of Architectural Space, Venice Architecture Biennale, 2021, Magda Mostafa.md` (YouTube video clipping, Magda Mostafa, 2021-06-01)
@@ -13,6 +56,20 @@ Append-only chronological record of ingest, query-promotion, and lint operations
   - `pages/aspectss-design-index.md` — added source to frontmatter; added exhibition dates (May 22 – November 21, 2021), curatorial ethos quote, and www.autism.archi reference to Venice Biennale 2021 section
   - `pages/magda-mostafa.md` — added source to frontmatter
 - **Index:** no changes needed (no new pages)
+
+---
+
+## 2026-04-19 — Ingest: EXHIBITIONS.md
+
+- **File ingested:** `raw/EXHIBITIONS.md` (web clipping from autism.archi/aspectss-exhibitions, 2026-04-19)
+- **Key content:** Exhibition descriptions for two ASPECTSS® Venice Biennale installations — (1) 2023 Palazzo Mora "A Case for Sensory Decolonisation: Autistic Escape" supported by Progressive Architects and AUC; (2) 2021 Palazzo Bembo "Autistic Imaginaries of Architectural Space: The World Through the Lens of Autism"; full exhibition text for sensory colonisation thesis, EscapeScapes, Sensory Atlas, and visitor survey
+- **Assessment:** Content overlaps substantially with `raw/ASPECTSS_EXHIBITIONS.md` previously ingested. All entities and concepts (sensory-decolonisation, escapescapes, sensory-atlas, aspectss-design-index, magda-mostafa, venice biennale 2021/2023) already have dedicated wiki pages. No new facts or entities identified beyond what is documented.
+- **No new pages created**
+- **Pages updated (3) — source added to frontmatter only:**
+  - `pages/aspectss-design-index.md`
+  - `pages/sensory-decolonisation.md`
+  - `pages/magda-mostafa.md`
+- **Index:** no changes needed
 
 ---
 
@@ -184,6 +241,19 @@ Append-only chronological record of ingest, query-promotion, and lint operations
   - Added `raw/ASPECTSS.md` to `sources:` frontmatter of `pages/autism-friendly-design.md` (existing page already covers Mostafa's ASPECTSS™ framework adequately)
   - No new pages created (insufficient source content)
 - **Todo:** `> [!todo] needs-conversion: raw/ASPECTSS.md — web clip captured no body content; revisit https://www.autism.archi/aspectss to extract ASPECTSS acronym definitions and design principles for a dedicated `pages/aspectss-design-index.md` page`
+
+---
+
+## 2026-04-19 — Ingest: Relief Maps: a tool for understanding intersectional experiences of place
+
+- **File ingested:** `raw/Relief Maps_ a tool for understanding intersectional experiences of place.md` (Cities People Love web clipping, Maria Rodó-Zárate, August 2021)
+- **Key content:** Relief Maps digital tool for visualising emotional dimensions of urban inequality across intersecting social axes; doctoral research origins (Manresa youth study); emotional (not physical) restrictions to urban access; feminist cartographies and Situa App (in development); Your Ground map (Monash XYX Lab)
+- **Pages created (4):**
+  - `pages/relief-maps.md` — method page; free-access digital tool; three-dimension framework (social/psychological/geographical); quantitative + qualitative data; applications; Situa and Your Ground documented
+  - `pages/maria-rodo-zarate.md` — person page; Serra Húnter Fellow, University of Barcelona; developer of Relief Maps; doctoral research findings on gender, sexuality, and urban fear
+  - `pages/intersectionality.md` — concept page; multiple social structures intersecting to produce compounded place-specific experiences; non-essentialist framing
+  - `pages/feminist-geographies.md` — concept page; field foregrounding emotional/embodied/intersectional dimensions of urban experience; Mei Po Kwan feminist cartographies noted
+- **Index updated:** four new entries added to `_index.md`
 
 ---
 

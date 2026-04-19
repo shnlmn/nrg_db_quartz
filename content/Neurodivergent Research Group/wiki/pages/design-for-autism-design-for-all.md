@@ -1,6 +1,6 @@
 ---
 type: concept
-sources: ["raw/When We Design for Autism, We Design for Everyone.md"]
+sources: ["raw/When We Design for Autism, We Design for Everyone.md", "raw/Autism friendly design – an interview with Magda Mostafa.md"]
 updated: 2026-04-19
 ---
 
@@ -19,6 +19,12 @@ Mostafa acknowledges this "sounds like a very romantic notion" and that "until w
 The Venice Biennale 2023 escape space installation gathered visitor feedback on the calming effect of stepping into a sensory refuge within a simulated overstimulating cityscape. Preliminary results: both autistic and non-autistic visitors reported a sense of calm at almost the same levels. This is early-stage data, not peer-reviewed [[raw/When We Design for Autism, We Design for Everyone]].
 
 See also [[sensory-refuge#Cross-Neurotype Efficacy]].
+
+## Direct Articulation (Mostafa, 2021)
+
+> "Autism is just a heightened manifestation of challenges that most people have about processing their environment or engaging with sensory stimulation around them. Autism can be seen as an exaggerated focus on these elements, so when you tackle the problem from that perspective you can create much friendlier, softer, respectful, and comfortable spaces for everyone." [[raw/Autism friendly design – an interview with Magda Mostafa.md]]
+
+Benefits extend beyond autistic individuals to other groups with overlapping sensory/cognitive needs: the elderly, people with dementia, immunocompromised individuals in post-COVID contexts [[raw/Autism friendly design – an interview with Magda Mostafa.md]].
 
 ## Mechanism
 

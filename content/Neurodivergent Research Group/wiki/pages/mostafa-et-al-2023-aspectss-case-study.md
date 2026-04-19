@@ -1,0 +1,113 @@
+---
+type: paper
+sources: ["raw/The impact of ASPECTSS-based design intervention in autism school design_ a case study.md"]
+updated: 2026-04-19
+---
+
+# Mostafa Et Al 2023 ASPECTSS Case Study
+
+## Summary
+
+Mostafa, Sotelo, Honsberger, Honsberger, Brooker Lozott & Shanok (2023) report a mixed-methods case study assessing the efficacy of [[aspectss-design-index|ASPECTSS]]-informed design interventions at a K-12 public charter school for autistic students (Els for Autism / The Learning Academy, Jupiter, Florida). Five retro-fit interventions were evaluated through staff survey, structured classroom observations, and thematic interviews. Overall results show positive staff perception of all four major intervention categories; one wayfinding item did not reach significance.
+
+Published 2023-07-24 in *Architecture* (Emerald Insight), DOI: 10.1108/ARCH-11-2022-0258.
+
+## Study Context
+
+- **Site:** K-12 autism charter school split into two campuses — PreK–14 and 14–21; associated with Els for Autism Foundation / The Learning Academy at The Els Center of Excellence, Jupiter, FL
+- **Design basis:** ASPECTSS [[post-occupancy-evaluation|Post-Occupancy Evaluation]] conducted in 2018 (Mostafa 2018), expanded with additional literature-sourced concepts (color, wayfinding)
+- **Design interventions implemented:**
+  1. Colour-coding based navigation (hallways)
+  2. Acoustical treatments in key circulation spaces
+  3. Transition alcoves ("purple pods") at classroom entries
+  4. Classroom reorganisation using compartmentalization principles (modular template)
+  5. Escape/de-escalation spaces (in-class and whole-school)
+
+## Methods
+
+Three triangulated instruments deployed 18 months post-implementation:
+
+| Instrument | Sample | Notes |
+|---|---|---|
+| Staff survey | 125 sent → 45 responses (36%) | 20 questions; 12 Likert (5-point), 5 multiple choice, 3 yes/no; analysed via one-sample t-tests in IBM SPSS v28 |
+| Structured observations | 2 classrooms × 30 min samples | Modified-compliant vs. control (non-compliant); observer behind one-way glass; teachers not informed of specific observation time |
+| Thematic interviews | 7 interviews (COO, principals, teachers, behaviour services manager) | Two rounds by design architect; thematic content analysis |
+
+**Survey coding:** Strongly agree = 1 … Strongly disagree = 5; favourable score < 3.
+
+## Key Findings
+
+### Survey
+- Overall Likert mean: **M = 2.34 (SD = 0.52)**, significantly below neutral, *t*(36) = −7.63, *p* < 0.001
+- 9 of 12 Likert items individually significant and favourable (p < 0.001)
+- Topics with significant agreement: colour scheme facilitating visitor navigation; acoustics mitigating sound magnification; classroom organisation enhancing learning; de-escalation zones improving behaviour management
+- **Single non-significant / unfavourable item:** Q2 — "colour scheme used as prompt for *student* independent navigation" (M = 3.50, SD = 0.62, *t*(17) = 3.43, *p* = 0.003); staff attributed this to students lacking independent hallway navigation opportunities
+- Most common open-ended response: "students are moving more efficiently and independently"
+- Only 14/27 staff who received classroom layout packets actually used them; layout adoption was incomplete
+
+### Observations (Compliant vs. Control classroom)
+
+**ASPECTSS-compliant classroom (PreK, 5–6 yrs, n=8 students):**
+- 2 self-stimulatory behaviour instances; both resolved within classroom using existing compartments (group table → teacher area with bouncy ball)
+- U-shaped table arrangement allowed teacher sight-lines to all students; aides distributed equidistantly
+- Modular layout used agile, layered escape: formal escape space reserved for acute needs; teacher area served as tertiary de-escalation; storage kept items out of sight
+
+**Control classroom (PreK, 6–8 yrs, n=9 students):**
+- 2 students in escape space throughout observation (space fully occupied)
+- 1 additional student required external transition pod due to in-class space being occupied
+- 2 students seated with backs to teacher due to desk cluster arrangement
+- Unsecured storage bins on tables created visual distraction
+- Screen in teacher area created ambiguity between activity/reward functions
+
+### Interview Themes (n=7 interviews)
+1. **Transition pods expanded beyond intended function** (4/7): used as social spaces; staff work areas; student-requested positive reinforcement ("reward time") — including student-initiated conversations with staff, suggesting pods afforded social opportunity
+2. **Modular classroom template enabled push-in therapy** (3/7): individual therapies brought in-class; infrastructure for parent/child training in early intervention
+3. **Increased student independence** (2/7): less distraction, more on-task in compliant classrooms
+
+**Additional design guidance surfaced in interviews:**
+- Distinguish *intended sensory level* (design target) vs. *operational sensory level* (generated by activity) for sensory zoning
+- Provide outdoor access for proprioceptive/vestibular needs
+- Expand furniture to include bounce chairs, swings, yoga slings/hammocks
+
+## Literature Alignment
+
+The paper maps ASPECTSS and ASPECTSS 2.0 against six external frameworks:
+
+| External framework | Key aligned ASPECTSS concepts |
+|---|---|
+| McAllister & Li (2012) — Vitruvian school-as-micro-city | Wayfinding ↔ sensory zoning; place/legibility ↔ spatial sequencing; atmosphere/quiet ↔ acoustics |
+| Kanakri et al. (2017a/b) — acoustics + repetitive behaviour | Acoustics, sensory zoning, transitions, escape, compartmentalization |
+| Barrett et al. (2015) — school design accounts for 16% of pupil learning | Light ↔ lighting; ownership/flexibility ↔ escape/compartmentalization; colour ↔ ASPECTSS 2.0 colour |
+| Lackney (2000) — 33 educational design principles | Safety; clustering ↔ compartmentalization; privacy niches ↔ escape; acoustics |
+| WELL Building Standard (Comfort Features 72–84) | Acoustics, thermal comfort, lighting, olfactory qualities |
+| Maxwell & Chmielewski (2008) — personalisation and self-esteem | Tackable bulletin boards as dual-purpose acoustical/display surfaces |
+
+**Cross-framework finding:** All ASPECTSS and ASPECTSS 2.0 criteria align with at least one other framework; design-for-autism strategies are unlikely to create barriers for neurotypical users and may actively benefit them.
+
+## Limitations
+
+- Single school site; findings cannot yet be generalised
+- Staff perceptions only — no student self-report or biometric measures (heart-rate, wearable stress indicators recommended for future triangulation)
+- Teachers aware of design changes; reporting bias cannot be eliminated
+- Survey response rate 36% (45/125)
+- Only half of staff who received classroom templates used them, introducing fidelity confound
+
+## Implications
+
+- Provides one of the first empirical, post-implementation assessments of ASPECTSS in a real school setting
+- Preliminary evidence that ASPECTSS design affordances generalise to social skill development (unprompted student-initiated conversations in transition pods)
+- Supports codification of autism design strategies for wider inclusive/universal design application
+- Recommends including autistic students (not only staff) in future evaluation
+
+## Related
+
+- [[aspectss-design-index]]
+- [[magda-mostafa]]
+- [[autism-friendly-design]]
+- [[post-occupancy-evaluation]]
+- [[sensory-zoning]]
+- [[sensory-refuge]]
+- [[design-for-autism-design-for-all]]
+- [[neuro-inclusive-design]]
+- [[sensory-processing-autism]]
+- [[teacch]]

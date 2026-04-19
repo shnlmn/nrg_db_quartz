@@ -1,6 +1,6 @@
 ---
 type: method
-sources: [raw/ASPECTSS.md, "raw/The Autism Design Index.md", raw/ASPECTSS_EXHIBITIONS.md, raw/PROJECTS.md, "raw/Sensory Escape - a walkthrough.md", "raw/Identifying landscapes of sensory escape.md", "raw/Designkriterier til arkitektur, der rummer autisme.md", "raw/When We Design for Autism, We Design for Everyone.md", "raw/An Interview with Magda Mostafa_ Pioneer in Autism Design.md", "raw/Autistic Imaginaries of Architectural Space, Venice Architecture Biennale, 2021, Magda Mostafa.md"]
+sources: [raw/ASPECTSS.md, "raw/The Autism Design Index.md", raw/ASPECTSS_EXHIBITIONS.md, raw/EXHIBITIONS.md, raw/PROJECTS.md, "raw/Sensory Escape - a walkthrough.md", "raw/Identifying landscapes of sensory escape.md", "raw/Designkriterier til arkitektur, der rummer autisme.md", "raw/When We Design for Autism, We Design for Everyone.md", "raw/An Interview with Magda Mostafa_ Pioneer in Autism Design.md", "raw/Autistic Imaginaries of Architectural Space, Venice Architecture Biennale, 2021, Magda Mostafa.md", "raw/The impact of ASPECTSS-based design intervention in autism school design_ a case study.md", "raw/autism.archi-The Autism ASPECTSS Design Index is the first set of evidence based design guidelines worldwide to ad.md"]
 updated: 2026-04-19
 ---
 
@@ -8,11 +8,11 @@ updated: 2026-04-19
 
 ## Summary
 
-The ASPECTSS® Design Index is an autism-specific architectural design framework developed by [[magda-mostafa|Magda Mostafa]] in 2013 at The American University in Cairo (in partnership with Progressive Architects). It provides a structured lens for conceiving autistic space, premised on the value of autistic insight and the view of architectural environments through an autistic perceptual model. Mostafa's authorship is confirmed across multiple applied projects listed in [[raw/PROJECTS]].
+The ASPECTSS® Design Index is the first set of evidence-based design guidelines worldwide to address built environments for individuals with Autism Spectrum Disorder [[raw/autism.archi-The Autism ASPECTSS Design Index is the first set of evidence based design guidelines worldwide to ad.md]]. Developed by [[magda-mostafa|Magda Mostafa]] over a decade of research, formally published in 2013/2014 at The American University in Cairo (in partnership with Progressive Architects), it comprises seven criteria proposed as facilitative for ASD design. It is used as both an assessment tool and a design development tool. It provides a structured lens for conceiving autistic space, premised on the value of autistic insight and the view of architectural environments through an autistic perceptual model. Mostafa's authorship is confirmed across multiple applied projects listed in [[raw/PROJECTS]].
 
 ## ASPECTSS Acronym
 
-> [!todo] verify: ASPECTSS acronym — P criterion still unresolved. The 2013 ArchDaily interview explicitly names all 7 criteria as: Acoustics, Spatial sequencing, Escape spaces, Compartmentalization, Transition spaces, Sensory zoning, Safety (A-S-E-C-T-S-S) with no P criterion mentioned [[raw/An Interview with Magda Mostafa_ Pioneer in Autism Design.md]]. The acronym ASPECTSS has 8 letters. Possible explanations: (1) P was added in a later version; (2) the acronym maps non-one-to-one (e.g., "Spatial" covers both S and P slots); (3) a criterion was renamed. Revisit https://www.autism.archi/aspectss for current definitive listing.
+> [!todo] verify: ASPECTSS acronym — P criterion unresolved. The official autism.archi/aspectss page (as of 2026-04-19) lists exactly 7 criteria: Acoustics, Compartmentalization, Safety, Spatial Sequencing, Transitions, Escape Space, Sensory Zoning — no P criterion [[raw/autism.archi-The Autism ASPECTSS Design Index is the first set of evidence based design guidelines worldwide to ad.md]]. The 2013 ArchDaily interview independently confirms the same 7 criteria [[raw/An Interview with Magda Mostafa_ Pioneer in Autism Design.md]]. The acronym ASPECTSS has 8 letters; P remains unexplained by any available source. Possible: (1) acronym maps non-one-to-one ("Spatial Sequencing" covers both S and P slots); (2) a criterion was renamed and the acronym was not updated; (3) a criterion is missing from public documentation.
 
 > [!todo] verify: Publication year discrepancy — existing sources reference 2013 development at AUC; Mostafa states "in 2014, all of that came together when we published The Autism ASPECTSS Design Index" (Metropolis 2023). Likely 2013 = research/development, 2014 = formal publication.
 
@@ -24,28 +24,37 @@ A common misconception: that ASPECTSS advocates for sterile, neutral, stimulus-f
 
 ## Seven Original Criteria
 
-Mostafa describes seven architectural criteria as the original ASPECTSS framework [[raw/When We Design for Autism, We Design for Everyone]]:
+Mostafa describes seven architectural criteria as the original ASPECTSS framework [[raw/When We Design for Autism, We Design for Everyone]]. The official autism.archi listing [[raw/autism.archi-The Autism ASPECTSS Design Index is the first set of evidence based design guidelines worldwide to ad.md]] confirms all seven with the following definitions:
 
-| # | Criterion | Description |
+| # | Criterion | Official Description (autism.archi) |
 |---|---|---|
-| 1 | **Acoustics** | Mitigating and managing noise; consistently the first issue raised in stakeholder engagement with parents, teachers, and autistic students |
-| 2 | **Spatial Sequencing** | Designing spaces as experienced through movement — entry, navigation/wayfinding, corridors, classrooms — not as static vessels |
-| 3 | **[P — unconfirmed]** | See todo above |
-| 4 | **Escape** | Building in moments of retreat; rejecting binary in/out thinking in favour of intermediate refuge zones |
-| 5 | **Compartmentalization** | Breaking spaces into manageable, sensory-discreet zones containing only the stimulation required for that activity |
-| 6 | **Transitions** | Creating spatial space for adjustment so people are not expected to shift dramatically and suddenly between experiences |
-| 7 | **Sensory Zoning** | Designing spaces through their sensory qualities, not only their functional qualities |
-| 8 | **Safety** | Physical safety AND architecture's role in mental health and psychological safety |
+| 1 | **Acoustics** | Acoustical environment controlled to minimise background noise, echo and reverberation; level of control varies by required user-focus and severity of autism; avoids "greenhouse effect" by allowing graduated weaning toward typical environments |
+| 2 | **Spatial Sequencing** | Areas organised in logical order based on typical scheduled use; seamless one-way circulation from activity to activity with minimal disruption; capitalises on affinity for routine and predictability |
+| 3 | **Escape Space** | Neutral-sensory respite spaces (small partitioned area, crawl space) in quiet sections; customisable by user; empirical support for positive effect in learning environments (Mostafa, 2008) |
+| 4 | **Compartmentalization** | Sensory environment of each activity defined and limited; single clearly-defined function per compartment; separation through furniture, flooring, level change, or lighting variance; sensory qualities serve as spatial cues |
+| 5 | **Transitions** | Transition zones enabling sensory recalibration between stimulus levels; ranges from a distinct node to a full sensory room; facilitates both Spatial Sequencing and Sensory Zoning |
+| 6 | **Sensory Zoning** | Spaces organised by sensory quality rather than functional zoning; "high-stimulus" and "low-stimulus" groupings with transition zones; prioritises the sensory over the functional in spatial arrangement |
+| 7 | **Safety** | Physical safety (hot water fittings, no sharp edges/corners); elevated concern for autistic users who may have altered environmental perception |
 
-## Expanded 18-Criterion Version
+## Expanded Version (ASPECTSS 2.0)
 
-The original seven criteria were later expanded to 18, adding [[raw/When We Design for Autism, We Design for Everyone]]:
+> [!todo] verify: Source discrepancy — `raw/When We Design for Autism, We Design for Everyone` cites 18 total criteria; Mostafa (2021) *Autism Friendly University Design Guide* and the 2023 case study both describe 7 original + 8 additions = **15 criteria**. Possible that additional criteria exist in the 2023+ version or that one source counted sub-criteria differently.
 
-- Color and lighting
-- Furniture
-- Materiality
-- Wayfinding and navigation
-- Technology (mindful and intentional deployment)
+The ASPECTSS 2.0 Design Index was formally developed for the Dublin City University Autism Friendly University Design Guide (Mostafa 2021). It adds 8 new concepts to the original 7 [[raw/When We Design for Autism, We Design for Everyone]], [[raw/The impact of ASPECTSS-based design intervention in autism school design_ a case study.md]]:
+
+1. **Colour** — use of colour for navigation, sensory regulation, and spatial identity
+2. **Lighting** — type, level, and controllability of artificial and natural light
+3. **Materiality** — surface materials affecting tactile, auditory, and visual experience
+4. **Furniture** — typologies supporting proprioceptive engagement (bounce chairs, swings) and modular reconfiguration
+5. **Wayfinding and navigation** — colour-coding, iconographic, and multi-sensory systems supporting independent movement
+6. **Technology and smart systems** — intentional deployment of assistive and environmental-control technology
+7. **Sensory economics** — balancing sensory demand and supply across a building or campus
+8. **Programming and operation** — scheduling, staffing, and operational practices aligned with design intent
+
+These additions arose from participatory research with autistic DCU students (2020–2021) and were cross-validated against multiple external frameworks including the WELL Building Standard Comfort Features 72–84 (acoustics, thermal, lighting, olfactory) and Barrett et al. (2015) school design criteria.
+
+**Earlier expanded version (from `raw/When We Design for Autism, We Design for Everyone`):**  
+Also cites: Color and lighting; Furniture; Materiality; Wayfinding and navigation; Technology. The "18-criterion" count from that source remains unverified against ASPECTSS 2.0's 15-criterion count.
 
 ## Core Premises
 
@@ -103,11 +112,22 @@ The index explicitly avoids proposing a "static universal sensory whiteout." Tha
 
 Mostafa frames **independence** (not merely access) as the correct objective for autism design. Architecture's leverage: the built environment supplies the majority of sensory input (light, acoustics, textures, colors, spatial configurations, ventilation). Appropriate design manipulates that input to help autistic users cope with and respond to their environment without constant external support [[raw/An Interview with Magda Mostafa_ Pioneer in Autism Design.md]].
 
+## Empirical Evidence
+
+The most direct published case study of ASPECTSS intervention outcomes is [[mostafa-et-al-2023-aspectss-case-study]] (Mostafa et al. 2023), a mixed-methods [[post-occupancy-evaluation|POE]] at Els for Autism / The Learning Academy (Jupiter, FL). Key findings:
+
+- Staff survey overall Likert mean M = 2.34 (favourable, p < 0.001) across acoustics, colour navigation, classroom organisation, and de-escalation zone items
+- Structured observations: ASPECTSS-compliant classroom resolved two behaviour incidents internally; control classroom required external transition pod due to overcrowded in-class escape space
+- Interview finding: transition pods (purple pods) extended beyond design intent — used as social spaces, staff work spaces, and student-requested reward — suggesting design affords *unintended beneficial functions*
+- Preliminary evidence: autism-specific design strategies (ASPECTSS) align with neurotypical comfort frameworks (WELL Standard, Barrett school-design criteria, Lackney principles), supporting [[design-for-autism-design-for-all]] thesis
+
 ## Related
 
 - [[magda-mostafa]]
 - [[stuart-neilson]]
 - [[autism-friendly-design]]
+- [[mostafa-et-al-2023-aspectss-case-study]]
+- [[post-occupancy-evaluation]]
 - [[sensory-decolonisation]]
 - [[sensory-refuge]]
 - [[sensory-zoning]]
