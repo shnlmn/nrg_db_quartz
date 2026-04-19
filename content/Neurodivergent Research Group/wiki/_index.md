@@ -63,12 +63,16 @@ Catalog of all wiki pages. Maintained by the LLM. Do not hand-edit.
 - [[landscape-architecture-neurodiversity]] — Field practice of designing outdoor built environments supporting sensory, cognitive, and social needs of neurodivergent individuals
 - [[nait-sensory-checklist]] — Informal assessment tool for evaluating sensory preferences in adults undergoing neurodevelopmental assessment across six sensory domains
 - [[aspectss-design-index]] — Autism-specific architectural design framework (Mostafa 2013, AUC) providing structured spatial constructs for autistic space: sensory seeking, refuge, and transition
-- [[magda-mostafa]] — Autism design consultant and architect; developer of ASPECTSS® Design Index; applied across five documented international projects (2015–2021)
+- [[magda-mostafa]] — Autism design consultant and architect; developer of ASPECTSS® Design Index; applied across five documented international projects (2015–2021); co-chair UIA 2023 Design for Inclusivity panel
+- [[ruth-baumeister]] — Associate Professor of Theory and History, Aarhus School of Architecture; co-chair of Design for Inclusivity panel at UIA World Congress 2023
+- [[uia-world-congress-2023]] — International Union of Architects congress, Copenhagen July 2–6 2023; six science panels mapping architecture to 17 UN SDGs; 296 papers from 77 countries
 - [[stuart-neilson]] — Autistic researcher and artist (Cork, Ireland); developed motion intensity heatmap methodology; collaborator with Magda Mostafa on Venice Biennale 2023 installation
 - [[judy-singer]] — Australian sociologist who coined the term "neurodiversity"; framed neurological variation as natural human diversity
 - [[motion-intensity-heatmap]] — Method for mapping pedestrian flow intensity by accumulating pixel changes across video frames; reveals sensory refuges and navigation gradients in public space
 - [[sensory-wayfinding]] — Practice of navigating urban space by attending to sensory intensity gradients to minimise overload while retaining access to desired destinations
 - [[mostafa-2022-architecture-for-all]] — Mostafa (2022) position piece articulating the equity principle for architectural practice and the shift to identity-first autism discourse
+- [[design-for-autism-design-for-all]] — Thesis (Mostafa) that designing for autistic sensory needs produces environments better for everyone; supported by Venice Biennale 2023 pilot data
+- [[autism-lifespan-design]] — Concept that autistic individuals need built environment support across all life stages; design waves from K-12 → university → workplace → assisted living
 - [[sensory-decolonisation]] — Concept that capitalistic city sensoryscapes are colonised commodities burdening autistic citizens; design goal of restoring sensory escape and refuge at urban scale
 - [[autism-friendly-design]] — Specialized design approach (e.g., Mostafa's ASPECTSS® framework) for creating autistic-inclusive built environments, primarily indoor
 - [[kathryn-finnigan]] — Researcher and landscape architect (University of Colorado) who developed the Sensory Responsive Environments Framework through qualitative study of neurodivergent experiences

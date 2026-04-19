@@ -1,6 +1,6 @@
 ---
 type: method
-sources: [raw/ASPECTSS.md, "raw/The Autism Design Index.md", raw/ASPECTSS_EXHIBITIONS.md, raw/PROJECTS.md, "raw/Sensory Escape - a walkthrough.md", "raw/Identifying landscapes of sensory escape.md", "raw/Designkriterier til arkitektur, der rummer autisme.md"]
+sources: [raw/ASPECTSS.md, "raw/The Autism Design Index.md", raw/ASPECTSS_EXHIBITIONS.md, raw/PROJECTS.md, "raw/Sensory Escape - a walkthrough.md", "raw/Identifying landscapes of sensory escape.md", "raw/Designkriterier til arkitektur, der rummer autisme.md", "raw/When We Design for Autism, We Design for Everyone.md"]
 updated: 2026-04-19
 ---
 
@@ -12,7 +12,40 @@ The ASPECTSS® Design Index is an autism-specific architectural design framework
 
 ## ASPECTSS Acronym
 
-> [!todo] verify: ASPECTSS acronym partially resolved from raw/Identifying landscapes of sensory escape.md (Neilson 2023-11-23). Confirmed 6 of 8 letters: **A**coustics, **S**patial Sequencing, **E**scape Space, **C**ompartmentalization, **T**ransitions, **S**ensory Zoning. Two letters (P and final S) remain unconfirmed. Revisit https://www.autism.archi/aspectss for complete definitions. Note: rumsans.dk source confirms **7** design criteria total (not 8); the acronym has 8 letters but one letter may map to two criteria or share a construct.
+> [!todo] verify: ASPECTSS acronym mostly resolved. Confirmed 7 of 8 letters: **A**coustics, **S**patial Sequencing, **E**scape, **C**ompartmentalization, **T**ransitions, **S**ensory Zoning, **S**afety (final S confirmed via [[raw/When We Design for Autism, We Design for Everyone]]). **P** remains unconfirmed across all sources — revisit https://www.autism.archi/aspectss. Note: rumsans.dk source and Mostafa's Metropolis interview both confirm **7** original design criteria; the acronym has 8 letters, suggesting P may share a construct or the acronym maps non-one-to-one.
+
+> [!todo] verify: Publication year discrepancy — existing sources reference 2013 development at AUC; Mostafa states "in 2014, all of that came together when we published The Autism ASPECTSS Design Index" (Metropolis 2023). Likely 2013 = research/development, 2014 = formal publication.
+
+## Framework vs. Guidelines
+
+Mostafa explicitly resists calling ASPECTSS "guidelines" because no single strategy works for everyone on the spectrum. She frames it as "a framework of issues, lenses through which you need to think about the built environment." This distinction guards against prescriptive application and preserves design flexibility [[raw/When We Design for Autism, We Design for Everyone]].
+
+A common misconception: that ASPECTSS advocates for sterile, neutral, stimulus-free environments. Mostafa's stated position is the opposite — she advocates for *flexibility and customizability* that allows simultaneously for sensory seeking, sensory avoiding, and sensory regulation. "Space itself as a spectrum of sensory affordances and opportunities."
+
+## Seven Original Criteria
+
+Mostafa describes seven architectural criteria as the original ASPECTSS framework [[raw/When We Design for Autism, We Design for Everyone]]:
+
+| # | Criterion | Description |
+|---|---|---|
+| 1 | **Acoustics** | Mitigating and managing noise; consistently the first issue raised in stakeholder engagement with parents, teachers, and autistic students |
+| 2 | **Spatial Sequencing** | Designing spaces as experienced through movement — entry, navigation/wayfinding, corridors, classrooms — not as static vessels |
+| 3 | **[P — unconfirmed]** | See todo above |
+| 4 | **Escape** | Building in moments of retreat; rejecting binary in/out thinking in favour of intermediate refuge zones |
+| 5 | **Compartmentalization** | Breaking spaces into manageable, sensory-discreet zones containing only the stimulation required for that activity |
+| 6 | **Transitions** | Creating spatial space for adjustment so people are not expected to shift dramatically and suddenly between experiences |
+| 7 | **Sensory Zoning** | Designing spaces through their sensory qualities, not only their functional qualities |
+| 8 | **Safety** | Physical safety AND architecture's role in mental health and psychological safety |
+
+## Expanded 18-Criterion Version
+
+The original seven criteria were later expanded to 18, adding [[raw/When We Design for Autism, We Design for Everyone]]:
+
+- Color and lighting
+- Furniture
+- Materiality
+- Wayfinding and navigation
+- Technology (mindful and intentional deployment)
 
 ## Core Premises
 

@@ -4,6 +4,36 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-04-19 — Ingest: Design for Inclusivity at the UIA World Congress of Architects 2023
+
+- **File ingested:** `raw/Design for Inclusivity at the UIA World Congress of Architects 2023.md` (ArchDaily, Pernille Maria Bärnheim, 2023-06-29)
+- **Note:** Source file truncated — only intro metadata and two paragraphs present; interview body with Mostafa and Baumeister not captured. Open questions added to relevant pages.
+- **Key content extracted:** UIA World Congress 2023 Copenhagen (July 2–6); six science panels mapping architecture to 17 UN SDGs; 296 papers from 750+ submissions across 77 countries; Design for Inclusivity panel co-chaired by Magda Mostafa (AUC) and Ruth Baumeister (Aarhus School of Architecture)
+- **Pages created:**
+  - `pages/ruth-baumeister.md` — new person page; co-chair Design for Inclusivity at UIA 2023
+  - `pages/uia-world-congress-2023.md` — new entity page; six science panels, SDG framing, congress stats
+- **Pages updated:**
+  - `pages/magda-mostafa.md` — added source; added UIA 2023 co-chair role; confirmed Professor of Design title at AUC
+- **Index updated:** `ruth-baumeister`, `uia-world-congress-2023` entries added; `magda-mostafa` entry updated
+
+---
+
+## 2026-04-19 — Ingest: When We Design for Autism, We Design for Everyone
+
+- **File ingested:** `raw/When We Design for Autism, We Design for Everyone.md` (Metropolis Magazine interview, Jaxson Stone with Magda Mostafa, 2023-10-06)
+- **Key content:** Mostafa's origin story; full 7 ASPECTSS original criteria with descriptions; expanded 18-criterion version; "framework not guidelines" framing; Autism Friendly University Design Guide (DCU) co-design process; autism lifespan design waves; autistic adult advocacy gap anecdote; sensory decolonisation concept in Mostafa's own words with steps/elevator analogy; Venice Biennale 2023 pilot data (both autistic and non-autistic visitors reported calm at similar levels)
+- **Pages created:**
+  - `pages/design-for-autism-design-for-all.md` — thesis that autism-centred design benefits the full neurological spectrum; pilot evidence from Venice 2023
+  - `pages/autism-lifespan-design.md` — design waves across the autism lifespan (K-12 → university → workplace → assisted living); advocacy gap for autistic adults
+- **Pages updated:**
+  - `pages/aspectss-design-index.md` — added source; resolved "final S = Safety"; updated todo; added "Framework vs. Guidelines" section; added full 7-criterion table with descriptions; added expanded 18-criterion list; added publication year discrepancy todo
+  - `pages/magda-mostafa.md` — added source; added Origin section; expanded DCU guide entry with co-design details; added "Autism Across the Lifespan" section; added advocacy anecdote
+  - `pages/sensory-decolonisation.md` — added source; added 3 key claims (capitalism framing, steps/elevator analogy, not-empty-cities clarification); added Venice Biennale 2023 Pilot Data section; marked open question about non-autistic groups as addressed
+  - `pages/sensory-refuge.md` — added source; added "Cross-Neurotype Efficacy" section with Venice pilot data
+- **Index updated:** `design-for-autism-design-for-all` and `autism-lifespan-design` entries added
+
+---
+
 ## 2026-04-19 13:40 — Ingest: Designkriterier til arkitektur, der rummer autisme
 
 - **File ingested:** `raw/Designkriterier til arkitektur, der rummer autisme.md` (web clipping from rumsans.dk; Danish popular article on ASPECTSS design criteria)

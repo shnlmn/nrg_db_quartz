@@ -1,7 +1,7 @@
 ---
 type: concept
-sources: [raw/land-13-00636-v2.extracted.md, raw/Sensory_Responsive_Environments_A_Qualitative_Stud.extracted.md, "raw/Identifying landscapes of sensory escape.md"]
-updated: 2026-04-15
+sources: [raw/land-13-00636-v2.extracted.md, raw/Sensory_Responsive_Environments_A_Qualitative_Stud.extracted.md, "raw/Identifying landscapes of sensory escape.md", "raw/When We Design for Autism, We Design for Everyone.md"]
+updated: 2026-04-19
 ---
 
 # Sensory Refuge
@@ -32,6 +32,10 @@ Study participants emphasized the importance of sensory refuges adjacent to or w
 ## Interstitial Refuge in Public Space
 
 [[stuart-neilson|Stuart Neilson]] identifies sensory refuges in city spaces as **interstitial** — small low-intensity pockets within high-traffic zones, often overlooked by urban designers. His [[motion-intensity-heatmap|motion intensity heatmaps]] make these pockets visible: e.g., a small triangular refuge in Campo Santa Maria Formosa (Venice) surrounded by busy pedestrian flow, where children had organically "decolonised" low-intensity real estate. A critical constraint: a refuge must be reachable via a sufficiently low-intensity route to be usable — a refuge surrounded by sensory ridges becomes isolating. See [[sensory-wayfinding]].
+
+## Cross-Neurotype Efficacy
+
+A spatial experiment at the 2023 Venice Architecture Biennale tested whether a brief sensory refuge — a ceiling-mounted escape space installed within a simulated overstimulating cityscape — produced measurable calming effects. Preliminary data from visitor feedback showed that both autistic and non-autistic individuals reported calm at "almost the same levels." This supports the [[design-for-autism-design-for-all]] thesis: sensory refuges benefit the full neurological spectrum, not only autistic users [[raw/When We Design for Autism, We Design for Everyone]].
 
 ## Related
 
