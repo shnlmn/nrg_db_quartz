@@ -64,6 +64,8 @@ Catalog of all wiki pages. Maintained by the LLM. Do not hand-edit.
 - [[nait-sensory-checklist]] — Informal assessment tool for evaluating sensory preferences in adults undergoing neurodevelopmental assessment across six sensory domains
 - [[aspectss-design-index]] — Autism-specific architectural design framework (Mostafa 2013, AUC) providing structured spatial constructs for autistic space: sensory seeking, refuge, and transition
 - [[magda-mostafa]] — Autism design consultant and architect; developer of ASPECTSS® Design Index; applied across five documented international projects (2015–2021)
+- [[stuart-neilson]] — Creator of the 2023 Vimeo walkthrough video of Magda Mostafa's Venice Biennale installation "A Case for Sensory Decolonisation: Autistic Escape"
+- [[mostafa-2022-architecture-for-all]] — Mostafa (2022) position piece articulating the equity principle for architectural practice and the shift to identity-first autism discourse
 - [[sensory-decolonisation]] — Concept that capitalistic city sensoryscapes are colonised commodities burdening autistic citizens; design goal of restoring sensory escape and refuge at urban scale
 - [[autism-friendly-design]] — Specialized design approach (e.g., Mostafa's ASPECTSS® framework) for creating autistic-inclusive built environments, primarily indoor
 - [[kathryn-finnigan]] — Researcher and landscape architect (University of Colorado) who developed the Sensory Responsive Environments Framework through qualitative study of neurodivergent experiences

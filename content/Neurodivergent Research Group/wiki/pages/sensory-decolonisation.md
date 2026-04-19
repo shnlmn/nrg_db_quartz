@@ -1,6 +1,6 @@
 ---
 type: concept
-sources: [raw/ASPECTSS_EXHIBITIONS.md]
+sources: [raw/ASPECTSS_EXHIBITIONS.md, "raw/Sensory Escape - a walkthrough.md"]
 updated: 2026-04-19
 ---
 

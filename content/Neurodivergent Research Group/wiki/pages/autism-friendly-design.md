@@ -1,6 +1,6 @@
 ---
 type: method
-sources: [raw/land-13-00636-v2.extracted.md, raw/Sensory_Responsive_Environments_A_Qualitative_Stud.extracted.md, raw/ASPECTSS.md, raw/ASPECTSS_EXHIBITIONS.md]
+sources: [raw/land-13-00636-v2.extracted.md, raw/Sensory_Responsive_Environments_A_Qualitative_Stud.extracted.md, raw/ASPECTSS.md, raw/ASPECTSS_EXHIBITIONS.md, "raw/Autism Design and an Architecture for All_ Designing for a Differently Abled World.md"]
 updated: 2026-04-19
 ---
 
@@ -9,6 +9,12 @@ updated: 2026-04-19
 ## Summary
 
 Autism-friendly design is a specialized approach within [[neuro-inclusive-design]] that creates built environments (particularly indoor spaces and therapeutic settings) deliberately accommodating the sensory processing, social, and communication characteristics of autistic individuals. Mostafa's (2008, 2014) ASPECTSS™ Design Index is the most cited framework, though broader inclusive approaches extend beyond symptom-management toward celebration of autistic ways of being.
+
+## Discourse Context
+
+- Autism was long viewed as a monolithic, pathologized condition to be cured; this has shifted to a strength-based, identity-first position [[raw/Autism Design and an Architecture for All_ Designing for a Differently Abled World]]
+- The peak cohort diagnosed during the early-2000s awareness surge is reaching adulthood; self-advocacy is an increasingly heard design stakeholder voice [[mostafa-2022-architecture-for-all]]
+- ~1.5% of global population (~120 million) are on the autism spectrum; scale demands architectural response at a systemic, not niche, level [[mostafa-2022-architecture-for-all]]
 
 ## Key Design Guidelines
 

@@ -4,6 +4,33 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-04-19 — Ingest: Sensory Escape - a walkthrough
+
+- **File ingested:** `raw/Sensory Escape - a walkthrough.md` (Vimeo clipping, Stuart Neilson, 2023-11-29, https://vimeo.com/889418692)
+- **Key content:** Walkthrough video of "A Case for Sensory Decolonisation: Autistic Escape" curated by Magda Mostafa, installed at Palazzo Mora (European Cultural Centre) as part of Venice Architectural Biennale 2023. CC Attribution No Derivatives licence.
+- **New content:** Confirms existing wiki documentation of the 2023 Biennale installation. Introduces Stuart Neilson as video creator.
+- **Pages created:**
+  - `pages/stuart-neilson.md` — stub person page; produced Vimeo walkthrough of Venice Biennale 2023 installation; no further biographical detail available in source
+- **Pages updated:**
+  - `pages/aspectss-design-index.md` — added source to frontmatter; added walkthrough video link and [[stuart-neilson]] wikilink to Venice Biennale 2023 section
+  - `pages/sensory-decolonisation.md` — added source to frontmatter
+  - `pages/magda-mostafa.md` — added source to frontmatter
+- **Index updated:** `stuart-neilson` entry added to `_index.md`
+- **Todo:** Stuart Neilson affiliation unknown — `pages/stuart-neilson.md` has open verify todo
+
+---
+
+## 2026-04-19 — Ingest attempt: The Autism Design Index stub
+
+- **File submitted:** `raw/The Autism Design Index.md` (web clipping from https://www.autism.archi/aspectss — "the ASPECTSS Design Index for Autism")
+- **Status:** ⚠️ **STUB** — File contains frontmatter only; no body content captured. Duplicate source URL matches existing stub `raw/ASPECTSS.md` (same URL, same outcome)
+- **Action taken:**
+  - Added `raw/The Autism Design Index.md` to `sources:` frontmatter of `pages/aspectss-design-index.md` for provenance
+  - No new pages created; no index change required
+- **Todo:** Existing `> [!todo] verify` in `pages/aspectss-design-index.md` remains open — ASPECTSS acronym expansion still unavailable from web clips at https://www.autism.archi/aspectss
+
+---
+
 ## 2026-04-19 — Ingest: PROJECTS.md
 
 - **File ingested:** `raw/PROJECTS.md` (web clipping from https://www.autism.archi/aspectss-projects)
@@ -29,6 +56,19 @@ Append-only chronological record of ingest, query-promotion, and lint operations
   - `pages/sensory-refuge.md` — added cross-references to `sensory-decolonisation` and `aspectss-design-index`
 - **Index updated:** two new entries added to `_index.md`
 - **Todo resolved:** pending todo from 2026-04-19 stub ingest for `pages/aspectss-design-index.md` now fulfilled
+
+---
+
+## 2026-04-19 — Ingest: Autism Design and an Architecture for All
+
+- **File ingested:** `raw/Autism Design and an Architecture for All_ Designing for a Differently Abled World.md` (web clipping, Mostafa 2022-02-06, IQD Magazine / autism.archi)
+- **Key content:** Mostafa's equity design principle ("no one has the right to exist more comfortably, safely or effectively in space"); identity-first shift in autism discourse; self-advocacy rise as early-2000s-diagnosed cohort reaches adulthood; 1.5% / ~120 million prevalence figure
+- **Pages created:**
+  - `pages/mostafa-2022-architecture-for-all.md` — new paper page; captures equity principle, identity-first discourse shift, self-advocacy emergence, and prevalence statistic
+- **Pages updated:**
+  - `pages/magda-mostafa.md` — added source to frontmatter; added Design Equity Principle section with "no one has the right..." quote and "architecture must listen" statement
+  - `pages/autism-friendly-design.md` — added source to frontmatter; added Discourse Context section covering identity-first shift, self-advocacy, and prevalence scale
+- **Index updated:** `mostafa-2022-architecture-for-all` entry added to `_index.md`
 
 ---
 

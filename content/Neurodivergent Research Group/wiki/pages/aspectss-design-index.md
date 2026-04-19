@@ -1,6 +1,6 @@
 ---
 type: method
-sources: [raw/ASPECTSS.md, raw/ASPECTSS_EXHIBITIONS.md, raw/PROJECTS.md]
+sources: [raw/ASPECTSS.md, "raw/The Autism Design Index.md", raw/ASPECTSS_EXHIBITIONS.md, raw/PROJECTS.md, "raw/Sensory Escape - a walkthrough.md"]
 updated: 2026-04-19
 ---
 
@@ -33,6 +33,8 @@ The framework identifies three spatial constructs for autistic sensory experienc
 
 ### Venice Biennale 2023 — Palazzo Mora, European Cultural Center
 **"A Case for Sensory Decolonisation: Autistic Escape"**
+
+A walkthrough video of the installation was published 2023-11-29 by [[stuart-neilson|Stuart Neilson]] on Vimeo (CC Attribution No Derivatives): https://vimeo.com/889418692
 
 Two-part installation exploring the dichotomy of autistic spatial experience between stimulation and refuge:
 

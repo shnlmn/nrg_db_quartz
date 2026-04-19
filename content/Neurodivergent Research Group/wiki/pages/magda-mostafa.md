@@ -1,6 +1,6 @@
 ---
 type: person
-sources: [raw/PROJECTS.md, raw/ASPECTSS.md, raw/ASPECTSS_EXHIBITIONS.md]
+sources: [raw/PROJECTS.md, raw/ASPECTSS.md, raw/ASPECTSS_EXHIBITIONS.md, "raw/Autism Design and an Architecture for All_ Designing for a Differently Abled World.md", "raw/Sensory Escape - a walkthrough.md"]
 updated: 2026-04-19
 ---
 
@@ -9,6 +9,10 @@ updated: 2026-04-19
 ## Summary
 
 Magda Mostafa is an autism design consultant and architect, developer of the [[aspectss-design-index|ASPECTSS® Design Index]] (2013, American University in Cairo, in partnership with Progressive Architects). She works internationally as a design consultant applying ASPECTSS principles across school, therapeutic, and community settings.
+
+## Design Equity Principle
+
+Mostafa's stated architectural ethic (2022): "no one has the right to exist more comfortably, safely or effectively in space than anyone else" — it is the architect's responsibility to create built environments affording comfort, safety, and efficacy to the entire spectrum of the human condition. Expressed as "architecture must listen" in response to growing autistic self-advocacy. See [[mostafa-2022-architecture-for-all]].
 
 ## Role and Affiliations
 
