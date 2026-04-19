@@ -63,9 +63,10 @@ Catalog of all wiki pages. Maintained by the LLM. Do not hand-edit.
 - [[landscape-architecture-neurodiversity]] — Field practice of designing outdoor built environments supporting sensory, cognitive, and social needs of neurodivergent individuals
 - [[nait-sensory-checklist]] — Informal assessment tool for evaluating sensory preferences in adults undergoing neurodevelopmental assessment across six sensory domains
 - [[aspectss-design-index]] — Autism-specific architectural design framework (Mostafa 2013, AUC) providing structured spatial constructs for autistic space: sensory seeking, refuge, and transition
-- [[magda-mostafa]] — Autism design consultant and architect; developer of ASPECTSS® Design Index; applied across five documented international projects (2015–2021); co-chair UIA 2023 Design for Inclusivity panel
+- [[magda-mostafa]] — Autism design consultant and architect; developer of ASPECTSS® Design Index; recipient of UIA Friendly and Inclusive Spaces Award 2023; applied across five documented international projects (2015–2021); co-chair UIA 2023 Design for Inclusivity panel
+- [[zakia-shafie]] — Egyptian architect; first female chair of an architectural department in the Middle East; doctoral thesis advisor to Magda Mostafa at Cairo University
 - [[ruth-baumeister]] — Associate Professor of Theory and History, Aarhus School of Architecture; co-chair of Design for Inclusivity panel at UIA World Congress 2023
-- [[uia-world-congress-2023]] — International Union of Architects congress, Copenhagen July 2–6 2023; six science panels mapping architecture to 17 UN SDGs; 296 papers from 77 countries
+- [[uia-world-congress-2023]] — International Union of Architects congress, Copenhagen July 2–6 2023; six science panels mapping architecture to 17 UN SDGs; 296 papers from 77 countries; includes Friendly and Inclusive Spaces Award (2023 recipient: Mostafa, DCU guide)
 - [[stuart-neilson]] — Autistic researcher and artist (Cork, Ireland); developed motion intensity heatmap methodology; collaborator with Magda Mostafa on Venice Biennale 2023 installation
 - [[judy-singer]] — Australian sociologist who coined the term "neurodiversity"; framed neurological variation as natural human diversity
 - [[motion-intensity-heatmap]] — Method for mapping pedestrian flow intensity by accumulating pixel changes across video frames; reveals sensory refuges and navigation gradients in public space

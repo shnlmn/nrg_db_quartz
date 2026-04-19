@@ -4,6 +4,34 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-04-19 — Ingest: Autistic Imaginaries of Architectural Space, Venice Architecture Biennale 2021
+
+- **File ingested:** `raw/Autistic Imaginaries of Architectural Space, Venice Architecture Biennale, 2021, Magda Mostafa.md` (YouTube video clipping, Magda Mostafa, 2021-06-01)
+- **Key content:** Description of "Autistic Imaginaries of Architectural Space: the World through the Lens of Autism" exhibition at Palazzo Bembo, Venice, May 22 – November 21, 2021; curatorial message (autistic lens as snapshot of sensory world); ASPECTSS® as curation lens; ethos of human-centred design; Mostafa's affiliation as Associate Professor at AUC + Autism Design Consultant at Progressive Architects; www.autism.archi reference
+- **No new pages created** — Venice 2021 exhibition already documented in `pages/aspectss-design-index.md`; all entities (Mostafa, ASPECTSS) have existing pages
+- **Pages updated (2):**
+  - `pages/aspectss-design-index.md` — added source to frontmatter; added exhibition dates (May 22 – November 21, 2021), curatorial ethos quote, and www.autism.archi reference to Venice Biennale 2021 section
+  - `pages/magda-mostafa.md` — added source to frontmatter
+- **Index:** no changes needed (no new pages)
+
+---
+
+## 2026-04-19 — Ingest: Magda Mostafa Honored With Friendly and Inclusive Spaces Award
+
+- **File ingested:** `raw/Magda Mostafa Honored With Friendly and Inclusive Spaces Award.md` (AUC news, 2023-06-18)
+- **Pages updated (2):**
+  - `pages/magda-mostafa.md` — added source to frontmatter; added **Recognition** section with UIA Friendly and Inclusive Spaces Award (2023), jury quote, and ArchDaily "world's pre-eminent researcher" description; added AsIAM as co-commissioner of DCU guide (global call for proposals) and Mostafa's direct quote on co-design leadership
+  - `pages/uia-world-congress-2023.md` — added source to frontmatter; added **Awards** section documenting the Friendly and Inclusive Spaces Award category, criteria, recipient (Mostafa, DCU guide), and jury statement
+- **No new pages created** — all entities (Mostafa, UIA, DCU guide) already have coverage; new facts merged into existing pages
+- **Key contributions from source:**
+  - UIA Friendly and Inclusive Spaces Award: recognizes evidence-based design research contributing to improved quality of life through human-centered design of the built environment
+  - Jury on DCU guide: "excellent methodology and application…wide range of design for senses and environmental conditions…manageable guidelines"
+  - DCU guide origin: response to a global call for proposals from DCU and Ireland's National Autism Society (AsIAM); co-designed and led by autistic students, advocates, and leaders
+  - ArchDaily characterization: Mostafa described as "a pioneer" and "the world's pre-eminent researcher" in autism design
+  - Venice Biennale 2023 work confirmed as titled "A Case for Sensory Decolonization: Autistic Escape" (consistent with existing pages)
+
+---
+
 ## 2026-04-19 — Ingest: Design for Inclusivity at the UIA World Congress of Architects 2023
 
 - **File ingested:** `raw/Design for Inclusivity at the UIA World Congress of Architects 2023.md` (ArchDaily, Pernille Maria Bärnheim, 2023-06-29)
@@ -100,6 +128,19 @@ Append-only chronological record of ingest, query-promotion, and lint operations
   - `pages/sensory-refuge.md` — added cross-references to `sensory-decolonisation` and `aspectss-design-index`
 - **Index updated:** two new entries added to `_index.md`
 - **Todo resolved:** pending todo from 2026-04-19 stub ingest for `pages/aspectss-design-index.md` now fulfilled
+
+---
+
+## 2026-04-19 — Ingest: An Interview with Magda Mostafa: Pioneer in Autism Design
+
+- **File ingested:** `raw/An Interview with Magda Mostafa_ Pioneer in Autism Design.md` (ArchDaily interview with Magda Mostafa by Vanessa Quirk, published 2013-10-08)
+- **Key content:** Origin story of Mostafa's autism design research (2002 PhD pivot, Advance School retrofit, zero existing guidelines); Zakia Shafie as thesis advisor; 2008 prospective study significance; explicit 7-criterion ASPECTSS listing (confirming no P in original 2013 version); survival stage concept; greenhouse effect warning and gradual weaning strategy; independence as design goal; EBD philosophy; 2013 institutional affiliations
+- **Pages created:**
+  - `pages/zakia-shafie.md` — new person page; first female chair of an architectural department in the Middle East; doctoral thesis advisor to Mostafa at Cairo University
+- **Pages updated:**
+  - `pages/magda-mostafa.md` — added source to frontmatter; enriched Origin section with Advance School project name, specific 2002 context, Zakia Shafie credit, NAS Communication 2006 article; added 2013 affiliations block; added Survival Stage and Greenhouse Effect section; added Evidence-Based Design Position section
+  - `pages/aspectss-design-index.md` — added source to frontmatter; updated P-unconfirmed todo with 2013 interview evidence (7 criteria listed, no P); added Survival Stage and Greenhouse Effect section; added Independence as Design Goal section
+- **Index updated:** `zakia-shafie` entry added to `_index.md`
 
 ---
 

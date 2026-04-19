@@ -1,6 +1,6 @@
 ---
 type: entity
-sources: ["raw/Design for Inclusivity at the UIA World Congress of Architects 2023.md"]
+sources: ["raw/Design for Inclusivity at the UIA World Congress of Architects 2023.md", "raw/Magda Mostafa Honored With Friendly and Inclusive Spaces Award.md"]
 updated: 2026-04-19
 ---
 
@@ -28,6 +28,12 @@ For over two years preceding the congress, an international Scientific Committee
 Co-chaired by:
 - [[magda-mostafa|Magda Mostafa]] — Professor of Design, Department of Architecture, American University in Cairo
 - [[ruth-baumeister|Ruth Baumeister]] — Associate Professor of Theory and History, Aarhus School of Architecture
+
+## Awards
+
+### Friendly and Inclusive Spaces Award
+
+Awarded by the UIA for evidence-based design research that makes a significant contribution to improved quality of life through human-centered design. In 2023, [[magda-mostafa|Magda Mostafa]] received this award for the *Autism Friendly University Design Guide* — a guide originally commissioned by Dublin City University and Ireland's National Autism Society (AsIAM) through a global call for proposals. Jury statement: "This research has excellent methodology and application. It covers a wide range of design for senses and environmental conditions and results in a set of manageable guidelines." [[raw/Magda Mostafa Honored With Friendly and Inclusive Spaces Award.md]]
 
 ## Key Claims
 

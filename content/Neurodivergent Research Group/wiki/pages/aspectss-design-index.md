@@ -1,6 +1,6 @@
 ---
 type: method
-sources: [raw/ASPECTSS.md, "raw/The Autism Design Index.md", raw/ASPECTSS_EXHIBITIONS.md, raw/PROJECTS.md, "raw/Sensory Escape - a walkthrough.md", "raw/Identifying landscapes of sensory escape.md", "raw/Designkriterier til arkitektur, der rummer autisme.md", "raw/When We Design for Autism, We Design for Everyone.md"]
+sources: [raw/ASPECTSS.md, "raw/The Autism Design Index.md", raw/ASPECTSS_EXHIBITIONS.md, raw/PROJECTS.md, "raw/Sensory Escape - a walkthrough.md", "raw/Identifying landscapes of sensory escape.md", "raw/Designkriterier til arkitektur, der rummer autisme.md", "raw/When We Design for Autism, We Design for Everyone.md", "raw/An Interview with Magda Mostafa_ Pioneer in Autism Design.md", "raw/Autistic Imaginaries of Architectural Space, Venice Architecture Biennale, 2021, Magda Mostafa.md"]
 updated: 2026-04-19
 ---
 
@@ -12,7 +12,7 @@ The ASPECTSS® Design Index is an autism-specific architectural design framework
 
 ## ASPECTSS Acronym
 
-> [!todo] verify: ASPECTSS acronym mostly resolved. Confirmed 7 of 8 letters: **A**coustics, **S**patial Sequencing, **E**scape, **C**ompartmentalization, **T**ransitions, **S**ensory Zoning, **S**afety (final S confirmed via [[raw/When We Design for Autism, We Design for Everyone]]). **P** remains unconfirmed across all sources — revisit https://www.autism.archi/aspectss. Note: rumsans.dk source and Mostafa's Metropolis interview both confirm **7** original design criteria; the acronym has 8 letters, suggesting P may share a construct or the acronym maps non-one-to-one.
+> [!todo] verify: ASPECTSS acronym — P criterion still unresolved. The 2013 ArchDaily interview explicitly names all 7 criteria as: Acoustics, Spatial sequencing, Escape spaces, Compartmentalization, Transition spaces, Sensory zoning, Safety (A-S-E-C-T-S-S) with no P criterion mentioned [[raw/An Interview with Magda Mostafa_ Pioneer in Autism Design.md]]. The acronym ASPECTSS has 8 letters. Possible explanations: (1) P was added in a later version; (2) the acronym maps non-one-to-one (e.g., "Spatial" covers both S and P slots); (3) a criterion was renamed. Revisit https://www.autism.archi/aspectss for current definitive listing.
 
 > [!todo] verify: Publication year discrepancy — existing sources reference 2013 development at AUC; Mostafa states "in 2014, all of that came together when we published The Autism ASPECTSS Design Index" (Metropolis 2023). Likely 2013 = research/development, 2014 = formal publication.
 
@@ -79,7 +79,9 @@ The exhibition framed [[sensory-decolonisation]] as the conceptual thesis: autis
 ### Venice Biennale 2021 — Palazzo Bembo
 **"Autistic Imaginaries of Architectural Space: the World through the Lens of Autism"**
 
-A collective exhibition curated from encounters between the ASPECTSS® Design Index and autistic individuals worldwide. Central message: "by viewing the world through the autistic lens, we are given a snapshot of the sensory world of our built environment from a position of alternate/innovative and novel perspectives, perspectives that can help inform the production of future worlds that are more broadly inclusive of the voices of neurodiversity."
+Dates: May 22 – November 21, 2021. A collective exhibition curated from encounters between the ASPECTSS® Design Index and autistic individuals worldwide. Central message: "by viewing the world through the autistic lens, we are given a snapshot of the sensory world of our built environment from a position of alternate/innovative and novel perspectives, perspectives that can help inform the production of future worlds that are more broadly inclusive of the voices of neurodiversity."
+
+Curatorial ethos: true design must begin with the human at its center; the collection is resonant of the autistic voice itself. More information at www.autism.archi [[raw/Autistic Imaginaries of Architectural Space, Venice Architecture Biennale, 2021, Magda Mostafa.md]].
 
 ## Applied Projects
 
@@ -90,6 +92,16 @@ Five documented real-world applications by [[magda-mostafa|Magda Mostafa]] (see 
 - **Munroe-Meyer Institute Center of Excellence** (Omaha, Nebraska, USA, 2018–2019) — Therapy and medical center layering ASPECTSS with sensory-spatial diagnostics, narrative-centric design, and autism-inclusive universal design
 - **El Balad Autism Center** (Ramallah, Palestine, 2018) — Education and live-learn facility for autistic Palestinian refugee orphans; vernacular stone construction, UNRWA funded
 - **ELS Center for Excellence** (Jupiter, Florida, USA, 2015–2016) — Hybrid retro-fit/new build; ASPECTSS Post-Occupancy Evaluation informed acoustical, wayfinding, and de-escalation interventions; post-POE showed preliminary positive impact on student learning
+
+## Survival Stage and Greenhouse Effect
+
+Mostafa describes an early-intervention rationale for ASPECTSS: minimizing sensory load from the built environment creates a "precious window of opportunity" — what she calls the **survival stage** — in which autistic users can be freed from overwhelming sensory input to communicate, learn, and interact [[raw/An Interview with Magda Mostafa_ Pioneer in Autism Design.md]].
+
+The index explicitly avoids proposing a "static universal sensory whiteout." That approach would produce a **greenhouse effect**: the child thrives in a perfectly calm environment but falls apart when confronted with the real world. ASPECTSS counters this through **gradual weaning-off** — progressively relaxing strict criteria to support skill generalization in less-controlled settings.
+
+## Independence as Design Goal
+
+Mostafa frames **independence** (not merely access) as the correct objective for autism design. Architecture's leverage: the built environment supplies the majority of sensory input (light, acoustics, textures, colors, spatial configurations, ventilation). Appropriate design manipulates that input to help autistic users cope with and respond to their environment without constant external support [[raw/An Interview with Magda Mostafa_ Pioneer in Autism Design.md]].
 
 ## Related
 
