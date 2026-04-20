@@ -19,6 +19,16 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-04-19 20:00 — Ingest: autism.archi ASPECTSS Design Index (extracted PDF)
+
+- **File ingested:** `raw/autism.archi-The Autism ASPECTSS Design Index is the first set of evidence based design guidelines worldwide to ad.extracted.md` (auto-extracted PDF counterpart of previously-ingested `.md` web clip)
+- **Content:** Identical to prior `.md` ingest — official seven-criterion ASPECTSS listing from autism.archi/aspectss; no new knowledge entities
+- **No new pages created**
+- **Pages updated (1):**
+  - `pages/aspectss-design-index.md` — added `.extracted.md` to sources frontmatter
+
+---
+
 ## 2026-04-19 19:00 — Ingest: autism.archi ASPECTSS Design Index official page
 
 - **File ingested:** `raw/autism.archi-The Autism ASPECTSS Design Index is the first set of evidence based design guidelines worldwide to ad.md` (official autism.archi/aspectss page, Magda Mostafa)
