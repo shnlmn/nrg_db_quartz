@@ -10,7 +10,8 @@ sources:
   - "raw/Co-Design for Participatory Neurodiversity Research_ Collaborating With a Community Advisory Board to Design a Research Study _ Published in Journal of Participatory Resea.md"
   - raw/dark-2025-inclusion-by-design-a-neuro-cognitive-trait-interaction-approach-to-neurodivergent-research.extracted.md
   - raw/A systematic review of photovoice research methods with people with intellectual disabilities.md
-updated: 2026-04-15
+  - "raw/UIA A1 POSTER_ Final to submit.extracted.md"
+updated: 2026-04-19
 ---
 
 # Inclusive Research Methods
@@ -42,6 +43,7 @@ Inclusive research methods are approaches to design research, user testing, and 
 - Standard design-thinking workshops are explicitly open-ended and ambiguous by design — this structure can cause anxiety for autistic participants; adaptations include minute-by-minute agendas, highly predictable scheduling, regular check-ins, and openness to in-session format changes [[raw/Autism friendly design – an interview with Magda Mostafa.md|Mostafa 2021]]
 - Enabling multiple engagement modes simultaneously (visual: sketching/drawing/markup; verbal: transcribed responses; asynchronous) ensures autistic and non-verbal participants can contribute equitably [[raw/Autism friendly design – an interview with Magda Mostafa.md|Mostafa 2021]]
 - Flipping the user/expert model — explicitly framing the researcher as learner and the participant as expert — is especially important with autistic participants whose lived expertise in their own perceptual experience the researcher cannot replicate [[raw/Autism friendly design – an interview with Magda Mostafa.md|Mostafa 2021]]; see also [[strength-based-approach-autism-design]]
+- The [[autism-friendly-university-design-guide|DCU Autism Friendly University Design Guide]] (Mostafa 2023) formalises design-thinking adaptations into seven named principles [[raw/UIA A1 POSTER_ Final to submit.extracted.md]]: (1) **Visual over Verbal** — clear grids, separate boards, fresh starts per section; (2) **Order over Stimulation** — separate boards to prevent layered visual chaos; (3) **Personal over Social Broadly** — groups of 5 with one moderator; (4) **Autistic Social Space over Neurotypical Social Space** — autistic voice as expert voice, balanced stakeholder groupings; (5) **Planning Ahead and Social Familiarization** — agenda, bios, platform tutorial, and technical support shared in advance; (6) **Timing and Scheduling is Key** — agenda granular to 5-minute intervals, visual timer visible to all; (7) **Predictability and Preparedness** — objectives always stated, agenda always visible, expectations always explicit
 
 ## Related
 

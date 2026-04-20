@@ -51,7 +51,7 @@ The ASPECTSS 2.0 Design Index was formally developed for the Dublin City Univers
 7. **Sensory economics** — balancing sensory demand and supply across a building or campus
 8. **Programming and operation** — scheduling, staffing, and operational practices aligned with design intent
 
-These additions arose from participatory research with autistic DCU students (2020–2021) and were cross-validated against multiple external frameworks including the WELL Building Standard Comfort Features 72–84 (acoustics, thermal, lighting, olfactory) and Barrett et al. (2015) school design criteria.
+These additions arose from participatory research with autistic DCU students (2020–2021) and were cross-validated against multiple external frameworks including the WELL Building Standard Comfort Features 72–84 (acoustics, thermal, lighting, olfactory) and Barrett et al. (2015) school design criteria. Full guide detail — methodology, stakeholder process, 21-topic topic list, sensory spatial typology, and audit tool — in [[autism-friendly-university-design-guide]].
 
 **Earlier expanded version (from `raw/When We Design for Autism, We Design for Everyone`):**  
 Also cites: Color and lighting; Furniture; Materiality; Wayfinding and navigation; Technology. The "18-criterion" count from that source remains unverified against ASPECTSS 2.0's 15-criterion count.
@@ -137,4 +137,5 @@ The most direct published case study of ASPECTSS intervention outcomes is [[most
 - [[design-from-sensorial-margins]]
 - [[sensory-processing-autism]]
 - [[autism-embodiment]]
+- [[autism-friendly-university-design-guide]] — full methodology, stakeholder process, 21-topic design criteria, sensory spatial typology, and audit tool for DCU application
 - [[promoted/q-sensory-room-architectural-installations]] — applies ASPECTSS escape space, compartmentalization, and transitions criteria to interior sensory room design

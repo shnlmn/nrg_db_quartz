@@ -4,6 +4,21 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-04-19 — Ingest: UIA A1 POSTER — Autism Friendly University Design Guide (Mostafa 2023)
+
+- **File ingested:** `raw/UIA A1 POSTER_ Final to submit.extracted.md`
+- **Source:** UIA Friendly and Inclusive Spaces Award submission (Category 4: Research), completed 09/04/2023; poster by Magda Mostafa / Progressive Architects for Dublin City University
+- **New pages created (1):**
+  - `pages/autism-friendly-university-design-guide.md` — open-access HE design guide; methodology (2016 DCU "Living with Autism" study + sensory audits), 11 workshop stakeholder groups, 7 named design-thinking adaptations for autistic participants, 21 ASPECTSS 2.0 design criteria, three-tier sensory spatial typology (high/moderate/low stimulus), Autism Friendly Design Audit tool, open-access replication intent
+- **Pages updated (5):**
+  - `pages/aspectss-design-index.md` — added source to frontmatter; added cross-ref to `autism-friendly-university-design-guide`; added cross-ref in Related
+  - `pages/magda-mostafa.md` — added source to frontmatter
+  - `pages/autism-friendly-design.md` — added source to frontmatter
+  - `pages/inclusive-research-methods.md` — added source to frontmatter; added claim entry for 7-principle design-thinking adaptation framework from DCU guide
+- **Index updated:** `autism-friendly-university-design-guide` entry added
+
+---
+
 ## 2026-04-19 — Query-promotion: sensory room architectural installations
 
 - **Question promoted:** "I would like some idea for architectural installation interventions for a sensory room."

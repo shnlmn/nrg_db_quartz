@@ -1,6 +1,6 @@
 ---
 type: method
-sources: [raw/land-13-00636-v2.extracted.md, raw/Sensory_Responsive_Environments_A_Qualitative_Stud.extracted.md, raw/ASPECTSS.md, raw/ASPECTSS_EXHIBITIONS.md, "raw/Autism Design and an Architecture for All_ Designing for a Differently Abled World.md", "raw/Autism friendly design – an interview with Magda Mostafa.md", "raw/The impact of ASPECTSS-based design intervention in autism school design_ a case study.md"]
+sources: [raw/land-13-00636-v2.extracted.md, raw/Sensory_Responsive_Environments_A_Qualitative_Stud.extracted.md, raw/ASPECTSS.md, raw/ASPECTSS_EXHIBITIONS.md, "raw/Autism Design and an Architecture for All_ Designing for a Differently Abled World.md", "raw/Autism friendly design – an interview with Magda Mostafa.md", "raw/The impact of ASPECTSS-based design intervention in autism school design_ a case study.md", "raw/UIA A1 POSTER_ Final to submit.extracted.md"]
 updated: 2026-04-19
 ---
 

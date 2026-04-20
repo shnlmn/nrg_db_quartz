@@ -169,5 +169,6 @@ Catalog of all wiki pages. Maintained by the LLM. Do not hand-edit.
 - [[maria-rodo-zarate]] — Serra Húnter Fellow, University of Barcelona; PhD in Geography; developer of Relief Maps; research on intersectional, spatial, and emotional dimensions of urban inequality
 - [[intersectionality]] — Framework describing how multiple social structures (gender, race, class, etc.) intersect to produce compounded, place-specific experiences of privilege and oppression
 - [[feminist-geographies]] — Academic field studying how social structures shape and are shaped by spatial arrangements; foregrounds emotional, embodied, intersectional dimensions of urban experience
+- [[autism-friendly-university-design-guide]] — Open-access design guide by Mostafa for DCU (2023); extends ASPECTSS 2.0 to HE built environment via participatory workshops; 21 design criteria, sensory spatial typology, audit tool
 - [[mostafa-et-al-2023-aspectss-case-study]] — Mixed-methods case study (Mostafa et al. 2023) assessing five ASPECTSS design interventions at Els for Autism K-12 school; staff survey, observations, interviews all show positive outcomes
 - [[post-occupancy-evaluation]] — Systematic assessment of a built environment after occupancy; used by Mostafa as primary diagnostic and outcome-measurement tool for ASPECTSS interventions
