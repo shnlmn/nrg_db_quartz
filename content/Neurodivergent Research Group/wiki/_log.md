@@ -728,7 +728,7 @@ Append-only chronological record of ingest, query-promotion, and lint operations
   - `pages/kathryn-finnigan.md` — researcher and developer of SREF framework
 - **Index updated** with 14 new pages and cross-referenced descriptions
 - **Total pages referencing source:** 14 (all created pages cite raw/land-13-00636-v2.extracted.md)
-- **Key contributions from source:** 
+- **Key contributions from source:**
   - Qualitative study of 31 participants (firsthand, secondhand, professional lived experience with autism, ADHD, dyslexia)
   - Identified 12 major emergent themes + sub-thematic patterns in neurodivergent outdoor environment experiences
   - Documented sensory barriers (anthropogenic noise, artificial lighting, vehicle-centric design, lack of refuge)
@@ -814,7 +814,7 @@ Append-only chronological record of ingest, query-promotion, and lint operations
   - `pages/envides.md` — Environmental Description Survey; sentence-stem based data collection method
 - **Index updated** with 6 new pages and one-line descriptions
 - **Total pages referencing source:** 6 (all newly created pages cite raw/fpsyg-15-1303397.extracted.md)
-- **Key contributions from source:** 
+- **Key contributions from source:**
   - Empirical methodology for studying environmental experience beyond visual/material aspects: RADES technique with 120 evocative images
   - Comprehensive literature on emotions in architecture (Russell-Mehrabian PAD model, appraisal theory, Davitz emotional checklist)
   - Sensory-body phenomenology distinctions: bodily sensations vs. feelings; transitive vs. intransitive sensations
