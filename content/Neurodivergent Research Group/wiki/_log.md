@@ -4,6 +4,24 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-05-01 14:00 — Ingest: Svaler 2023 — ALM Autism Accessibility
+
+- **File ingested:** `raw/svaler-2023-on-making-libraries-and-museums-more-accessible-for-autistic-people.extracted.md`
+- **Source:** Tirill Bjørkeli Svaler (2023), Oslo Metropolitan University; survey (n=126 respondents, 40 autistic), case study (5 institutions), literature review on making libraries and museums accessible for autistic users
+- **New pages created (7):**
+  - `pages/svaler-2023-alm-autism-accessibility.md` — paper page; full findings, case study summary (Smithsonian, Warwick, British Museum, Multnomah, Pickerington), recommended accommodations taxonomy
+  - `pages/alm-accessibility-autism.md` — concept page; barriers and frameworks for accessibility in Archives, Libraries, and Museums
+  - `pages/sensory-friendly-programming.md` — concept page; full taxonomy of sensory/temporal/spatial/informational/social/staff provisions
+  - `pages/universal-design-for-learning.md` — UDL framework; application to ALM information dissemination
+  - `pages/identity-first-language.md` — language preference concept; identity-first vs. person-first debate
+  - `pages/functioning-labels.md` — harmful high-/low-functioning labels; fluctuating ability evidence
+  - `pages/tirill-bjorkeli-svaler.md` — person page; Oslo Met affiliation
+- **Pages updated (1):**
+  - `pages/universal-design-public-space.md` — added Svaler source to frontmatter; added cross-refs to `universal-design-for-learning` and `alm-accessibility-autism`
+- **Index updated:** 7 new entries added
+
+---
+
 ## 2026-04-19 — Ingest: UIA A1 POSTER — Autism Friendly University Design Guide (Mostafa 2023)
 
 - **File ingested:** `raw/UIA A1 POSTER_ Final to submit.extracted.md`

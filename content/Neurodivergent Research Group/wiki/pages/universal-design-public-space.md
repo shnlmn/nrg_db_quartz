@@ -1,7 +1,7 @@
 ---
 type: concept
-sources: [raw/ijerph-12-08644.extracted.md]
-updated: 2026-04-15
+sources: [raw/ijerph-12-08644.extracted.md, raw/svaler-2023-on-making-libraries-and-museums-more-accessible-for-autistic-people.extracted.md]
+updated: 2026-05-01
 ---
 
 # Universal Design for Public Space
@@ -74,6 +74,8 @@ Without identifying or stigmatizing particular groups [[jenkins-et-al-2015-multi
 - [[visual-impairment-public-space-access]]
 - [[occupational-therapy-visual-impairment]]
 - [[jenkins-et-al-2015-multisensory-visual-impairment]]
+- [[universal-design-for-learning]] — learning-specific application of universal design principles
+- [[alm-accessibility-autism]] — application domain in libraries and museums
 
 ## Open questions
 

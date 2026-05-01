@@ -172,3 +172,10 @@ Catalog of all wiki pages. Maintained by the LLM. Do not hand-edit.
 - [[autism-friendly-university-design-guide]] — Open-access design guide by Mostafa for DCU (2023); extends ASPECTSS 2.0 to HE built environment via participatory workshops; 21 design criteria, sensory spatial typology, audit tool
 - [[mostafa-et-al-2023-aspectss-case-study]] — Mixed-methods case study (Mostafa et al. 2023) assessing five ASPECTSS design interventions at Els for Autism K-12 school; staff survey, observations, interviews all show positive outcomes
 - [[post-occupancy-evaluation]] — Systematic assessment of a built environment after occupancy; used by Mostafa as primary diagnostic and outcome-measurement tool for ASPECTSS interventions
+- [[svaler-2023-alm-autism-accessibility]] — Survey (n=126), case study, and literature review on barriers and solutions for autistic users in libraries and museums (Svaler, Oslo Met, 2023)
+- [[alm-accessibility-autism]] — Concept covering sensory, social, navigational, and attitudinal barriers autistic users face in Archives, Libraries, and Museums
+- [[sensory-friendly-programming]] — Planned institutional modifications (quiet hours, sensory kits, sensory rooms, pre-visit info) reducing barriers for autistic and sensory-sensitive users
+- [[universal-design-for-learning]] — Three-part instructional framework varying engagement, presentation, and expression modes; applied to ALM information dissemination
+- [[identity-first-language]] — Language form ("autistic person") preferred by most autistic people; treats autism as constitutive identity rather than separable condition
+- [[functioning-labels]] — Harmful "high-/low-functioning" descriptors that reduce fluctuating, multidimensional autistic abilities to a fixed binary
+- [[tirill-bjorkeli-svaler]] — Researcher at Oslo Metropolitan University; author of 2023 article on ALM accessibility for autistic people
