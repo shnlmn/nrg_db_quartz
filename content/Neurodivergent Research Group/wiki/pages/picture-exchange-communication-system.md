@@ -19,3 +19,4 @@ The Picture Exchange Communication System (PECS) is a specific augmentative-and-
 
 - [[augmentative-alternative-communication]]
 - [[aided-language-stimulation]]
+- [[core-vocabulary]]

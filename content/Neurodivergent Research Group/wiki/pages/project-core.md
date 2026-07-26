@@ -1,6 +1,6 @@
 ---
 type: entity
-sources: [raw/AAC_and_Autism_Tip_Sheet_Edu.extracted.md]
+sources: [raw/AAC_and_Autism_Tip_Sheet_Edu.extracted.md, raw/Core Words.md]
 updated: 2026-07-26
 ---
 
@@ -19,5 +19,6 @@ Project Core is an implementation grant directed by the Center for Literacy and 
 
 - [[aided-language-stimulation]]
 - [[augmentative-alternative-communication]]
+- [[core-vocabulary]]
 
 > [!todo] verify: Project Core's institutional home/affiliation beyond "Center for Literacy and Disability Studies" — not further specified in source

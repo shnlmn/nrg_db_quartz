@@ -4,6 +4,21 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-07-26 16:00 — Ingest: Core Words
+
+- **File ingested:** `raw/Core Words.md` (plain word list, no author/publisher metadata; twelve grammatical/functional AAC core-vocabulary categories: Pronouns, Core Verbs, Helping/Modal Verbs, Prepositions, Question Words, Negation, Descriptive/Quantity, Social/Interjection, Time/Sequence, Location/Demonstrative, Conjunctions, Articles)
+- **New pages created (1):**
+  - `pages/core-vocabulary.md` — concept page: definition of core vocabulary as the reusable, cross-context word backbone of an AAC system (vs. fringe vocabulary); full category breakdown table; open todo to verify source attribution
+- **Pages updated (4):**
+  - `pages/augmentative-alternative-communication.md` — added source; added `[[core-vocabulary]]` to Related
+  - `pages/project-core.md` — added source; added `[[core-vocabulary]]` to Related (Project Core's "Universal Core vocabulary" now links to the concept page)
+  - `pages/communication-boards.md` — added source; added `[[core-vocabulary]]` to Related (existing core/fringe vocabulary claim now links out)
+  - `pages/picture-exchange-communication-system.md` — added `[[core-vocabulary]]` to Related (contrasts with PECS's fringe-vocabulary focus)
+- **Index updated:** 1 new entry added
+- **Todo added:** verify `raw/Core Words.md` origin/attribution — no author or publisher given in source
+
+---
+
 ## 2026-07-26 15:00 — Ingest: Communication Boards
 
 - **File ingested:** `raw/Communication_Boards.extracted.md` (auto-extracted PDF; TRIAD/Vanderbilt Kennedy Center communication-board resource for educators, with self-advocate contribution from Chloe Rothschild, Tennessee Technical Assistance Network)

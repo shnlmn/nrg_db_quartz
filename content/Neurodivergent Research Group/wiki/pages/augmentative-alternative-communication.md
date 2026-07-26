@@ -1,6 +1,6 @@
 ---
 type: concept
-sources: [raw/AAC_and_Autism_Tip_Sheet_Edu.extracted.md, raw/Communication_Boards.extracted.md]
+sources: [raw/AAC_and_Autism_Tip_Sheet_Edu.extracted.md, raw/Communication_Boards.extracted.md, raw/Core Words.md]
 updated: 2026-07-26
 ---
 
@@ -47,6 +47,7 @@ Augmentative and alternative communication (AAC) is any means of communication o
 - [[prompt-hierarchy]]
 - [[visual-supports]]
 - [[project-core]]
+- [[core-vocabulary]]
 - [[communication-preferences]]
 - [[executive-functioning]]
 - [[identity-first-language]]

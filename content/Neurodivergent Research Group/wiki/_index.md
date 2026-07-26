@@ -193,3 +193,4 @@ Catalog of all wiki pages. Maintained by the LLM. Do not hand-edit.
 - [[project-core]] — Implementation grant providing Universal Core vocabulary and evidence-based communication instruction
 - [[communication-boards]] — Rapid-access, paper-based AAC using symbols to help students communicate without electricity or batteries
 - [[chloe-rothschild]] — Autistic educational consultant and self-advocate describing fluctuating access to spoken words during dysregulation
+- [[core-vocabulary]] — Small set of high-frequency, cross-context words forming the reusable backbone of an AAC vocabulary system, distinct from context-specific fringe vocabulary

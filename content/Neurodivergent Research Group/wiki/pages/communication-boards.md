@@ -1,6 +1,6 @@
 ---
 type: method
-sources: [raw/Communication_Boards.extracted.md]
+sources: [raw/Communication_Boards.extracted.md, raw/Core Words.md]
 updated: 2026-07-26
 ---
 
@@ -43,5 +43,6 @@ The source documents both cross-curricular usage guidance (art, music, English l
 - [[picture-exchange-communication-system]]
 - [[aided-language-stimulation]]
 - [[visual-supports]]
+- [[core-vocabulary]]
 - [[chloe-rothschild]]
 - [[zones-of-regulation]]
