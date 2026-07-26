@@ -1,7 +1,7 @@
 ---
 type: concept
-sources: [raw/dark-2025-inclusion-by-design-a-neuro-cognitive-trait-interaction-approach-to-neurodivergent-research.extracted.md]
-updated: 2026-04-15
+sources: [raw/dark-2025-inclusion-by-design-a-neuro-cognitive-trait-interaction-approach-to-neurodivergent-research.extracted.md, raw/AAC_and_Autism_Tip_Sheet_Edu.extracted.md, raw/Communication_Boards.extracted.md]
+updated: 2026-07-26
 ---
 
 # Communication Preferences
@@ -15,6 +15,7 @@ updated: 2026-04-15
 - Traditional research assumptions—spontaneity in interviews, eye contact, emotional reciprocity—may create discomfort or barriers for neurodivergent participants [[raw/dark-2025-inclusion-by-design-a-neuro-cognitive-trait-interaction-approach-to-neurodivergent-research.extracted.md|Dark 2025]]
 - Responsive research design accommodates diverse communication preferences: offering written and verbal response options, providing time for processing, using clear language, accepting non-linear storytelling [[raw/dark-2025-inclusion-by-design-a-neuro-cognitive-trait-interaction-approach-to-neurodivergent-research.extracted.md|Dark 2025]]
 - Honoring communication preferences supports epistemic authenticity—participants can express themselves in ways that feel genuine and comfortable, not constrained by neurotypical communication norms [[raw/dark-2025-inclusion-by-design-a-neuro-cognitive-trait-interaction-approach-to-neurodivergent-research.extracted.md|Dark 2025]]
+- Access to spoken words is not fixed for everyone who speaks: self-advocate [[chloe-rothschild]] describes the brain-to-mouth pathway for spoken words becoming blocked during dysregulation, so having backup non-verbal options (e.g. [[communication-boards]]) is beneficial even for people who usually speak [[raw/Communication_Boards.extracted.md]]
 
 ## Related
 
@@ -23,6 +24,9 @@ updated: 2026-04-15
 - [[reasonable-adjustments]] — practical accommodations for communication needs
 - [[inclusive-research-methods]] — application of communication preference accommodation
 - [[promoted/q-formatting-building-experience-questions]] — first step in building-experience research sessions
+- [[augmentative-alternative-communication]] — dedicated AAC tools and devices supporting nonspeaking communication preferences
+- [[communication-boards]] — rapid-access AAC option useful even for intermittently-speaking users
+- [[chloe-rothschild]] — self-advocate on fluctuating access to spoken words
 
 ## Open questions
 

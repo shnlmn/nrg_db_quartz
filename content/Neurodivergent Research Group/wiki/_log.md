@@ -4,6 +4,40 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-07-26 15:00 — Ingest: Communication Boards
+
+- **File ingested:** `raw/Communication_Boards.extracted.md` (auto-extracted PDF; TRIAD/Vanderbilt Kennedy Center communication-board resource for educators, with self-advocate contribution from Chloe Rothschild, Tennessee Technical Assistance Network)
+- **New pages created (2):**
+  - `pages/communication-boards.md` — method page: rapid-access/paper-based AAC definition, core/fringe vocabulary, whole-class/multiple/individualized deployment models, ensure-access/model-and-encourage/respond-and-reinforce implementation steps, crisis/dysregulation use, setting-specific board variants (School, Home, Playground, Community, Emotions), assembly tips, TRIAD Communication Board Library
+  - `pages/chloe-rothschild.md` — person page: autistic educational consultant and self-advocate; quote on spoken-word access being blocked during dysregulation
+- **Pages updated (2):**
+  - `pages/augmentative-alternative-communication.md` — added source; linked [[communication-boards]] from the Rapid Access/Paper-Based row and Related
+  - `pages/communication-preferences.md` — added source; added claim on fluctuating spoken-word access (Rothschild) as rationale for backup AAC; added `[[communication-boards]]` and `[[chloe-rothschild]]` to Related
+- **Index updated:** 2 new entries added
+
+---
+
+## 2026-07-26 14:00 — Ingest: AAC and Autism Tip Sheet for Educators
+
+- **File ingested:** `raw/AAC_and_Autism_Tip_Sheet_Edu.extracted.md` (auto-extracted PDF; TRIAD/Vanderbilt Kennedy Center AAC guide for educators, Tennessee Technical Assistance Network)
+- **New pages created (7):**
+  - `pages/augmentative-alternative-communication.md` — concept page: AAC definition, system vs. device distinction, speech-development myth, types-of-AAC table (no-tech/paper-based/PECS/mid-tech/high-tech), constant-access right
+  - `pages/picture-exchange-communication-system.md` — method page; PECS protocol and fringe-vocabulary limitation
+  - `pages/aided-language-stimulation.md` — method page; whole-day modeling strategy table (wait time, model variants, comment, recast/expand, prompt)
+  - `pages/prompt-hierarchy.md` — method page; least-to-most prompting, hand-under-hand vs. hand-over-hand, bodily autonomy/consent
+  - `pages/presume-competence.md` — concept page; against vocabulary-limiting practices, "more words are often better"
+  - `pages/visual-supports.md` — concept page; schedules/timers/first-then boards, distinction from AAC proper, executive-functioning link
+  - `pages/project-core.md` — entity page; Universal Core vocabulary implementation grant
+- **Pages updated (4):**
+  - `pages/identity-first-language.md` — added source; added note on TRIAD tip sheet's identity-first usage; added `[[augmentative-alternative-communication]]` to Related
+  - `pages/executive-functioning.md` — added source; added claim on visual supports aiding executive-functioning; added `[[visual-supports]]` to Related
+  - `pages/communication-preferences.md` — added source; added `[[augmentative-alternative-communication]]` to Related
+  - `pages/teacch.md` — added `[[visual-supports]]` to Related
+- **Index updated:** 7 new entries added
+- **Todos added:** verify Project Core's institutional affiliation beyond "Center for Literacy and Disability Studies"
+
+---
+
 ## 2026-07-26 13:00 — Ingest: The ENERGY Suite, Tool 6 — The Power Plan
 
 - **File ingested:** `raw/0825_PowerPlan_Post.extracted.md` (auto-extracted PDF; Laurent & Fede, 2025)

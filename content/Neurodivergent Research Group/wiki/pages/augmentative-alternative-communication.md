@@ -1,6 +1,6 @@
 ---
 type: concept
-sources: [raw/AAC_and_Autism_Tip_Sheet_Edu.extracted.md]
+sources: [raw/AAC_and_Autism_Tip_Sheet_Edu.extracted.md, raw/Communication_Boards.extracted.md]
 updated: 2026-07-26
 ---
 
@@ -33,13 +33,14 @@ Augmentative and alternative communication (AAC) is any means of communication o
 | Type | Description |
 |---|---|
 | No-tech | Head nods, gestures, eye gaze — nothing beyond the user's body |
-| Rapid Access / Paper-Based | No electricity needed; pictures, symbols, letters, words, or phrases on paper, a single-page board, or a printed book |
+| Rapid Access / Paper-Based | No electricity needed; pictures, symbols, letters, words, or phrases on paper, a single-page board, or a printed book — see [[communication-boards]] |
 | [[picture-exchange-communication-system]] (PECS) | Specific protocol exchanging pictures to communicate a message; often fringe-vocabulary focused, does not build into a robust language system |
 | Mid-tech | Battery-powered; produces a message on button press (e.g., single-message button, Go Talk, Quick Talker) |
 | High-tech | Electronic devices with storage/retrieval of prestored messages for robust communication (dedicated devices or iPads with a communication app) |
 
 ## Related
 
+- [[communication-boards]]
 - [[picture-exchange-communication-system]]
 - [[aided-language-stimulation]]
 - [[presume-competence]]

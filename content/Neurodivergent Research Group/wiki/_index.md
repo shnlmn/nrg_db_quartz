@@ -184,3 +184,12 @@ Catalog of all wiki pages. Maintained by the LLM. Do not hand-edit.
 - [[my-energy]] — ENERGY Suite tool centered on an Energy Meter identifying mismatches between energy level and environmental demands
 - [[the-regulator]] — ENERGY Suite tool cataloging regulation strategies, including neutral-effect "Power Packs"
 - [[pic-tool]] — ENERGY Suite tool for identifying triggers, challenging contexts, and environmental accommodations feeding into the Power Plan
+- [[augmentative-alternative-communication]] — Any means of communication other than an established spoken or signed language, used to supplement or replace speech
+- [[picture-exchange-communication-system]] — Specific augmentative-and-alternative-communication protocol exchanging pictures to convey a message
+- [[aided-language-stimulation]] — Practice of communication partners modeling language directly on an AAC user's own system throughout the day
+- [[prompt-hierarchy]] — Least-to-most prompting sequence for supporting AAC use, minimizing physical prompts to protect bodily autonomy
+- [[presume-competence]] — Assuming an AAC user is capable of full, robust communication rather than pre-emptively limiting vocabulary or access
+- [[visual-supports]] — Pictures, photographs, objects, or words supporting a student, such as visual schedules, timers, or first/then boards
+- [[project-core]] — Implementation grant providing Universal Core vocabulary and evidence-based communication instruction
+- [[communication-boards]] — Rapid-access, paper-based AAC using symbols to help students communicate without electricity or batteries
+- [[chloe-rothschild]] — Autistic educational consultant and self-advocate describing fluctuating access to spoken words during dysregulation

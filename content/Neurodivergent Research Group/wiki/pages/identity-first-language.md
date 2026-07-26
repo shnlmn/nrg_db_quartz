@@ -30,6 +30,10 @@ Identity-first language ("autistic person") is preferred by most autistic people
 - Institutional and medical contexts (especially older literature) default to person-first
 - The safest approach: ask individuals their preference; default to identity-first when writing for the autism community generally
 
+## Adoption in educator resources
+
+- The TRIAD (Vanderbilt Kennedy Center) AAC educator tip sheet uses identity-first language throughout, citing the TRIAD identity-language web page as its rationale. [[raw/AAC_and_Autism_Tip_Sheet_Edu.extracted.md]]
+
 ## Related
 
 - [[functioning-labels]]
@@ -37,3 +41,4 @@ Identity-first language ("autistic person") is preferred by most autistic people
 - [[neurodiversity-paradigm]]
 - [[strength-based-approach-autism-design]]
 - [[svaler-2023-alm-autism-accessibility]]
+- [[augmentative-alternative-communication]]
