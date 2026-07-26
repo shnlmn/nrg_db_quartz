@@ -179,3 +179,8 @@ Catalog of all wiki pages. Maintained by the LLM. Do not hand-edit.
 - [[identity-first-language]] — Language form ("autistic person") preferred by most autistic people; treats autism as constitutive identity rather than separable condition
 - [[functioning-labels]] — Harmful "high-/low-functioning" descriptors that reduce fluctuating, multidimensional autistic abilities to a fixed binary
 - [[tirill-bjorkeli-svaler]] — Researcher at Oslo Metropolitan University; author of 2023 article on ALM accessibility for autistic people
+- [[energy-suite]] — Set of six sequential tools (Laurent & Fede, 2025) for helping autistic and neurodivergent people understand and regulate energy levels
+- [[power-plan]] — Tool 6 of the ENERGY Suite; synthesizes prior tools into a comprehensive plan for Powering UP! and Powering Down energy levels
+- [[my-energy]] — ENERGY Suite tool centered on an Energy Meter identifying mismatches between energy level and environmental demands
+- [[the-regulator]] — ENERGY Suite tool cataloging regulation strategies, including neutral-effect "Power Packs"
+- [[pic-tool]] — ENERGY Suite tool for identifying triggers, challenging contexts, and environmental accommodations feeding into the Power Plan

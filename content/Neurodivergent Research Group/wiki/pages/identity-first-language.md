@@ -1,7 +1,7 @@
 ---
 type: concept
-sources: [raw/svaler-2023-on-making-libraries-and-museums-more-accessible-for-autistic-people.extracted.md]
-updated: 2026-05-01
+sources: [raw/svaler-2023-on-making-libraries-and-museums-more-accessible-for-autistic-people.extracted.md, raw/AAC_and_Autism_Tip_Sheet_Edu.extracted.md]
+updated: 2026-07-26
 ---
 
 # Identity-First Language

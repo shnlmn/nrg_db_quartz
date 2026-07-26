@@ -4,6 +4,22 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-07-26 13:00 — Ingest: The ENERGY Suite, Tool 6 — The Power Plan
+
+- **File ingested:** `raw/0825_PowerPlan_Post.extracted.md` (auto-extracted PDF; Laurent & Fede, 2025)
+- **Note:** Source is a largely blank fillable worksheet template — most content cells are `[Space for content]` placeholders. Only the Cognitive-domain strategy rows and the GOs/NOs table contain filled example content. New pages document the tool's structure and stated example content, not invented worksheet answers.
+- **New pages created (5):**
+  - `pages/energy-suite.md` — entity/method page: overarching six-tool ENERGY Suite framework; sequential Tool 1–5 → Tool 6 structure; authors Laurent & Fede (2025)
+  - `pages/power-plan.md` — method page; Tool 6 full structure: three-page layout, essential-knowledge fields, leveled (1/2/3+) Power Down/Power UP! strategy tables across Sensorimotor/Behavioral and Language-Information/Reflective domains, physiological/interoception prerequisite checks, GOs/NOs Learner-Partner usage guidance
+  - `pages/my-energy.md` — stub method page; Tool referenced by Power Plan as source of the "Energy Meter" and dysregulation signals
+  - `pages/the-regulator.md` — stub method page; Tool referenced by Power Plan as source of "Power Packs" and "Regulator 2.0" strategies
+  - `pages/pic-tool.md` — stub method page; Tool referenced by Power Plan for triggers/context/accommodations; relationship to Power Plan's "PIC" headings flagged for verification
+- **No existing pages updated** — no prior ENERGY Suite coverage existed in the wiki
+- **Index updated:** 5 new entries added
+- **Todos added:** verify identity of authors Laurent & Fede; verify full content of Tools 1–5; verify meaning of "PIC" and its relationship to the Power Plan's leveled-strategy pages
+
+---
+
 ## 2026-05-01 14:00 — Ingest: Svaler 2023 — ALM Autism Accessibility
 
 - **File ingested:** `raw/svaler-2023-on-making-libraries-and-museums-more-accessible-for-autistic-people.extracted.md`
