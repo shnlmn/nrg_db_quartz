@@ -4,6 +4,14 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-07-26 17:45 — Fix: core-vocabulary word alignment in built-environment questionnaire
+
+- `pages/promoted/q-built-environment-questions-autistic-adults.md` facilitation note listed "leave" and "loud" as backup-board words — neither matches canonical [[core-vocabulary]] category list
+- Swapped "leave" → "go" (core verb), dropped "loud" (not in core list, not tagged fringe)
+- Remaining gaps (not fixed, deferred): no fringe vocab added alongside core words, no aided-language-stimulation modeling guidance, no prompt-hierarchy note for facilitator assistance
+
+---
+
 ## 2026-07-26 17:30 — Query-review: built-environment questionnaire vs. AAC/core-vocabulary pages
 
 - Reviewed `pages/promoted/q-built-environment-questions-autistic-adults.md` against new AAC pages ([[core-vocabulary]], [[communication-boards]], [[augmentative-alternative-communication]], [[presume-competence]], [[chloe-rothschild]], [[aided-language-stimulation]], [[prompt-hierarchy]], [[picture-exchange-communication-system]], [[project-core]], [[visual-supports]])
