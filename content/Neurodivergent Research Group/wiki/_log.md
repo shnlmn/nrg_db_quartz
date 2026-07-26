@@ -4,6 +4,14 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-07-26 17:00 — Lint: full wiki audit (191 pages, 66 raw files)
+
+- **Findings:** 10 broken wikilinks to non-existent pages (`sensory-preferences`, `prospect-refuge`, `sensory-stacking`, `collaborative-analysis`, `self-regulation`, `sensory-characteristics-visual-impairment`, `nominal-group-technique`, `inclusive-design-for-all`, `aural-documentation-standards`, `situation-based-action`); 1 naming violation (`IDEAS.md`, recurring); 1 orphan page (`Experience of Multisensory Environments...md`, recurring); 1 uncited raw source (new untracked `WordList_Beukelman.pdf`); 10 pages missing `## Summary` heading (using bold-text style instead); 1 missing cross-reference (`zones-of-regulation` → `energy-suite` backlink); 0 contradictions found (spot-check only); 0 stale claims; `_index.md` teasers all present. An initial "60 pages without sources" signal was investigated and found to be a false positive (multi-line YAML `sources:` lists, not empty fields).
+- **Report:** `_lint-report.md` overwritten with full categorized findings
+- **Priority:** Delete orphan file + rename `IDEAS.md`; resolve 10 broken wikilinks; fix 10 `## Summary` headings
+
+---
+
 ## 2026-07-26 16:00 — Ingest: Core Words
 
 - **File ingested:** `raw/Core Words.md` (plain word list, no author/publisher metadata; twelve grammatical/functional AAC core-vocabulary categories: Pronouns, Core Verbs, Helping/Modal Verbs, Prepositions, Question Words, Negation, Descriptive/Quantity, Social/Interjection, Time/Sequence, Location/Demonstrative, Conjunctions, Articles)
