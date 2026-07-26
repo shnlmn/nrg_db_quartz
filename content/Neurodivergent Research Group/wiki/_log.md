@@ -4,6 +4,15 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-07-26 17:30 — Query-review: built-environment questionnaire vs. AAC/core-vocabulary pages
+
+- Reviewed `pages/promoted/q-built-environment-questions-autistic-adults.md` against new AAC pages ([[core-vocabulary]], [[communication-boards]], [[augmentative-alternative-communication]], [[presume-competence]], [[chloe-rothschild]], [[aided-language-stimulation]], [[prompt-hierarchy]], [[picture-exchange-communication-system]], [[project-core]], [[visual-supports]])
+- **Gap found:** questionnaire's response-format list (A1) and facilitation notes had no AAC/communication-board option, despite covering non-verbal response modes generally
+- **Fixed:** added "point to a communication board / use my AAC device" to A1; added design principle citing [[augmentative-alternative-communication]]; added facilitation notes citing [[chloe-rothschild]] (dysregulation blocking spoken-word access) and [[presume-competence]] (offer full item set, don't pre-shorten); added new pages to Related
+- **No contradictions found** between the questionnaire's existing CATA/plain-language approach and core-vocabulary word choices (e.g. C4's "leaving/staying" mirrors core verbs go/stop)
+
+---
+
 ## 2026-07-26 17:00 — Lint: full wiki audit (191 pages, 66 raw files)
 
 - **Findings:** 10 broken wikilinks to non-existent pages (`sensory-preferences`, `prospect-refuge`, `sensory-stacking`, `collaborative-analysis`, `self-regulation`, `sensory-characteristics-visual-impairment`, `nominal-group-technique`, `inclusive-design-for-all`, `aural-documentation-standards`, `situation-based-action`); 1 naming violation (`IDEAS.md`, recurring); 1 orphan page (`Experience of Multisensory Environments...md`, recurring); 1 uncited raw source (new untracked `WordList_Beukelman.pdf`); 10 pages missing `## Summary` heading (using bold-text style instead); 1 missing cross-reference (`zones-of-regulation` → `energy-suite` backlink); 0 contradictions found (spot-check only); 0 stale claims; `_index.md` teasers all present. An initial "60 pages without sources" signal was investigated and found to be a false positive (multi-line YAML `sources:` lists, not empty fields).
