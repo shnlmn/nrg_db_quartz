@@ -3,7 +3,7 @@ type: method
 origin: query-promotion
 promoted_from_question: "I want to draft some built environment questions for a group of autistic adults visiting a building site, such as a library."
 sources: []
-updated: 2026-04-15
+updated: 2026-07-26
 ---
 
 # Built Environment Questions for Autistic Adults
@@ -20,7 +20,8 @@ A structured in-situ questionnaire for gathering autistic adults' sensory and ex
 - **Group questions by zone, not by sensory modality** — [[monotropic-attention]] means sudden topic switches cause disorientation; complete all questions for one room before moving to the next [[promoted/q-formatting-building-experience-questions]]
 - **Avoid emotion-first prompts** — [[alexithymia]] makes "How did the space make you feel?" unreliable. Offer sensation-based alternatives ("Did your shoulders feel tense?") and [[check-all-that-apply|CATA]] descriptor lists [[promoted/q-formatting-building-experience-questions]]
 - **Label every scale point** — Partially-labelled Likert scales impose interpretive load; label all five points explicitly [[promoted/q-formatting-building-experience-questions]]
-- **Offer response-format choice** — written sheet, verbal dictation, voice note, annotated photo. See [[communication-preferences]] and [[reasonable-adjustments]]
+- **Offer response-format choice** — written sheet, verbal dictation, voice note, annotated photo, or pointing to a [[communication-boards|communication board]]/AAC device. See [[communication-preferences]], [[reasonable-adjustments]], and [[augmentative-alternative-communication]]
+- **Presume competence, do not simplify wording to guess ability** — offer the full CATA descriptor lists and scale labels to every participant rather than a pre-shortened set; see [[presume-competence]]
 - **Allow processing time** — do not debrief immediately; allow post-visit processing before any group discussion [[cognitive-load]]
 - **Repeat the zone sheet** — give participants a fresh copy of Section C for each zone rather than asking them to remember across spaces [[monotropic-attention]]
 
@@ -31,6 +32,7 @@ A structured in-situ questionnaire for gathering autistic adults' sensory and ex
 > - [ ] Tell someone who writes it for you
 > - [ ] Voice note on your phone
 > - [ ] Annotate a photo
+> - [ ] Point to a communication board / use my AAC device
 > - [ ] Something else: _______________
 
 ## Section B — Arriving and entering
@@ -156,7 +158,9 @@ A structured in-situ questionnaire for gathering autistic adults' sensory and ex
 ## Facilitation notes
 
 - Offer the sheet digitally (shared form on a phone/tablet) as an alternative to paper.
-- Allow non-verbal responses — pointing at a scale, a nod, a voice note, or an annotated photo are all valid; see [[communication-preferences]].
+- Allow non-verbal responses — pointing at a scale, a nod, a voice note, an annotated photo, or a [[communication-boards|communication board]]/AAC device are all valid; see [[communication-preferences]].
+- Sensory overload can block spoken-word access even for participants who normally speak — [[chloe-rothschild]] describes dysregulation as blocking the pathway from brain to mouth. Have a core-vocabulary [[communication-boards|communication board]] (words like *stop*, *help*, *more*, *leave*, *loud*, *hot/cold* — see [[core-vocabulary]]) on hand as a low-demand backup for every participant, not only known AAC users.
+- Do not shrink the questionnaire's vocabulary or options for a participant assumed to have lower ability; per [[presume-competence]], offer the full item set to everyone and let the participant choose their response mode instead.
 - Do not debrief immediately after the visit — allow processing time before any group discussion; see [[cognitive-load]].
 - Consider [[sensory-sensitivity-exacerbating-factors]]: a participant's responses may vary with time of day, fatigue, and cumulative sensory load. Note the time of visit on each sheet.
 - The bodily-sensation items in C4 are specifically designed for participants with [[alexithymia]], for whom the question "how did you feel?" is not reliably answerable.
@@ -186,3 +190,8 @@ A structured in-situ questionnaire for gathering autistic adults' sensory and ex
 - [[sensory-processing-autism]]
 - [[inclusive-research-methods]]
 - [[neuro-cognitive-trait-interaction-model]]
+- [[augmentative-alternative-communication]]
+- [[communication-boards]]
+- [[core-vocabulary]]
+- [[presume-competence]]
+- [[chloe-rothschild]]
