@@ -50,3 +50,4 @@ A spatial experiment at the 2023 Venice Architecture Biennale tested whether a b
 - [[price-et-al-2025-sensory-sensitivities]] — participants described withdrawing to low-stimulation, high-control spaces to "recharge" after sensory overload
 - [[subjective-sensory-sensitivities]]
 - [[promoted/q-sensory-room-architectural-installations]] — applies sensory refuge principles to interior sensory room design
+- [[promoted/q-core-vocabulary-affect-gap]] — evaluation constraint: a core-only AAC board cannot distinguish *this space calmed me* from *this space excited me*, so it cannot evidence whether a refuge worked

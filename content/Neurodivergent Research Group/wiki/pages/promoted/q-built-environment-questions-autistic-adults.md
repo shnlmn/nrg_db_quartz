@@ -160,6 +160,7 @@ A structured in-situ questionnaire for gathering autistic adults' sensory and ex
 - Offer the sheet digitally (shared form on a phone/tablet) as an alternative to paper.
 - Allow non-verbal responses — pointing at a scale, a nod, a voice note, an annotated photo, or a [[communication-boards|communication board]]/AAC device are all valid; see [[communication-preferences]].
 - Sensory overload can block spoken-word access even for participants who normally speak — [[chloe-rothschild]] describes dysregulation as blocking the pathway from brain to mouth. Have a core-vocabulary [[communication-boards|communication board]] (words like *stop*, *go*, *help*, *more*, *hot*, *cold* — see [[core-vocabulary]]) on hand as a low-demand backup for every participant, not only known AAC users.
+- The backup board's core words carry only *good*/*bad* for affect, so a participant using it cannot report *calm* as distinct from *excited* — see [[promoted/q-core-vocabulary-affect-gap]]. If regulation outcome matters for the study, add [[zones-of-regulation]] feeling words as tagged fringe symbols alongside the core set.
 - Do not shrink the questionnaire's vocabulary or options for a participant assumed to have lower ability; per [[presume-competence]], offer the full item set to everyone and let the participant choose their response mode instead.
 - Do not debrief immediately after the visit — allow processing time before any group discussion; see [[cognitive-load]].
 - Consider [[sensory-sensitivity-exacerbating-factors]]: a participant's responses may vary with time of day, fatigue, and cumulative sensory load. Note the time of visit on each sheet.
@@ -196,3 +197,5 @@ A structured in-situ questionnaire for gathering autistic adults' sensory and ex
 - [[presume-competence]]
 - [[chloe-rothschild]]
 - [[promoted/q-aac-backup-board-audit-checklist]]
+- [[promoted/q-core-vocabulary-affect-gap]]
+- [[zones-of-regulation]]

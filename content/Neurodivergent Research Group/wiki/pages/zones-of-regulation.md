@@ -66,3 +66,5 @@ Zones framework particularly valuable for:
 - [[self-regulation-in-play]]
 - [[alexithymia]]
 - [[executive-functioning]]
+- [[communication-boards]] — the four zones' feeling words are colour-coded and directly usable as fringe AAC vocabulary
+- [[promoted/q-core-vocabulary-affect-gap]] — Zones vocabulary proposed as the remedy for core vocabulary's good/bad affect ceiling

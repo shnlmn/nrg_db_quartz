@@ -47,3 +47,4 @@ The source documents both cross-curricular usage guidance (art, music, English l
 - [[chloe-rothschild]]
 - [[zones-of-regulation]]
 - [[promoted/q-aac-backup-board-audit-checklist]]
+- [[promoted/q-core-vocabulary-affect-gap]] — a core-only board records valence but not arousal; add Zones-of-Regulation affect terms as fringe vocabulary

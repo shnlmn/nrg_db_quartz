@@ -44,3 +44,4 @@ Checked `pages/promoted/q-built-environment-questions-autistic-adults.md`'s faci
 - [[promoted/q-built-environment-questions-autistic-adults]]
 - [[augmentative-alternative-communication]]
 - [[chloe-rothschild]]
+- [[promoted/q-core-vocabulary-affect-gap]] — item 1 applied to affect terms; documents the good/bad ceiling and the fringe words needed to clear it

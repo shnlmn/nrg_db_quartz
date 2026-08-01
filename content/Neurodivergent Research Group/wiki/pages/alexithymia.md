@@ -22,3 +22,4 @@ Alexithymia is a condition prevalent among neurodivergent individuals that makes
 - [[promoted/q-formatting-building-experience-questions]] — alternative response formats for those with difficulty articulating experiences
 - [[participatory-research]] — including neurodivergent voices to understand communication needs
 - [[social-impact-sensory-sensitivity]] — difficulty articulating sensory needs creates barriers to social understanding and accommodation
+- [[promoted/q-core-vocabulary-affect-gap]] — a vocabulary-side constraint compounding alexithymia: even a participant who can name *calm* has no core AAC word for it

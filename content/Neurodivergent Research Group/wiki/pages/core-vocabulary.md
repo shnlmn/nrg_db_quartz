@@ -42,5 +42,7 @@ Core vocabulary is the small set of high-frequency, cross-context words (pronoun
 - [[picture-exchange-communication-system]]
 - [[aided-language-stimulation]]
 - [[promoted/q-aac-backup-board-audit-checklist]]
+- [[promoted/q-core-vocabulary-affect-gap]] — the Descriptive/Quantity category carries only *good*/*bad*, so specific affective states (calm, happy, excited, annoyed) have no core equivalent
+- [[zones-of-regulation]] — supplies the missing affect vocabulary as taggable fringe words
 
 > [!todo] verify: source list has no author/publisher attribution — confirm origin and whether it corresponds to a named published core-word list (e.g. a specific SLP/AAC curriculum) before citing externally

@@ -62,6 +62,7 @@ Effective strategies are:
 - [[nait-sensory-checklist]] — tool for documenting preferred strategies
 - [[sensory-sensitivity-coping-strategies]] — related coping approach identified in qualitative research
 - [[price-et-al-2025-sensory-sensitivities]] — participants spontaneously reported mindfulness, breathing, and sensory stimulation strategies convergent with calming/alerting approaches
+- [[promoted/q-core-vocabulary-affect-gap]] — measurement constraint: an AAC user restricted to core vocabulary cannot report *calm* vs. *excited*, so calming and alerting outcomes are indistinguishable on the board
 
 ## Open questions
 
