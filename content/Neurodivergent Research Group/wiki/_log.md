@@ -4,6 +4,15 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-08-01 00:00 — Query-promotion: AAC backup board audit checklist
+
+- **Q&A promoted:** word-swap fix (leave→go, drop loud) applied 2026-07-26 to `q-built-environment-questions-autistic-adults.md`'s backup AAC board, cross-checked against [[core-vocabulary]], [[aided-language-stimulation]], [[presume-competence]], [[communication-boards]]
+- **New page created:** `pages/promoted/q-aac-backup-board-audit-checklist.md` — reusable 4-point checklist (word-list alignment, core+fringe combo, modeling guidance, prompt-hierarchy note) for auditing any backup-AAC-board facilitation note; documents the applied fix and the 3 deferred gaps as `> [!todo] verify` items
+- **Pages updated (Related cross-refs added):** `pages/core-vocabulary.md`, `pages/communication-boards.md`, `pages/aided-language-stimulation.md`, `pages/prompt-hierarchy.md`, `pages/presume-competence.md`, `pages/promoted/q-built-environment-questions-autistic-adults.md`
+- **Index updated:** new `(promoted)` entry added
+
+---
+
 ## 2026-07-26 17:45 — Fix: core-vocabulary word alignment in built-environment questionnaire
 
 - `pages/promoted/q-built-environment-questions-autistic-adults.md` facilitation note listed "leave" and "loud" as backup-board words — neither matches canonical [[core-vocabulary]] category list

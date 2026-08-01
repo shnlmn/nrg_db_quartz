@@ -41,5 +41,6 @@ Core vocabulary is the small set of high-frequency, cross-context words (pronoun
 - [[project-core]]
 - [[picture-exchange-communication-system]]
 - [[aided-language-stimulation]]
+- [[promoted/q-aac-backup-board-audit-checklist]]
 
 > [!todo] verify: source list has no author/publisher attribution — confirm origin and whether it corresponds to a named published core-word list (e.g. a specific SLP/AAC curriculum) before citing externally

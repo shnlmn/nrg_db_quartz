@@ -22,3 +22,4 @@ Presuming competence means assuming an AAC user is capable of full, robust commu
 - [[prompt-hierarchy]]
 - [[epistemic-justice]]
 - [[strength-based-approach-autism-design]]
+- [[promoted/q-aac-backup-board-audit-checklist]]

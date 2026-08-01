@@ -194,3 +194,4 @@ Catalog of all wiki pages. Maintained by the LLM. Do not hand-edit.
 - [[communication-boards]] — Rapid-access, paper-based AAC using symbols to help students communicate without electricity or batteries
 - [[chloe-rothschild]] — Autistic educational consultant and self-advocate describing fluctuating access to spoken words during dysregulation
 - [[core-vocabulary]] — Small set of high-frequency, cross-context words forming the reusable backbone of an AAC vocabulary system, distinct from context-specific fringe vocabulary
+- [[promoted/q-aac-backup-board-audit-checklist]] — Four-point checklist for auditing backup AAC board facilitation notes against core-vocabulary, communication-boards, aided-language-stimulation, prompt-hierarchy (promoted)
