@@ -4,6 +4,18 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-08-01 11:00 — Query-promotion: core vocabulary affect gap
+
+- **Q&A promoted:** rendering "The color light makes me feel calm" in [[core-vocabulary]] — resolves to "Color light makes me feel good," with the *calm* sense unreachable from core words alone
+- **New page created:** `pages/promoted/q-core-vocabulary-affect-gap.md` — documents (a) the `[stimulus] + make + me + feel + [good|bad]` construction from canonical core words; (b) the affect gap: Descriptive/Quantity carries only good/bad, collapsing calm, happy, excited, safe, relaxed, annoyed, anxious; (c) valence-without-arousal as a measurement failure for [[sensory-refuge]] and [[calming-and-alerting-strategies]] evaluation; (d) [[zones-of-regulation]] as the fringe-vocabulary remedy; (e) word-list check per item 1 of [[promoted/q-aac-backup-board-audit-checklist]] (color/light fringe, compound-symbol note; calm has no equivalent)
+- **Instrument flag recorded:** "the color light" is ambiguous between colored light (hue wash) and colour temperature of the light — different design variables; noted against B1 of `q-built-environment-questions-autistic-adults.md`, which measures brightness only
+- **Pages updated (Related cross-refs added):** `pages/core-vocabulary.md`, `pages/communication-boards.md`, `pages/zones-of-regulation.md` (also gained a `[[communication-boards]]` link), `pages/alexithymia.md`, `pages/calming-and-alerting-strategies.md`, `pages/sensory-refuge.md`, `pages/promoted/q-aac-backup-board-audit-checklist.md`
+- **Page updated (content):** `pages/promoted/q-built-environment-questions-autistic-adults.md` — facilitation note added on the core-only backup board's inability to distinguish calm from excited, recommending Zones feeling words as tagged fringe symbols; two Related links added
+- **Index updated:** new `(promoted)` entry added
+- **Todos added (2, on the new page):** no wiki page covers lighting colour/temperature as distinct from brightness; the "slow reads as sluggish not calm" judgement is unverified with AAC users
+
+---
+
 ## 2026-08-01 00:00 — Query-promotion: AAC backup board audit checklist
 
 - **Q&A promoted:** word-swap fix (leave→go, drop loud) applied 2026-07-26 to `q-built-environment-questions-autistic-adults.md`'s backup AAC board, cross-checked against [[core-vocabulary]], [[aided-language-stimulation]], [[presume-competence]], [[communication-boards]]
