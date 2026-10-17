@@ -36,7 +36,9 @@ $Dest    = Join-Path $Repo $RelDest
 $Branch  = 'v4'
 
 function Invoke-Git {
-    # Run git in the repo; throw on non-zero exit.
+    # Run git in the repo; throw on non-zero exit. git writes progress to stderr,
+    # which PS 5.1 turns into terminating errors under 'Stop', so relax it here.
+    $ErrorActionPreference = 'Continue'
     $out = & git -C $Repo @args
     if ($LASTEXITCODE -ne 0) { throw "git $($args -join ' ') failed (exit $LASTEXITCODE)" }
     $out
