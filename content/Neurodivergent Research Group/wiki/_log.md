@@ -4,6 +4,23 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-10-17 — index-rebuild
+
+- Rebuilt `_index.md` from scratch by walking all **193** pages under `pages/` (186 in `pages/`, 7 in `pages/promoted/`). Every teaser was re-extracted from the page itself; no entry was carried over unverified.
+- Teaser rule recorded in the index header: first sentence of the page's `## Summary`, with inline `[[wikilinks]]` flattened to plain text. Where a Summary opens with a bare bibliographic citation, the first *descriptive* sentence was used instead (affects [[price-et-al-2025-sensory-sensitivities]], [[collins-et-al-2018-cbpr-psychology]], [[gregory-2003-scandinavian-pd]], [[vaughn-jacquez-2020-choice-points]], [[van-der-velden-mortberg-pd-values]]) — the filename already carries author and year.
+- Kept thematic grouping (16 groups) rather than folder grouping: `pages/` is flat apart from `pages/promoted/`, so folders separate nothing useful at this page count. All 7 promoted pages are tagged `(promoted)`.
+- Group counts: Neurodiversity Foundations 19 · Dark 2025 10 · Sensory Processing & Assessment 16 · Sensory Research Methods 16 · Visual Impairment & Navigation 11 · Neuro-Inclusive Design 17 · Play & Playground Design 6 · Participatory & Co-Design Methods 31 · Scandinavian PD 10 · Research Ethics & Epistemology 8 · Autism & Architecture 10 · AAC & Communication Supports 10 · ENERGY Suite 5 · Public Space, Place & Intersectionality 6 · People 11 · Promoted 7.
+- Long author lists in three review-paper teasers were shortened to `et al.` ([[vargas-et-al-2025-co-design-systematic-review]], [[peters-et-al-2024-co-design-evaluation]], [[kilfoy-et-al-2024-digital-codesign-umbrella-review]]); full author lists remain on the pages.
+- No page was omitted; no summary was invented.
+
+### Findings raised during the rebuild
+
+> [!todo] missing-summary (heading form): 10 pages carry their summary as an inline `**Summary** — …` paragraph instead of a `## Summary` section, which `_schema.md` requires. Their summary text exists and was used verbatim for the teaser, so nothing was invented, but the heading should be normalised: `pages/jessica-dark.md`, `pages/neuro-cognitive-trait-interaction-model.md`, `pages/eight-principles-of-neuro-inclusion.md`, `pages/communication-preferences.md`, `pages/executive-functioning.md`, `pages/monotropic-attention.md`, `pages/autism-embodiment.md`, `pages/epistemic-justice.md`, `pages/epistemic-enablement.md`, `pages/relational-inclusion.md`. All ten are from the Dark 2025 ingest.
+
+> [!todo] broken-wikilink: `[[sensory-preferences]]` is cited in five Summary sections but no such page exists — `pages/adult-adolescent-sensory-profile.md`, `pages/adult-sensory-history.md`, `pages/nait-sensory-checklist.md`, `pages/sensory-assessment-neurodevelopmental.md`, `pages/calming-and-alerting-strategies.md`. Flattened to plain text in the index so the catalogue carries no dead links. Either create the page or re-point the links.
+
+> [!todo] duplicate-page: `pages/jenkins-et-al-2015-multisensory-visual-impairment.md` and `pages/Experience of Multisensory Environments in Public Space among People with Visual Impairment.md` have identical Summary text and appear to be the same study. Both are indexed pending a merge decision. The second also violates the `kebab-case.md` filename convention in `_schema.md`.
+
 ## 2026-10-17 — Merge: Quartz working copy folded back into edit vault
 
 - The Quartz `content/` copy had been edited directly in Obsidian from 2026-04-16 to 2026-08-01, so it had split from the edit vault. This vault is now the single source of truth.

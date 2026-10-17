@@ -1,7 +1,16 @@
 # Wiki Index
 
 Catalog of all wiki pages. Maintained by the LLM. Do not hand-edit.
-Last rebuilt: 2026-10-17 (merged with Quartz-side additions 2026-04-16 → 2026-08-01).
+Last rebuilt: 2026-10-17 (full rebuild from page sources; 193 pages).
+
+Teaser rule: each entry reproduces the **first sentence of that page's `## Summary`**,
+with inline `[[wikilinks]]` flattened to plain text so this file stays a clean triage
+layer. Where a Summary opens with a bare bibliographic citation, the teaser is the
+first *descriptive* sentence instead — the page filename already carries author and year.
+
+Grouping is thematic rather than by folder: `pages/` is flat apart from
+`pages/promoted/`, so folders would not separate anything useful. Promoted pages are
+tagged `(promoted)`.
 
 ---
 
@@ -21,8 +30,8 @@ Last rebuilt: 2026-10-17 (merged with Quartz-side additions 2026-04-16 → 2026-
 - [[sensory-sensitivity-coping-strategies]] — Coping strategies are mechanisms individuals use to manage, reduce, or tolerate sensory sensitivities.
 - [[sensory-sensitivity-exacerbating-factors]] — Exacerbating factors are conditions or states that amplify or intensify subjective sensory sensitivities.
 - [[canary-code]] — The Canary Code is a model developed by Dr. Ludmila Praslova for neurodiversity and intersectional inclusion in workplaces and research teams.
-- [[bernard-et-al-2023-inclusion-ethics]] — A 2023 commentary in *Industrial and Organizational Psychology* (Vol. 16, Issue 1) arguing that neurodiversity research conducted without neurodivergent collaborators risks reproducing harmful, neurotypical-biased assumptions.
-- [[price-et-al-2025-sensory-sensitivities]] — Price, A., Oates, R., Sumner, P., & Powell, G. (2025) "They Impact My Life Daily and Greatly": A Qualitative Exploration of How Subjective Sensory Sensitivities Are Experienced, Exacerbated, and Coped With — a diagnosis-independent qualitative study of 713 individuals.
+- [[bernard-et-al-2023-inclusion-ethics]] — A 2023 commentary in *Industrial and Organizational Psychology* (Vol. 16, Issue 1, pp. 50–54; DOI: 10.1017/iop.2022.100) arguing that neurodiversity research conducted without neurodivergent collaborators risks reproducing harmful, neurotypical-biased assumptions.
+- [[price-et-al-2025-sensory-sensitivities]] — A diagnosis-independent qualitative study of 713 individuals exploring how subjective sensory sensitivities affect daily life, what exacerbates them, and how people cope.
 - [[functioning-labels]] — Functioning labels ("high-functioning" / "low-functioning") are contested descriptors applied to autistic people that reduce fluctuating, multidimensional abilities to a single binary.
 - [[identity-first-language]] — Identity-first language ("autistic person") is preferred by most autistic people over person-first language ("person with autism") because autism is understood as an intrinsic, lifelong aspect of identity rather than a separate condition a person carries.
 - [[autism-healthcare-outcomes]] — Autistic individuals experience measurably worse physical health outcomes than the general population — shorter lifespans, higher mortality rates, and longer illness durations.
@@ -31,7 +40,7 @@ Last rebuilt: 2026-10-17 (merged with Quartz-side additions 2026-04-16 → 2026-
 
 - [[jessica-dark]] — Jessica Dark is a neurodivergent scholar and doctoral researcher at Birkbeck, University of London, working at the intersection of neurodiversity, inclusive research methodology, and organizational psychology.
 - [[neuro-cognitive-trait-interaction-model]] — The Neuro-Cognitive Trait Interaction Model (NCTIM) is an original methodological framework for inclusive research design developed by Jessica Dark (2025).
-- [[eight-principles-of-neuro-inclusion]] — The Eight Principles of Neuro-Inclusion (Dark, 2024) is a complementary framework that emphasizes autonomy, trust, and epistemic respect in inclusive neurodivergent research.
+- [[eight-principles-of-neuro-inclusion]] — The Eight Principles of Neuro-Inclusion (Dark, 2024) is a complementary framework developed by Jessica Dark that emphasizes autonomy, trust, and epistemic respect.
 - [[communication-preferences]] — Communication preferences describe the diverse ways neurodivergent people prefer to express themselves, process information, and engage in dialogue.
 - [[executive-functioning]] — Executive functioning encompasses cognitive processes involved in planning, organizing, initiating tasks, managing time, switching attention between tasks, and regulating behavior and emotions.
 - [[monotropic-attention]] — Monotropic attention is a pattern of attentional focus in which cognitive resources concentrate intensely on one or a few interconnected interests at a time, rather than distributing attention fluidly across multiple simultaneous activities.
@@ -89,7 +98,7 @@ Last rebuilt: 2026-10-17 (merged with Quartz-side additions 2026-04-16 → 2026-
 - [[tactile-navigation-cues]] — Haptic sensations from ground surfaces and textures that guide people with visual impairment during navigation.
 - [[thermal-navigation-cues]] — Temperature, airflow, and sunlight placement that provide orientation cues for people with visual impairment.
 - [[context-dependent-sensory-effectiveness]] — The effectiveness of sensory cues for people with visual impairment varies dramatically based on context.
-- [[occupational-therapy-visual-impairment]] — Occupational therapy's critical role in rehabilitation and habilitation of people with visual impairment, particularly in understanding the transactional relationship between sensory characteristics in built environments, occupations, and individual needs.
+- [[occupational-therapy-visual-impairment]] — Occupational therapy's critical role in rehabilitation and habilitation of people with visual impairment, particularly in understanding the transactional relationship between sensory characteristics in built environments, occupations, and individual needs to support participation and engagement.
 - [[universal-design-public-space]] — Application of universal design principles to public spaces to ensure accessibility and usability for all people, including those with visual impairment, without visible stigmatization or special accommodation.
 
 ## Neuro-Inclusive Design
@@ -97,12 +106,12 @@ Last rebuilt: 2026-10-17 (merged with Quartz-side additions 2026-04-16 → 2026-
 - [[sensory-responsive-environments-framework]] — The Sensory Responsive Environments Framework (SREF™) is a theoretical and design framework developed by Finnigan (2024) to support the inclusion of neurodivergent individuals with sensory sensitivities in designed outdoor built environments.
 - [[sensory-responsive-design]] — Sensory responsive design is an approach to built environment planning and design that deliberately accommodates diverse sensory processing styles, particularly those of neurodivergent individuals experiencing hypersensitivities and hyposensitivities.
 - [[sensory-refuge]] — A sensory refuge is a space within an overstimulating environment (typically a park, plaza, or public outdoor space) that is deliberately designed to be calm, quiet, and free from anthropogenic sensory stressors.
-- [[sensory-zoning]] — Sensory zoning is a spatial design strategy within the sensory-responsive-environments-framework that creates diversified landscape areas with varied sensory affordances, allowing users with different sensory needs to choose appropriate experiences.
-- [[design-from-sensorial-margins]] — Design from the Sensorial Margins (DFSM) is a design principle adapted from Rigot's (2022) "Design from the Margins" approach, applied to sensory needs in the sensory-responsive-environments-framework.
+- [[sensory-zoning]] — Sensory zoning is a spatial design strategy within the Sensory Responsive Environments Framework that creates diversified landscape areas with varied sensory affordances, allowing users with different sensory needs to choose appropriate experiences.
+- [[design-from-sensorial-margins]] — Design from the Sensorial Margins (DFSM) is a design principle adapted from Rigot's (2022) "Design from the Margins" approach, applied to sensory needs in the Sensory Responsive Environments Framework.
 - [[biophilic-design]] — Biophilic design is an approach that incorporates nature-based elements, natural materials, living systems, and natural processes into built environments to support human health, well-being, and sensory engagement.
 - [[salutogenic-design]] — Design approach that emphasizes health-promoting features, assets, strengths, and resources rather than deficit-focused risk management.
 - [[neuro-inclusive-design]] — Neuro-inclusive design is an approach to architecture, landscape, and urban design that intentionally accommodates diverse neurological profiles, including autism, ADHD, dyslexia, and other forms of neurodivergence.
-- [[autism-friendly-design]] — Autism-friendly design is a specialized approach within neuro-inclusive design that creates built environments deliberately accommodating the sensory processing, social, and communication characteristics of autistic individuals.
+- [[autism-friendly-design]] — Autism-friendly design is a specialized approach within neuro-inclusive design that creates built environments (particularly indoor spaces and therapeutic settings) deliberately accommodating the sensory processing, social, and communication characteristics of autistic individuals.
 - [[landscape-architecture-neurodiversity]] — Landscape architecture for neurodiversity is the field practice of designing outdoor built environments (parks, plazas, streetscapes, transportation systems, educational and work spaces) that support the sensory, cognitive, and social needs of neurodivergent individuals.
 - [[the-sensorial-prism]] — The Sensorial Prism™ is a visualization framework developed by Finnigan (2024) that conceptualizes the spectrum of hypo- and hyper-sensitivities across all eight sensory systems in a non-dichotomous manner.
 - [[affordances]] — Concept from ecological psychology (Gibson, 2015) describing the relationship between an environment and an individual—the possibilities for action that environmental features offer.
@@ -135,38 +144,38 @@ Last rebuilt: 2026-10-17 (merged with Quartz-side additions 2026-04-16 → 2026-
 - [[showed-method]] — A structured discussion technique used in photovoice to stimulate critical dialogue about photographs.
 - [[intellectual-disability]] — Significant limitations in intellectual functioning and adaptive behaviour that manifest before the age of 18 (Schalock et al., 2010).
 - [[chinn-balota-2024-photovoice-intellectual-disabilities]] — Systematic review of 31 photovoice studies (2003–2022) with people with intellectual disabilities, examining adaptations to the method, collaboration and power dynamics, and impact and outcomes.
-- [[health-disparities]] — Health disparities are inequities in health outcomes, access, effectiveness, uptake, and reach of treatments and programming across populations, particularly affecting marginalized groups.
+- [[health-disparities]] — Health disparities are inequities in health outcomes, access, effectiveness, uptake, and reach of treatments and programming across populations, particularly affecting marginalized groups (e.g., ethnic and racial minorities).
 - [[capacity-building]] — Capacity building in the context of CBPR refers to the assessment of the strengths and needs of individuals and their communities and the provision of assistance in further developing community members', institutions', and organizations' skills, resources, and competencies.
 - [[cultural-humility]] — Cultural humility is an orientation involving an accurate view of one's own identity, not assuming one's own identities, values, and perspectives are superior to others', and being open to and interested in the identities, values, and perspectives of others.
 - [[patient-and-public-involvement]] — Patient and Public Involvement (PPI) is a research co-design approach, predominantly used in the United Kingdom, defined as doing research "with" or "by" the public rather than "to," "about," or "for" the public.
 - [[research-waste]] — Research waste refers to the avoidable loss of health research investment through non-publication, incomplete reporting, poor design, and misalignment between researcher priorities and the needs of patients, clinicians, and other end-users.
-- [[gripp2]] — Guidance for Reporting Involvement of Patients and the Public, version 2 (GRIPP2) is an Equator Network reporting checklist developed by Staniszewska et al. (2017) providing a standardized series of concepts to consider and report when incorporating patient and public involvement in research.
+- [[gripp2]] — Guidance for Reporting Involvement of Patients and the Public, version 2 (GRIPP2) is an Equator Network reporting checklist developed by Staniszewska et al. (2017) providing a standardized series of concepts to consider and report when incorporating patient and public involvement (PPI) in research.
 - [[amstar-2]] — A Measurement Tool to Assess Systematic Reviews, version 2 (AMSTAR-2) is a critical appraisal instrument for evaluating the methodological quality of systematic reviews, including both randomized and non-randomized studies.
 - [[co-design-evaluation-framework]] — A framework developed by Peters et al. (2024) using a tree metaphor to guide evaluation of research co-design processes and impacts.
 - [[mate-taxonomy]] — The MATE (Methodology, Agent of change, Training, and Engagement) taxonomy is a framework for understanding and classifying participatory design applications according to the methods used and their potential to facilitate meaningful participant engagement.
 - [[digital-health-interventions]] — Health interventions delivered through digital tools or communication technologies that collect, store, share, and analyze health information to improve patient health and healthcare delivery.
 - [[transparency-in-participatory-research]] — Transparency in participatory research is the practice of documenting, sharing, and explaining decisions made in response to community advisory board feedback—specifically, what actions were taken, what wasn't, and why.
 - [[psychological-safety-in-research]] — Psychological safety in research contexts refers to the shared belief that Community Advisory Board members can take interpersonal risks—such as expressing controversial opinions, sharing lived experiences, or admitting gaps in understanding—without fear of negative consequences.
-- [[vaughn-jacquez-2020-choice-points]] — Vaughn, L.M. & Jacquez, F. (2020) "Participatory Research Methods – Choice Points in the Research Process" introducing a model of decision junctures at each step of the research cycle where partnerships must decide which tools and methods will produce the desired level of participation.
-- [[cornish-et-al-2023-par-primer]] — A comprehensive methods primer on participatory action research (PAR) published in *Nature Reviews Methods Primers* (2023), authored by Flora Cornish et al., defining PAR as an approach that prioritizes experiential knowledge for tackling problems caused by unequal social systems.
+- [[vaughn-jacquez-2020-choice-points]] — Introduces a model of "choice points" — decision junctures at each step of the research cycle where academic-community partnerships must decide which tools and methods will produce the desired level of participation.
+- [[cornish-et-al-2023-par-primer]] — A comprehensive methods primer on participatory action research (PAR) published in *Nature Reviews Methods Primers* (2023).
 - [[vargas-et-al-2025-co-design-systematic-review]] — Systematic review by Vargas et al. (*Journal of Public Health*, 2025) synthesizing 55 peer-reviewed articles (2016–2024) on the use of co-design as a process in public health.
 - [[peters-et-al-2024-co-design-evaluation]] — Systematic overview of reviews by Peters et al. (*Implementation Science*, 2024) developing the Co-Design Evaluation Framework.
-- [[slattery-et-al-2020-codesign-overview]] — Slattery, Saeri & Bragge (2020) rapid overview of reviews examining research co-design in health settings, synthesizing 26 records (23 reviews) to address what co-design approaches exist, what activities they involve, and what is known about their effectiveness.
+- [[slattery-et-al-2020-codesign-overview]] — Slattery, Saeri & Bragge (2020) conducted a rapid overview of reviews examining research co-design in health settings, synthesizing 26 records (23 reviews) to address three questions: what co-design approaches exist, what activities they involve, and what is known about their effectiveness.
 - [[kilfoy-et-al-2024-digital-codesign-umbrella-review]] — Umbrella review by Kilfoy et al. (*npj Digital Medicine*, 2024) synthesizing 21 reviews (2015–2023) on how co-design of digital health interventions is conducted and reported.
-- [[collins-et-al-2018-cbpr-psychology]] — Collins et al. (2018) "Community-based Participatory Research (CBPR): Towards Equitable Involvement of Community in Psychology Research" (*American Psychologist*, 73(7), 884–898): introduces CBPR to a general psychology audience with seven principles and a Housing First case study.
+- [[collins-et-al-2018-cbpr-psychology]] — Introduces CBPR to a general psychology audience, defining its principles, differentiating it from traditional researcher-centered practice, retracing its historical roots in Lewin's action research and Freire's liberation pedagogy, providing concrete implementation steps, and illustrating CBPR through a Housing First case study with the LEAP Advisory Board.
 
 ## Scandinavian Participatory Design
 
 - [[scandinavian-participatory-design]] — A tradition of participatory design originating in Scandinavian countries in the 1970s, distinguished from other user-participation approaches not by particular methods but by three principles: deep commitments to democracy and democratisation, explicit discussions of values in design and imagined futures, and treating conflict and contradictions as resources in design.
 - [[mutual-learning]] — A core principle of Scandinavian participatory design and participatory action research in which designers/researchers and users/participants learn from each other through collaborative engagement.
-- [[values-in-design]] — A distinguishing principle of Scandinavian participatory design holding that design is an inherently value-laden activity and that values—including design intentions, imagined futures, and commitments to democracy—should be made explicit and discussed collaboratively among all participants rather than treated as external to the technical process.
+- [[values-in-design]] — A distinguishing principle of Scandinavian participatory design holding that design is an inherently value-laden activity and that values — including design intentions, imagined futures, and commitments to democracy — should be made explicit and discussed collaboratively among all participants rather than treated as external to the technical process.
 - [[conflict-as-resource-in-design]] — A distinguishing principle of Scandinavian participatory design holding that conflicts, contradictions, different perspectives, argument, and heterogeneity are generative resources in design rather than problems to be eliminated.
 - [[use-before-use]] — A core concept in Participatory Design coined by Pelle Ehn (2008) describing the central challenge that the use of a designed object can only be envisioned or anticipated during the design process because there is no actual artefact to use yet.
 - [[future-workshop]] — A participatory method originally developed by Robert Jungk and Norbert Mullert (1981) to involve citizens in public decision-making processes such as city planning.
-- [[participatory-prototyping]] — A core Participatory Design method (also called cooperative or collaborative prototyping) in which values are translated into requirements and materialised in a designed object through active involvement of future users.
-- [[value-sensitive-design]] — A design approach (VSD) that aims to advance a predefined set of moral values in technology design, particularly human welfare, ownership and property, privacy, freedom from bias, universal usability, trust, autonomy, informed consent, accountability, identity, calmness, and environmental sustainability.
-- [[gregory-2003-scandinavian-pd]] — Gregory, J. (2003) "Scandinavian Approaches to Participatory Design" (*International Journal of Engineering Education*, 19(1), 62–74): a review arguing that three principles distinguish Scandinavian participatory design from other user-participation traditions.
-- [[van-der-velden-mortberg-pd-values]] — Book chapter presenting six guiding principles of Participatory Design and arguing that PD is a value-centred design approach where values emerge dynamically during the design process, contrasting PD with Value Sensitive Design.
+- [[participatory-prototyping]] — A core Participatory Design method (also called cooperative or collaborative prototyping) in which values are translated into requirements and materialised in a designed object through active involvement of future users (Lim, Stolterman & Tenenberg 2008).
+- [[value-sensitive-design]] — A design approach (VSD) that aims to advance a predefined set of moral values in technology design, particularly human welfare, ownership and property, privacy, freedom from bias, universal usability, trust, autonomy, informed consent, accountability, identity, calmness, and environmental sustainability (Friedman & Kahn 2003).
+- [[gregory-2003-scandinavian-pd]] — A review arguing that three principles distinguish Scandinavian participatory design from other user-participation traditions: deep commitments to democracy and democratisation; explicit discussions of values in design and imagined futures; and treating conflict and contradictions as resources in design.
+- [[van-der-velden-mortberg-pd-values]] — Book chapter building on the Scandinavian Participatory Design tradition, presenting six guiding principles of PD and arguing that PD is a value-centred design approach where values emerge dynamically during the design process.
 
 ## Research Ethics & Epistemology
 
@@ -182,10 +191,10 @@ Last rebuilt: 2026-10-17 (merged with Quartz-side additions 2026-04-16 → 2026-
 ## Autism & Architecture (Mostafa / ASPECTSS)
 
 - [[aspectss-design-index]] — The ASPECTSS® Design Index is the first set of evidence-based design guidelines worldwide to address built environments for individuals with Autism Spectrum Disorder.
-- [[design-for-autism-design-for-all]] — "When we design for autism, we design better for everyone" is a thesis advanced by [[magda-mostafa|Magda Mostafa]] arguing that autistic sensory needs, when centred in design, produce environments that benefit the full neurological spectrum — including neurotypical individuals.
-- [[mostafa-2022-architecture-for-all]] — Short position piece by [[magda-mostafa|Magda Mostafa]] (published 2022-02-06, IQD Magazine / autism.archi) articulating her equity principle for architectural practice and contextualising ASPECTSS® within the shifting discourse around autism identity.
-- [[mostafa-et-al-2023-aspectss-case-study]] — Mostafa, Sotelo, Honsberger, Honsberger, Brooker Lozott & Shanok (2023) report a mixed-methods case study assessing the efficacy of [[aspectss-design-index|ASPECTSS]]-informed design interventions at a K-12 public charter school for autistic students (Els for Autism / The Learning Academy, Jupiter, Florida).
-- [[autism-friendly-university-design-guide]] — The Autism Friendly University Design Guide is an open-access design guide developed by [[magda-mostafa|Magda Mostafa]] (Progressive Architects / American University in Cairo) for Dublin City University (DCU), the world's first designated autism-friendly university.
+- [[design-for-autism-design-for-all]] — "When we design for autism, we design better for everyone" is a thesis advanced by Magda Mostafa arguing that autistic sensory needs, when centred in design, produce environments that benefit the full neurological spectrum — including neurotypical individuals.
+- [[mostafa-2022-architecture-for-all]] — Short position piece by Magda Mostafa (published 2022-02-06, IQD Magazine / autism.archi) articulating her equity principle for architectural practice and contextualising ASPECTSS® within the shifting discourse around autism identity.
+- [[mostafa-et-al-2023-aspectss-case-study]] — Mostafa, Sotelo, Honsberger, Honsberger, Brooker Lozott & Shanok (2023) report a mixed-methods case study assessing the efficacy of ASPECTSS-informed design interventions at a K-12 public charter school for autistic students (Els for Autism / The Learning Academy, Jupiter, Florida).
+- [[autism-friendly-university-design-guide]] — The Autism Friendly University Design Guide is an open-access design guide developed by Magda Mostafa (Progressive Architects / American University in Cairo) for Dublin City University (DCU), the world's first designated autism-friendly university.
 - [[autism-lifespan-design]] — Autism lifespan design is the recognition that autistic individuals require built environment support across all life stages — not only in childhood and K-12 schooling — and that design and advocacy infrastructure must expand accordingly.
 - [[strength-based-approach-autism-design]] — A strength-based approach to autism and the built environment reframes autistic individuals as bringing strengths, abilities, insights, and alternate perspectives — not deficits requiring remediation.
 - [[post-occupancy-evaluation]] — Post-Occupancy Evaluation (POE) is a systematic assessment of a built environment after it has been occupied and in use, comparing actual performance against design intent.
@@ -195,7 +204,7 @@ Last rebuilt: 2026-10-17 (merged with Quartz-side additions 2026-04-16 → 2026-
 ## AAC & Communication Supports
 
 - [[augmentative-alternative-communication]] — Augmentative and alternative communication (AAC) is any means of communication other than an established spoken or signed language, used to supplement or replace speech for people whose daily communication needs are not otherwise met.
-- [[core-vocabulary]] — Core vocabulary is the small set of high-frequency, cross-context words (pronouns, common verbs, prepositions, question words, negation, descriptors, and social words) that make up the reusable backbone of an AAC vocabulary system, as distinct from context-specific [[picture-exchange-communication-system|fringe vocabulary]].
+- [[core-vocabulary]] — Core vocabulary is the small set of high-frequency, cross-context words (pronouns, common verbs, prepositions, question words, negation, descriptors, and social words) that make up the reusable backbone of an AAC vocabulary system, as distinct from context-specific fringe vocabulary.
 - [[communication-boards]] — Communication boards are a rapid-access, paper-based form of augmentative and alternative communication (AAC) that use symbols to help autistic and other students communicate without needing electricity or batteries.
 - [[aided-language-stimulation]] — Aided language stimulation is the practice of communication partners modeling language directly on an AAC user's own system throughout the day, rather than relying solely on periodic therapy sessions.
 - [[picture-exchange-communication-system]] — The Picture Exchange Communication System (PECS) is a specific augmentative-and-alternative-communication protocol in which an individual exchanges pictures with a communication partner to convey a message.
@@ -203,15 +212,15 @@ Last rebuilt: 2026-10-17 (merged with Quartz-side additions 2026-04-16 → 2026-
 - [[prompt-hierarchy]] — The prompt hierarchy is a least-to-most prompting sequence for supporting AAC use: begin with modeling and wait time, then indirect visual cues (e.g., moving the device closer, gesturing toward it), before considering any physical prompt.
 - [[visual-supports]] — Visual supports are pictures, photographs, objects, or words used to support a student, such as visual schedules, timers, task breakdowns, feelings charts, or first/then boards.
 - [[universal-design-for-learning]] — Universal Design for Learning (UDL) is a three-part instructional framework recommending that educators vary how they engage and motivate learners, present information, and allow learners to demonstrate knowledge.
-- [[project-core]] — Project Core is an implementation grant directed by the Center for Literacy and Disability Studies, designed to empower teachers and classroom professionals to provide students access to a flexible Universal Core vocabulary and evidence-based communication instruction, including [[aided-language-stimulation]] professional-learning modules.
+- [[project-core]] — Project Core is an implementation grant directed by the Center for Literacy and Disability Studies, designed to empower teachers and classroom professionals to provide students access to a flexible Universal Core vocabulary and evidence-based communication instruction, including aided language stimulation professional-learning modules.
 
 ## Energy & Self-Regulation Tools (ENERGY Suite)
 
 - [[energy-suite]] — The ENERGY Suite is a set of six sequential tools for helping autistic and neurodivergent people (and their support teams) understand and regulate their energy levels.
-- [[my-energy]] — My Energy is Tool 1 (or an early tool) in the [[energy-suite]], centered on an "Energy Meter" that identifies mismatches between a person's energy level and the demands of their environment or activity.
-- [[the-regulator]] — The Regulator is a tool in the [[energy-suite]] that catalogs regulation strategies, including "Power Packs" of strategies with a neutral effect on energy (i.e., strategies that help maintain rather than raise or lower energy levels).
-- [[pic-tool]] — The PIC Tool is a tool in the [[energy-suite]] used to identify known triggers, challenging contexts, and environmental accommodations, and to anticipate mismatches between a person's profile and their environment or activities.
-- [[power-plan]] — The Power Plan is Tool 6 of the [[energy-suite]], the capstone tool where information from [[my-energy]], [[the-regulator]], the regulation-strategy worksheets, and the [[pic-tool]] is synthesized into a comprehensive plan for "Powering UP!" and "Powering Down" a person's energy levels.
+- [[my-energy]] — My Energy is Tool 1 (or an early tool) in the ENERGY Suite, centered on an "Energy Meter" that identifies mismatches between a person's energy level and the demands of their environment or activity.
+- [[the-regulator]] — The Regulator is a tool in the ENERGY Suite that catalogs regulation strategies, including "Power Packs" of strategies with a neutral effect on energy (i.e., strategies that help maintain rather than raise or lower energy levels).
+- [[pic-tool]] — The PIC Tool is a tool in the ENERGY Suite used to identify known triggers, challenging contexts, and environmental accommodations, and to anticipate mismatches between a person's profile and their environment or activities.
+- [[power-plan]] — The Power Plan is Tool 6 of the ENERGY Suite, the capstone tool where information from My Energy, The Regulator, the regulation-strategy worksheets, and the PIC Tool is synthesized into a comprehensive plan for "Powering UP!" and "Powering Down" a person's energy levels.
 
 ## Public Space, Place & Intersectionality
 
@@ -228,12 +237,12 @@ Last rebuilt: 2026-10-17 (merged with Quartz-side additions 2026-04-16 → 2026-
 - [[paulo-freire]] — Brazilian educator and philosopher (1921–1997) whose work on critical pedagogy and emancipatory education is foundational to participatory action research.
 - [[ludmila-praslova]] — Dr. Ludmila Praslova is an autistic industrial-organizational psychologist and researcher focused on diversity, equity, inclusion, and intersectional accessibility.
 - [[judy-singer]] — Judy Singer is an Australian sociologist credited with coining the term "neurodiversity" — a concept covering the natural variation between human brains, encompassing both atypical and neurotypical minds.
-- [[magda-mostafa]] — Magda Mostafa is an Egyptian autism design consultant and architect, developer of the [[aspectss-design-index|ASPECTSS® Design Index]] (2013, American University in Cairo, in partnership with Progressive Architects).
+- [[magda-mostafa]] — Magda Mostafa is an Egyptian autism design consultant and architect, developer of the ASPECTSS® Design Index (2013, American University in Cairo, in partnership with Progressive Architects).
 - [[zakia-shafie]] — Zakia Shafie is an Egyptian architect and academic noted as one of the first female architects in Egypt and the first female chair of an architectural department in the Middle East.
 - [[ruth-baumeister]] — Ruth Baumeister is an architect and Associate Professor of Theory and History at the Aarhus School of Architecture (Denmark).
 - [[tirill-bjorkeli-svaler]] — Tirill Bjørkeli Svaler is a researcher affiliated with the Faculty of Social Sciences, Oslo Metropolitan University, Norway.
 - [[maria-rodo-zarate]] — Maria Rodó-Zárate is a Serra Húnter Fellow at the University of Barcelona.
-- [[stuart-neilson]] — Stuart Neilson is an autistic researcher, artist, and blogger based in Cork, Ireland, known for developing the [[motion-intensity-heatmap|motion intensity heatmap]] methodology for visualising pedestrian movement patterns in public spaces.
+- [[stuart-neilson]] — Stuart Neilson is an autistic researcher, artist, and blogger based in Cork, Ireland, known for developing the motion intensity heatmap methodology for visualising pedestrian movement patterns in public spaces.
 - [[chloe-rothschild]] — Chloe Rothschild is an autistic educational consultant and self-advocate who speaks about needing multiple communication options, including communication boards, alongside her spoken language.
 
 ## Promoted Pages
@@ -243,5 +252,5 @@ Last rebuilt: 2026-10-17 (merged with Quartz-side additions 2026-04-16 → 2026-
 - [[promoted/q-designing-spaces-for-neurodivergent-people]] — A synthesis of neuro-inclusive design principles oriented toward architectural practice. (promoted)
 - [[promoted/q-cbpr-neurodivergent]] — Community-Based Participatory Research (CBPR) applied to neurodivergent communities requires treating neurodivergent lived experience as a primary knowledge source, designing environments that actively enable epistemic participation, and sharing decision-making authority across all research phases. (promoted)
 - [[promoted/q-sensory-room-architectural-installations]] — Architectural installation interventions for a sensory room address spatial structure, material surfaces, lighting, and modality-specific sensory affordances. (promoted)
-- [[promoted/q-aac-backup-board-audit-checklist]] — A four-point checklist for auditing any facilitation note that adds a backup [[communication-boards|communication board]] to a research or visit protocol, cross-checked against [[core-vocabulary]], [[communication-boards]], [[aided-language-stimulation]], and [[prompt-hierarchy]]. (promoted)
-- [[promoted/q-core-vocabulary-affect-gap]] — [[core-vocabulary]]'s Descriptive/Quantity category carries only **good** and **bad** as affect terms. (promoted)
+- [[promoted/q-aac-backup-board-audit-checklist]] — A four-point checklist for auditing any facilitation note that adds a backup communication board to a research or visit protocol, cross-checked against core vocabulary, communication boards, aided language stimulation, and prompt hierarchy. (promoted)
+- [[promoted/q-core-vocabulary-affect-gap]] — Core vocabulary's Descriptive/Quantity category carries only **good** and **bad** as affect terms. (promoted)
