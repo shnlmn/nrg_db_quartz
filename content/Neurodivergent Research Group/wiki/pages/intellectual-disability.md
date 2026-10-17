@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/A systematic review of photovoice research methods with people with intellectual disabilities.md]
 updated: 2026-04-15
+abstract: "Significant limitations in intellectual functioning and adaptive behaviour manifesting before age 18; implications for inclusive research participation."
 ---
 
 # Intellectual Disability

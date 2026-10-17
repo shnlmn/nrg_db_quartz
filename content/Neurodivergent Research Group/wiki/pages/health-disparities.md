@@ -3,6 +3,7 @@ type: concept
 sources:
   - "raw/Community-based Participatory Research (CBPR)_ Towards Equitable Involvement of Community in Psychology Research.md"
 updated: 2026-04-15
+abstract: "Inequities in health outcomes across populations, particularly marginalized groups; primary driving imperative for CBPR adoption in psychology and public health."
 ---
 
 # Health Disparities

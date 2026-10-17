@@ -2,6 +2,7 @@
 type: method
 sources: [raw/A systematic review of photovoice research methods with people with intellectual disabilities.md]
 updated: 2026-04-15
+abstract: "Structured five-question discussion technique (See, Happening, Our lives, Why, Do) used in photovoice to connect photographs to structural inequalities."
 ---
 
 # SHOWeD Method

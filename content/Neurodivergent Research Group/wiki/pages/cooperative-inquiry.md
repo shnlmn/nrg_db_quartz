@@ -2,6 +2,7 @@
 type: method
 sources: [raw/1-s2.0-S2666374025000597-main.extracted.md]
 updated: 2026-04-15
+abstract: "Flexible, child-led participatory design methodology adapting to neurodivergent participants' individual needs, behaviors, and communication styles."
 ---
 
 # Cooperative Inquiry

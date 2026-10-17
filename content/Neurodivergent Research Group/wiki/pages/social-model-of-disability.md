@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/The Neurodiversity Attitudes Questionnaire_ Development and Initial Validation.md]
 updated: 2026-04-14
+abstract: "Framework viewing disability as caused by environmental barriers, not individual impairment; separates impairment from disability."
 ---
 
 # Social Model of Disability

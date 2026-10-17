@@ -2,6 +2,7 @@
 type: method
 sources: [raw/The Neurodiversity Attitudes Questionnaire_ Development and Initial Validation.md]
 updated: 2026-04-14
+abstract: "First validated instrument (NDAQ) measuring attitudes toward the neurodiversity perspective broadly across a five-factor structure."
 ---
 
 # Neurodiversity Attitudes Questionnaire

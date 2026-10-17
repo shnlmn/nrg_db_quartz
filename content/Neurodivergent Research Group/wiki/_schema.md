@@ -29,10 +29,29 @@ insights. Sources are immutable; wiki pages are owned and maintained by the LLM.
   ---
   ```
 - Body sections (use what applies):
-  - **Summary** — 1–3 sentence definition.
+  - **Summary** (REQUIRED, must be FIRST section) — 2–5 sentences, everything a
+    reader needs to know for most purposes. Place it so a partial read of the
+    first ~40 lines captures it. Its FIRST SENTENCE is the page's short teaser
+    (what `_index.md` reproduces), so write that sentence as a self-contained
+    one-line description of the page.
   - **Key claims** — bulleted, each with a `[[wikilink]]` to the source page.
   - **Related** — `[[wikilinks]]` to adjacent pages.
   - **Open questions** — unresolved items the wiki should track.
+
+## Progressive disclosure
+
+The wiki is organized so Claude can answer most questions cheaply:
+
+1. `_index.md` — one entry per page with a one-sentence teaser (the first
+   sentence of that page's `## Summary`). Read this first for any query;
+   it's the triage layer.
+2. Each page's `## Summary` is positioned first so `Read <page> limit: 40`
+   is enough when the Summary is all you need.
+3. Only read the full page when the Summary doesn't resolve the query.
+
+When creating or updating pages, keep `Summary` near the top and write its
+first sentence so it stands alone as a page teaser — that sentence is the
+single source of truth for the index.
 - Cite source pages with `[[raw/source-name]]` style wikilinks (Obsidian-resolvable).
 - Every non-trivial claim must trace to at least one source.
 

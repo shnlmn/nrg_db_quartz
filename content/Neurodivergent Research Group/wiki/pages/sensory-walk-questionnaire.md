@@ -3,6 +3,7 @@ type: method
 sources:
   - "raw/Sensory characteristics of a place_ The development of the sensory walk questionnaire.md"
 updated: 2026-04-14
+abstract: "Quantitative multi-sensory tool (CATA lexicon + hedonic/intensity/appropriateness ratings) for characterising the sensory experience of a place."
 ---
 
 # Sensory Walk Questionnaire

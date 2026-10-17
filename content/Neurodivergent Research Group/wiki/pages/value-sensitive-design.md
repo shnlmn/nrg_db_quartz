@@ -3,6 +3,7 @@ type: concept
 sources:
   - raw/Participatory_Design_and_Design_for_Valu.extracted.md
 updated: 2026-04-15
+abstract: "Design approach (VSD) advancing predetermined moral values in technology design; contrasted with PD's emergent value approach (Friedman & Kahn 2003)."
 ---
 
 # Value Sensitive Design

@@ -4,6 +4,17 @@ Append-only chronological record of ingest, query-promotion, and lint operations
 
 ---
 
+## 2026-10-17 — Merge: Quartz working copy folded back into edit vault
+
+- The Quartz `content/` copy had been edited directly in Obsidian from 2026-04-16 to 2026-08-01, so it had split from the edit vault. This vault is now the single source of truth.
+- Three-way merge against the common ancestor (Quartz repo commit `7ab97ed8`, 2026-04-15 22:15). Kept this vault's `abstract:` frontmatter and progressive-disclosure rules, and took every Quartz-side page, raw file, link fix and log entry.
+- Frontmatter conflicts on 4 pages were resolved as Quartz `sources`/`updated` plus the vault `abstract`.
+- `_index.md` kept the 2026-04-16 thematic teaser format and gained 49 pages. Four new groups were added: Autism & Architecture; AAC & Communication Supports; ENERGY Suite; Public Space, Place & Intersectionality.
+- Not carried over: `pages/Untitled.base` (orphan), `pages/IDEAS.md` (same note as `pages/ideas.md`; lowercase name kept).
+- **Todo:** the 49 pages added on the Quartz side have no `abstract:` frontmatter yet.
+
+---
+
 ## 2026-08-01 11:00 — Query-promotion: core vocabulary affect gap
 
 - **Q&A promoted:** rendering "The color light makes me feel calm" in [[core-vocabulary]] — resolves to "Color light makes me feel good," with the *calm* sense unreachable from core words alone
@@ -442,6 +453,17 @@ Append-only chronological record of ingest, query-promotion, and lint operations
   - Entries at `34:00`, `33:00`, `32:00` on 2026-04-15 used sequential counters rather than wall-clock time; content is accurate; accepted as historical artefact
 - **§7 Uncited PDF originals — DOCUMENTED:**
   - Added note to `_schema.md` clarifying that PDF originals are considered incorporated when their `.extracted.md` counterparts are cited
+
+---
+
+## 2026-04-16 12:00 — index-rebuild
+
+- Walked all pages under `pages/`: 141 root pages + 3 promoted = **144 total**.
+- Extracted first sentence of `## Summary` for each page as its teaser.
+- **10 pages use `**Summary** —` inline bold format** instead of a `## Summary` heading (not flagged as missing — content is present, format is non-standard): `epistemic-justice`, `neuro-cognitive-trait-interaction-model`, `communication-preferences`, `monotropic-attention`, `executive-functioning`, `eight-principles-of-neuro-inclusion`, `jessica-dark`, `relational-inclusion`, `autism-embodiment`, `epistemic-enablement`.
+- `jenkins-et-al-2015-multisensory-visual-impairment` and `Experience of Multisensory Environments in Public Space among People with Visual Impairment` share an identical teaser — likely the same study; see prior lint report.
+- Rebuilt `_index.md` from scratch as a 9-group thematic index (Neurodiversity Foundations, Neuro-Cognitive Trait Research, Sensory Processing & Assessment, Sensory Research Methods, Visual Impairment & Navigation, Neuro-Inclusive Design, Play & Playground Design, Participatory & Co-Design Methods, Scandinavian Participatory Design, Research Ethics & Epistemology, People, Promoted Pages).
+- All 3 promoted pages tagged `(promoted)` in index.
 
 ---
 

@@ -2,6 +2,7 @@
 type: finding
 sources: [raw/Sensory Profile Assessment_ How to Interpret Results for Therapy Planning.md]
 updated: 2026-04-15
+abstract: "Evidence for high prevalence (95%) of sensory processing dysfunction in ASD and formal inclusion in DSM-5 diagnostic criteria (Criterion B4)."
 ---
 
 # Sensory Processing in Autism Spectrum Disorder

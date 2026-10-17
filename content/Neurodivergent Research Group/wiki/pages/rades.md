@@ -2,6 +2,7 @@
 type: method
 sources: [raw/fpsyg-15-1303397.extracted.md]
 updated: 2026-04-15
+abstract: "Reactions and Actions Description Survey: 120-image method eliciting first-person descriptions of emotional, sensory, bodily, and interactive place experiences."
 ---
 
 # RADES

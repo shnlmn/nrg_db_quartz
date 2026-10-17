@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/land-13-00636-v2.extracted.md, raw/Sensory_Responsive_Environments_A_Qualitative_Stud.extracted.md]
 updated: 2026-04-15
+abstract: "Reduced or diminished responsiveness to sensory stimuli; under-responsiveness manifesting as sensory-seeking behaviors across all eight modalities."
 ---
 
 # Hyposensitivity

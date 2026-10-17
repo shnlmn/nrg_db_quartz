@@ -2,6 +2,7 @@
 type: paper
 sources: ["raw/'They Impact My Life Daily and Greatly'_ A Qualitative Exploration of How Subjective Sensory Sensitivities Are Experienced, Exacerbated, and Coped With - Alice Price, Rebe.md"]
 updated: 2026-04-15
+abstract: "Diagnosis-independent qualitative study (n=713) of sensory sensitivity impact, exacerbating factors, coping strategies, and problematic locations."
 ---
 
 # Price Et Al 2025 Sensory Sensitivities

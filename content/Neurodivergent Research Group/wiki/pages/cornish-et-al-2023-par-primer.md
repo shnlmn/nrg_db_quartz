@@ -2,6 +2,7 @@
 type: paper
 sources: [raw/Participatory action research - Nature Reviews Methods Primers.md]
 updated: 2026-04-15
+abstract: "Nature Reviews Methods Primers (2023) defining six PAR building blocks, challenges, counter-strategies, and a comprehensive PAR glossary."
 ---
 
 # Cornish Et Al 2023 Par Primer

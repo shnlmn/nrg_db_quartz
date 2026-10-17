@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/dark-2025-inclusion-by-design-a-neuro-cognitive-trait-interaction-approach-to-neurodivergent-research.extracted.md]
 updated: 2026-04-15
+abstract: "Principle that inclusion is enacted through relationships and trust, not merely through policies, structures, or accessibility checklists."
 ---
 
 # Relational Inclusion

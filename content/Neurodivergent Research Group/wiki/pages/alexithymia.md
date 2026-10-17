@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/3 tips for designing user research for neurodivergent testers.md]
 updated: 2026-04-14
+abstract: "Difficulty identifying and articulating emotions, prevalent among neurodivergent people; implications for research question and survey design."
 ---
 
 # Alexithymia

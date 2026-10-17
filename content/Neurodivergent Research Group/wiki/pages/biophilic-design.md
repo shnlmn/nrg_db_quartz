@@ -2,6 +2,7 @@
 type: method
 sources: [raw/land-13-00636-v2.extracted.md, raw/Sensory_Responsive_Environments_A_Qualitative_Stud.extracted.md, raw/1-s2.0-S2666374025000597-main.extracted.md]
 updated: 2026-04-15
+abstract: "Design approach incorporating nature-based elements, natural materials, and living systems to support health, well-being, and sensory engagement."
 ---
 
 # Biophilic Design

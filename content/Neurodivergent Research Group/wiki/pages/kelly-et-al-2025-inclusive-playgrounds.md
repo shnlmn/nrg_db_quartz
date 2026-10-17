@@ -2,6 +2,7 @@
 type: paper
 sources: [raw/1-s2.0-S2666374025000597-main.extracted.md]
 updated: 2026-04-15
+abstract: "Co-design study with neurodivergent children identifying four design principles (sensory, challenging, social, natural) for inclusive school playgrounds."
 ---
 
 # Kelly et al. 2025: Inclusive School Playgrounds

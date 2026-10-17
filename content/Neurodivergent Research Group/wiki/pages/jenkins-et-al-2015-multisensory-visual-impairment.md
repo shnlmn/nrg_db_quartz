@@ -2,6 +2,7 @@
 type: paper
 sources: [raw/ijerph-12-08644.extracted.md]
 updated: 2026-04-15
+abstract: "Jenkins et al. (2015) qualitative study of 48 people with visual impairment exploring sensory navigation in public spaces across four non-visual modalities."
 ---
 
 # Jenkins et al. 2015: Multisensory Environments and Visual Impairment

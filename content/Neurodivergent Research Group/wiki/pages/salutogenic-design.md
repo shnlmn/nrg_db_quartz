@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/1-s2.0-S2666374025000597-main.extracted.md]
 updated: 2026-04-15
+abstract: "Design approach emphasizing health-promoting features and strengths rather than deficit-focused risk elimination; derived from Antonovsky's salutogenesis."
 ---
 
 # Salutogenic Design

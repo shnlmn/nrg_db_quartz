@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/dark-2025-inclusion-by-design-a-neuro-cognitive-trait-interaction-approach-to-neurodivergent-research.extracted.md, raw/AAC_and_Autism_Tip_Sheet_Edu.extracted.md]
 updated: 2026-07-26
+abstract: "Cognitive processes involved in planning, organizing, initiating tasks, and managing time; neuro-cognitive trait shaping research participation."
 ---
 
 # Executive Functioning

@@ -3,6 +3,7 @@ type: method
 sources:
   - "raw/An umbrella review on how digital health intervention co-design is conducted and described - npj Digital Medicine.md"
 updated: 2026-04-15
+abstract: "A Measurement Tool to Assess Systematic Reviews v2; 16-item critical appraisal instrument for evaluating methodological quality of systematic reviews."
 ---
 
 # AMSTAR-2

@@ -2,6 +2,7 @@
 type: concept
 sources: ["raw/'They Impact My Life Daily and Greatly'_ A Qualitative Exploration of How Subjective Sensory Sensitivities Are Experienced, Exacerbated, and Coped With - Alice Price, Rebe.md"]
 updated: 2026-04-15
+abstract: "Situational and internal conditions amplifying sensory sensitivity intensity: emotional state, fatigue, focused tasks, stress, and cumulative load."
 ---
 
 # Sensory Sensitivity Exacerbating Factors

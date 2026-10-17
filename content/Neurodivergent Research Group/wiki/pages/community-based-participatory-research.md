@@ -4,6 +4,7 @@ sources:
   - "raw/Participatory Research Methods – Choice Points in the Research Process _ Published in Journal of Participatory Research Methods.md"
   - "raw/Community-based Participatory Research (CBPR)_ Towards Equitable Involvement of Community in Psychology Research.md"
 updated: 2026-04-15
+abstract: "Health-focused research orientation equitably involving community members, researchers, and stakeholders in all phases from study design to dissemination."
 ---
 
 # Community Based Participatory Research

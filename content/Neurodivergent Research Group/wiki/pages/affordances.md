@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/1-s2.0-S2666374025000597-main.extracted.md]
 updated: 2026-04-15
+abstract: "Ecological concept (Gibson) describing possibilities for action an environment offers; perceived differently based on abilities, neurobiology, and context."
 ---
 
 # Affordances

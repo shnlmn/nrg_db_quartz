@@ -3,6 +3,7 @@ type: paper
 sources:
   - "raw/An umbrella review on how digital health intervention co-design is conducted and described - npj Digital Medicine.md"
 updated: 2026-04-15
+abstract: "Umbrella review of 21 reviews (2015–2023) finding pervasive inconsistency in digital health co-design reporting and evaluation; all reviews critically low on AMSTAR-2."
 ---
 
 # Kilfoy Et Al 2024 Digital Codesign Umbrella Review

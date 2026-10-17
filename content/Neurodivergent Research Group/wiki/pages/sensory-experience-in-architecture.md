@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/fpsyg-15-1303397.extracted.md]
 updated: 2026-04-15
+abstract: "Felt, embodied encounter with environmental stimuli through the senses; distinct from passive stimulus presence, requiring active attention."
 ---
 
 # Sensory Experience in Architecture

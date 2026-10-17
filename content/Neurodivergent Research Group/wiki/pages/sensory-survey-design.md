@@ -2,6 +2,7 @@
 type: method
 sources: [raw/parker-et-al-2024-the-identification-and-documentation-of-on-site-sensory-and-multisensory-experience-a-methodological.extracted.md]
 updated: 2026-04-15
+abstract: "Systematic approach to planning comprehensive sensory documentation combining point measurements and transect surveys across multiple modalities."
 ---
 
 # Sensory Survey Design

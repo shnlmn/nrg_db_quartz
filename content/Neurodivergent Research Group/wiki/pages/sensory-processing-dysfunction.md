@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/Sensory Profile Assessment_ How to Interpret Results for Therapy Planning.md]
 updated: 2026-04-15
+abstract: "Atypical patterns in how the nervous system receives, filters, integrates, and responds to sensory input; co-occurs with autism, ADHD, anxiety."
 ---
 
 # Sensory Processing Dysfunction

@@ -3,6 +3,7 @@ type: concept
 sources:
   - "raw/Co-Design for Participatory Neurodiversity Research_ Collaborating With a Community Advisory Board to Design a Research Study _ Published in Journal of Participatory Resea.md"
 updated: 2026-04-15
+abstract: "Practical accommodations to ensure equitable participation of neurodivergent research participants; remove disadvantage and enable full engagement."
 ---
 
 # Reasonable Adjustments

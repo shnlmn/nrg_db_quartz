@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/3 tips for designing user research for neurodivergent testers.md, "raw/\"They Impact My Life Daily and Greatly\"_ A Qualitative Exploration of How Subjective Sensory Sensitivities Are Experienced, Exacerbated, and Coped With - Alice Price, Rebe.md"]
 updated: 2026-04-15
+abstract: "Bidirectional miscommunication between neurodivergent and neurotypical individuals; difficulty is mutual, not a deficit of the neurodivergent person alone."
 ---
 
 # Double Empathy Problem

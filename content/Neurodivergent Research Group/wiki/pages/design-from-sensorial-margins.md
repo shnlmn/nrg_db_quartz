@@ -2,6 +2,7 @@
 type: method
 sources: [raw/land-13-00636-v2.extracted.md, raw/Sensory_Responsive_Environments_A_Qualitative_Stud.extracted.md]
 updated: 2026-04-15
+abstract: "Design principle centering users at sensory extremes (hyper- and hypo-sensitive) to create inclusive spaces benefiting the entire sensory spectrum."
 ---
 
 # Design from the Sensorial Margins (DFSM)

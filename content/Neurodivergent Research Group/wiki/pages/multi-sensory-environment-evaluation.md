@@ -3,6 +3,7 @@ type: concept
 sources:
   - "raw/Sensory characteristics of a place_ The development of the sensory walk questionnaire.md"
 updated: 2026-04-14
+abstract: "Practice of assessing environments through multiple sensory channels rather than a single modality; captures holistic human experience of place."
 ---
 
 # Multi-Sensory Environment Evaluation

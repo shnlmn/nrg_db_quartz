@@ -3,6 +3,7 @@ type: concept
 sources:
   - "raw/Co-Design for Participatory Neurodiversity Research_ Collaborating With a Community Advisory Board to Design a Research Study _ Published in Journal of Participatory Resea.md"
 updated: 2026-04-15
+abstract: "Amount of mental effort and working memory capacity required to process information; particularly relevant to neurodivergent experiences in online contexts."
 ---
 
 # Cognitive Load

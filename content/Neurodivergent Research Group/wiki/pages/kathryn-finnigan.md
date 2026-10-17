@@ -2,6 +2,7 @@
 type: person
 sources: [raw/land-13-00636-v2.extracted.md, raw/Sensory_Responsive_Environments_A_Qualitative_Stud.extracted.md]
 updated: 2026-04-15
+abstract: "Researcher and landscape architect (University of Colorado) who developed the Sensory Responsive Environments Framework (SREF™)."
 ---
 
 # Kathryn Angela Finnigan

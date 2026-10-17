@@ -4,6 +4,7 @@ sources:
   - "raw/Evaluation of research co-design in health_ a systematic overview of reviews and development of a framework.md"
   - "raw/An umbrella review on how digital health intervention co-design is conducted and described - npj Digital Medicine.md"
 updated: 2026-04-15
+abstract: "Tree-metaphor framework with 15 evaluation themes in 7 clusters for prospective, concurrent, and retrospective evaluation of health research co-design."
 ---
 
 # Co-Design Evaluation Framework

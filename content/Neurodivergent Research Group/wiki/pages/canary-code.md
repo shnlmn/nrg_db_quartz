@@ -3,6 +3,7 @@ type: method
 sources:
   - "raw/Not your \u201Ctypical\u201D research_ Inclusion ethics in neurodiversity scholarship _ Industrial and Organizational Psychology.md"
 updated: 2026-04-15
+abstract: "Praslova's six-practice model (participation, outcomes, flexibility, justice, transparency, valid tools) for intersectional inclusion in workplaces and research teams."
 ---
 
 # Canary Code

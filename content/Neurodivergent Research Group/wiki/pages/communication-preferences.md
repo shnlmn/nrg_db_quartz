@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/dark-2025-inclusion-by-design-a-neuro-cognitive-trait-interaction-approach-to-neurodivergent-research.extracted.md, raw/AAC_and_Autism_Tip_Sheet_Edu.extracted.md, raw/Communication_Boards.extracted.md]
 updated: 2026-07-26
+abstract: "Diverse ways neurodivergent people prefer to express themselves and engage in dialogue; shaped by neurological differences and processing styles."
 ---
 
 # Communication Preferences

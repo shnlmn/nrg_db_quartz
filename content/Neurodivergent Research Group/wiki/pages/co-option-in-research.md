@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/Participatory action research - Nature Reviews Methods Primers.md]
 updated: 2026-04-15
+abstract: "Process where participatory activities are altered or appropriated to serve institutional or researcher agendas rather than community interests; key PAR risk."
 ---
 
 # Co-option in Research

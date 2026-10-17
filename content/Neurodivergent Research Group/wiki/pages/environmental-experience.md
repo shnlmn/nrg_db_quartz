@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/fpsyg-15-1303397.extracted.md]
 updated: 2026-04-15
+abstract: "Totality of subjective psychological states during human-environment encounter: emotional, sensory, bodily, interactive, and cognitive dimensions."
 ---
 
 # Environmental Experience

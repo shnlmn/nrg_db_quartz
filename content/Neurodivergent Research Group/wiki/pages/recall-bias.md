@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/How to Make Design Research Neurodivergent Friendly.md]
 updated: 2026-04-14
+abstract: "Research validity threat from inaccurate retrospective recall; especially relevant to ADHD and neurodivergent populations."
 ---
 
 # Recall Bias

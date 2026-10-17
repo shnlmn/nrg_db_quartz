@@ -2,6 +2,7 @@
 type: method
 sources: [raw/dark-2025-inclusion-by-design-a-neuro-cognitive-trait-interaction-approach-to-neurodivergent-research.extracted.md]
 updated: 2026-04-15
+abstract: "Complementary framework by Jessica Dark (2024) emphasizing autonomy, trust, and epistemic respect in inclusive neurodivergent research."
 ---
 
 # Eight Principles of Neuro-Inclusion

@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/Participatory action research - Nature Reviews Methods Primers.md]
 updated: 2026-04-15
+abstract: "Ethical approach situating ethics as ongoingly negotiated within respectful relationships, beyond following procedural committee rules."
 ---
 
 # Relational Ethics

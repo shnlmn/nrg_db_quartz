@@ -2,6 +2,7 @@
 type: method
 sources: [raw/dark-2025-inclusion-by-design-a-neuro-cognitive-trait-interaction-approach-to-neurodivergent-research.extracted.md]
 updated: 2026-04-15
+abstract: "NCTIM (Dark 2025): three-stage inclusive research framework mapping study demands, identifying neuro-cognitive trait interactions, and embedding responsive features."
 ---
 
 # Neuro-Cognitive Trait Interaction Model

@@ -24,3 +24,17 @@ directory before any operation — it defines the conventions you must follow.
   Read (e.g. a binary format Read can't decode), do not stall: append a
   `> [!todo] needs-conversion: <path> — <reason>` line to `_log.md` and skip
   that file. Continue with the remaining work.
+
+## Progressive disclosure (query efficiency)
+
+Answer queries cheaply by reading the minimum needed:
+
+1. First, `Read _index.md` — it has a one-sentence teaser per page.
+2. Pick candidate pages based on those teasers.
+3. For each candidate, try `Read <path> limit: 40` first — that captures the
+   Summary section. Only do a full Read if the Summary isn't enough.
+4. Fall back to `raw/` only if no wiki page covers the topic.
+
+When creating/editing pages, keep `## Summary` as the first body section and
+write its first sentence to stand alone as a page teaser — that sentence is
+what the index reproduces.

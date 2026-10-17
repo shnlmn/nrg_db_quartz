@@ -3,6 +3,7 @@ type: method
 sources:
   - "raw/Co-Design for Participatory Neurodiversity Research_ Collaborating With a Community Advisory Board to Design a Research Study _ Published in Journal of Participatory Resea.md"
 updated: 2026-04-15
+abstract: "Practice of documenting and explaining decisions made in response to Community Advisory Board feedback; makes co-design processes visible to partners."
 ---
 
 # Transparency in Participatory Research

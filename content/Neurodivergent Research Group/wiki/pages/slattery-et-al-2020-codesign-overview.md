@@ -3,6 +3,7 @@ type: paper
 sources:
   - "raw/Research co-design in health_ a rapid overview of reviews - Health Research Policy and Systems.md"
 updated: 2026-04-15
+abstract: "Rapid overview of 23 reviews of health research co-design examining approaches, activities, effectiveness, and the INVVOLVE recommendations."
 ---
 
 # Slattery Et Al 2020 Codesign Overview

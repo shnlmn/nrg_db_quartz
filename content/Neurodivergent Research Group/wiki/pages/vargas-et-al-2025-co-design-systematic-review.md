@@ -3,6 +3,7 @@ type: paper
 sources:
   - "raw/Exploring co-design_ a systematic review of concepts, processes, models, and frameworks used in public health research.md"
 updated: 2026-04-15
+abstract: "Systematic review of 55 public health co-design studies (2016–2024) synthesizing definitions, processes, frameworks, and engagement levels via MATE taxonomy."
 ---
 
 # Vargas Et Al 2025 Co-Design Systematic Review

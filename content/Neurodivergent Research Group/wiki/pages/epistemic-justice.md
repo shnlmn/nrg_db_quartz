@@ -5,6 +5,7 @@ sources:
   - raw/Participatory action research.md
   - raw/Participatory action research - Nature Reviews Methods Primers.md
 updated: 2026-04-15
+abstract: "Principle that all people deserve recognition as credible sources of knowledge about themselves; ethical foundation for inclusive and participatory research."
 ---
 
 # Epistemic Justice

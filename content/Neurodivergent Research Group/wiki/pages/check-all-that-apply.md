@@ -3,6 +3,7 @@ type: method
 sources:
   - "raw/Sensory characteristics of a place_ The development of the sensory walk questionnaire.md"
 updated: 2026-04-15
+abstract: "Questionnaire method (CATA) for structured, quantitative characterization of multi-dimensional experiences through respondent-selected descriptors."
 ---
 
 # Check-All-That-Apply

@@ -3,6 +3,7 @@ type: paper
 sources:
   - "raw/Evaluation of research co-design in health_ a systematic overview of reviews and development of a framework.md"
 updated: 2026-04-15
+abstract: "Peters et al. (2024) systematic overview of 51 reviews developing a tree-metaphor Co-Design Evaluation Framework for health research co-design."
 ---
 
 # Peters Et Al 2024 Co-Design Evaluation

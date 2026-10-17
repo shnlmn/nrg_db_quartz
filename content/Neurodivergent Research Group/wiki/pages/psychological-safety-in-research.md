@@ -3,6 +3,7 @@ type: concept
 sources:
   - "raw/Co-Design for Participatory Neurodiversity Research_ Collaborating With a Community Advisory Board to Design a Research Study _ Published in Journal of Participatory Resea.md"
 updated: 2026-04-15
+abstract: "Shared belief that CAB members can take interpersonal risks without negative consequences; essential for open dialogue in participatory neurodiversity research."
 ---
 
 # Psychological Safety in Research

@@ -2,6 +2,7 @@
 type: method
 sources: [raw/1-s2.0-S2666374025000597-main.extracted.md]
 updated: 2026-04-15
+abstract: "Interface Design Experience for the Autistic Spectrum: co-design methodology using visual supports and templates for equitable neurodivergent participation."
 ---
 
 # IDEAS (Interface Design Experience for the Autistic Spectrum)

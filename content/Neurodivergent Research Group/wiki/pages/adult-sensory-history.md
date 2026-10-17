@@ -2,6 +2,7 @@
 type: method
 sources: [raw/NAIT-Guide-to-Assessment-of-Sensory-Preferences-in-Adults-2022.extracted.md]
 updated: 2026-04-15
+abstract: "Standardized formal assessment tool (ASH) documenting sensory preferences and processing through structured interview and history-taking."
 ---
 
 # Adult Sensory History

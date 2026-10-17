@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/dark-2025-inclusion-by-design-a-neuro-cognitive-trait-interaction-approach-to-neurodivergent-research.extracted.md]
 updated: 2026-04-15
+abstract: "Conditions and environments that actively support people in meaningfully contributing their knowledge and perspectives; relational and contextual concept."
 ---
 
 # Epistemic Enablement

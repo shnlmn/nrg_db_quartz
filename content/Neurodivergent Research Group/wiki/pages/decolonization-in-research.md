@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/Participatory action research - Nature Reviews Methods Primers.md]
 updated: 2026-04-15
+abstract: "Call to recognize and dismantle colonial legacies in research institutions and construct alternative knowledge relationships with indigenous and marginalized communities."
 ---
 
 # Decolonization in Research

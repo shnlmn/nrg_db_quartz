@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/NAIT-Guide-to-Assessment-of-Sensory-Preferences-in-Adults-2022.extracted.md]
 updated: 2026-04-15
+abstract: "Self-regulation techniques targeting sensory preferences to modulate arousal: reducing overstimulation (calming) or increasing engagement (alerting)."
 ---
 
 # Calming and Alerting Strategies

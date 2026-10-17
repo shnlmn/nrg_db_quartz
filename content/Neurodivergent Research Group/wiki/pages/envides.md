@@ -2,6 +2,7 @@
 type: method
 sources: [raw/fpsyg-15-1303397.extracted.md]
 updated: 2026-04-15
+abstract: "Environmental Description Survey: sentence-stem method helping participants describe environmental qualities and meanings with quantified experience ratings."
 ---
 
 # ENVIDES

@@ -2,6 +2,7 @@
 type: method
 sources: [raw/1-s2.0-S2666374025000597-main.extracted.md]
 updated: 2026-04-15
+abstract: "Treatment and Education of Autistic and Related Communication-Handicapped Children; structured approach using visual cues and predictable routines."
 ---
 
 # TEACCH Method

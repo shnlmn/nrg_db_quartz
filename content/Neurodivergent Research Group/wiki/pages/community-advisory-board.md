@@ -5,6 +5,7 @@ sources:
   - "raw/Participatory Research Methods – Choice Points in the Research Process _ Published in Journal of Participatory Research Methods.md"
   - "raw/Community-based Participatory Research (CBPR)_ Towards Equitable Involvement of Community in Psychology Research.md"
 updated: 2026-04-15
+abstract: "Group of neurodivergent community members providing feedback and guidance throughout the research process; structured mechanism for community voice."
 ---
 
 # Community Advisory Board

@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/1-s2.0-S2666374025000597-main.extracted.md]
 updated: 2026-04-15
+abstract: "Play involving risk or challenge; developmentally essential yet often eliminated from school playgrounds due to safety-averse institutional policies."
 ---
 
 # Risky Play

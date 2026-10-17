@@ -2,6 +2,7 @@
 type: finding
 sources: [raw/Sensory Profile Assessment_ How to Interpret Results for Therapy Planning.md]
 updated: 2026-04-15
+abstract: "Sensory under-responsivity (Registration quadrant) as differential diagnosis marker in attention evaluations; supports sensory-based OT intervention."
 ---
 
 # Sensory Processing in ADHD

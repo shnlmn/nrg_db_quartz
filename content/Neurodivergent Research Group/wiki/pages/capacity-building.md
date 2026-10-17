@@ -3,6 +3,7 @@ type: concept
 sources:
   - "raw/Community-based Participatory Research (CBPR)_ Towards Equitable Involvement of Community in Psychology Research.md"
 updated: 2026-04-15
+abstract: "Assessment and development of community skills, resources, and competencies for sustainable research partnerships beyond any specific project."
 ---
 
 # Capacity Building

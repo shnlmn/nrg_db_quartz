@@ -2,6 +2,7 @@
 type: paper
 sources: [raw/A systematic review of photovoice research methods with people with intellectual disabilities.md]
 updated: 2026-04-15
+abstract: "Systematic review of 31 photovoice studies (2003–2022) with people with intellectual disabilities examining adaptations, participation, power, and outcomes."
 ---
 
 # Chinn & Balota 2024 — Photovoice Systematic Review with Intellectual Disabilities

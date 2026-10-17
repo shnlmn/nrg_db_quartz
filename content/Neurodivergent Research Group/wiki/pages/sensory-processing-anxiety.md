@@ -2,6 +2,7 @@
 type: finding
 sources: [raw/Sensory Profile Assessment_ How to Interpret Results for Therapy Planning.md]
 updated: 2026-04-15
+abstract: "Sensory over-responsivity (Sensitivity/Avoiding quadrants) co-occurring with anxiety disorders and supporting OT intervention alongside psychotherapy."
 ---
 
 # Sensory Processing in Anxiety

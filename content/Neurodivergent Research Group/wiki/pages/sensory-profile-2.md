@@ -2,6 +2,7 @@
 type: method
 sources: [raw/Sensory Profile Assessment_ How to Interpret Results for Therapy Planning.md]
 updated: 2026-04-15
+abstract: "Standardized occupational therapy assessment (SP-2) measuring sensory processing dysfunction across the lifespan; accepted by Medicaid and IDEA programs."
 ---
 
 # Sensory Profile 2

@@ -3,6 +3,7 @@ type: method
 sources:
   - raw/Participatory_Design_and_Design_for_Valu.extracted.md
 updated: 2026-04-15
+abstract: "Participatory method (Jungk & Mullert 1981) with five phases (preparation, critique, fantasy, realisation, follow-up) for envisioning change."
 ---
 
 # Future Workshop

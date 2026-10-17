@@ -2,6 +2,7 @@
 type: method
 sources: [raw/NAIT-Guide-to-Assessment-of-Sensory-Preferences-in-Adults-2022.extracted.md]
 updated: 2026-04-15
+abstract: "Informal assessment tool for evaluating sensory preferences in adults undergoing neurodevelopmental assessment across six sensory domains."
 ---
 
 # NAIT Sensory Checklist

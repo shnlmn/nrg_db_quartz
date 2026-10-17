@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/land-13-00636-v2.extracted.md, raw/Sensory_Responsive_Environments_A_Qualitative_Stud.extracted.md]
 updated: 2026-04-15
+abstract: "Visualization framework (Finnigan 2024) showing non-dichotomous spectrum of hypo- and hyper-sensitivities across all eight sensory systems."
 ---
 
 # The Sensorial Prism™

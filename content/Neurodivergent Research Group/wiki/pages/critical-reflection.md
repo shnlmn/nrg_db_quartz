@@ -4,6 +4,7 @@ sources:
   - raw/Participatory action research.md
   - raw/Participatory action research - Nature Reviews Methods Primers.md
 updated: 2026-04-15
+abstract: "Freirean praxis concept holding that action and reflection are indissolubly united; central mechanism of iterative participatory action research cycles."
 ---
 
 # Critical Reflection

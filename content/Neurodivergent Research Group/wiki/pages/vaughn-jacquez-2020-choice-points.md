@@ -3,6 +3,7 @@ type: paper
 sources:
   - "raw/Participatory Research Methods – Choice Points in the Research Process _ Published in Journal of Participatory Research Methods.md"
 updated: 2026-04-15
+abstract: "Vaughn & Jacquez (2020) paper introducing the choice points model for selecting participatory research methods at each stage of the research cycle."
 ---
 
 # Vaughn Jacquez 2020 Choice Points

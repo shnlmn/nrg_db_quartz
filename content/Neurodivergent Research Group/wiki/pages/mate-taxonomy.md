@@ -3,6 +3,7 @@ type: method
 sources:
   - "raw/Exploring co-design_ a systematic review of concepts, processes, models, and frameworks used in public health research.md"
 updated: 2026-04-15
+abstract: "Methodology, Agent of change, Training, and Engagement taxonomy for classifying participatory design participant roles and engagement levels (low/medium/high)."
 ---
 
 # Mate Taxonomy

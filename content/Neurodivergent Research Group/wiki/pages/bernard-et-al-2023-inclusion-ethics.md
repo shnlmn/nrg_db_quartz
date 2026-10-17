@@ -3,6 +3,7 @@ type: paper
 sources:
   - "raw/Not your \u201Ctypical\u201D research_ Inclusion ethics in neurodiversity scholarship _ Industrial and Organizational Psychology.md"
 updated: 2026-04-15
+abstract: "IOP 2023 commentary arguing that neurodiversity research without neurodivergent collaborators reproduces harmful biases; recommends inclusion strategies."
 ---
 
 # Bernard Et Al 2023 Inclusion Ethics

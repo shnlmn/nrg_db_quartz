@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/dark-2025-inclusion-by-design-a-neuro-cognitive-trait-interaction-approach-to-neurodivergent-research.extracted.md]
 updated: 2026-04-15
+abstract: "Pattern of attentional focus concentrating intensely on one or few interconnected interests; common neurocognitive trait in autistic people."
 ---
 
 # Monotropic Attention

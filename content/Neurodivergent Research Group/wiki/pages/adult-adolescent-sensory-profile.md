@@ -2,6 +2,7 @@
 type: method
 sources: [raw/NAIT-Guide-to-Assessment-of-Sensory-Preferences-in-Adults-2022.extracted.md]
 updated: 2026-04-15
+abstract: "Standardized formal assessment tool (AASP) for measuring sensory processing patterns in adolescents and adults."
 ---
 
 # Adult Adolescent Sensory Profile

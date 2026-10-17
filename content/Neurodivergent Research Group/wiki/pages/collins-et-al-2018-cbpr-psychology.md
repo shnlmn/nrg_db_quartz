@@ -3,6 +3,7 @@ type: paper
 sources:
   - "raw/Community-based Participatory Research (CBPR)_ Towards Equitable Involvement of Community in Psychology Research.md"
 updated: 2026-04-15
+abstract: "Collins et al. (2018) introducing CBPR to psychology with seven principles, implementation steps, validity evidence, and a Housing First LEAP case study."
 ---
 
 # Collins Et Al 2018 Cbpr Psychology

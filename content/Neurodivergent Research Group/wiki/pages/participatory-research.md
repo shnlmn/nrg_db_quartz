@@ -13,6 +13,7 @@ sources:
   - "raw/Research co-design in health_ a rapid overview of reviews - Health Research Policy and Systems.md"
   - raw/IJEE1353.extracted.md
 updated: 2026-04-15
+abstract: "Including neurodivergent people as co-researchers, not merely subjects; foundational methodology for equitable, ethical neurodiversity research."
 ---
 
 # Participatory Research

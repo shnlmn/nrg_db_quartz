@@ -2,6 +2,7 @@
 type: method
 sources: ["raw/'They Impact My Life Daily and Greatly'_ A Qualitative Exploration of How Subjective Sensory Sensitivities Are Experienced, Exacerbated, and Coped With - Alice Price, Rebe.md"]
 updated: 2026-04-15
+abstract: "Methods individuals use to manage sensory sensitivities: limiting input, compensatory stimulation, self-regulation, social support, and control/predictability."
 ---
 
 # Sensory Sensitivity Coping Strategies

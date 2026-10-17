@@ -3,6 +3,7 @@ type: concept
 sources:
   - "raw/Community-based Participatory Research (CBPR)_ Towards Equitable Involvement of Community in Psychology Research.md"
 updated: 2026-04-15
+abstract: "Orientation involving accurate self-view, non-superiority, and openness to others' identities and perspectives; core CBPR principle."
 ---
 
 # Cultural Humility

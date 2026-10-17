@@ -3,6 +3,7 @@ type: concept
 sources:
   - raw/Participatory_Design_and_Design_for_Valu.extracted.md
 updated: 2026-04-15
+abstract: "Core PD concept (Ehn 2008): designing for anticipated use of artefacts that do not yet exist through telling, making, and enacting future use scenarios."
 ---
 
 # Use Before Use

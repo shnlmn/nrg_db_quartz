@@ -3,6 +3,7 @@ type: concept
 sources:
   - "raw/An umbrella review on how digital health intervention co-design is conducted and described - npj Digital Medicine.md"
 updated: 2026-04-15
+abstract: "Health interventions delivered through digital tools (apps, wearables, telehealth, etc.) for managing illness or promoting wellness."
 ---
 
 # Digital Health Interventions

@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/The Neurodiversity Attitudes Questionnaire_ Development and Initial Validation.md]
 updated: 2026-04-14
+abstract: "Framework viewing neurological and cognitive differences as abnormalities to be fixed or cured; contrasted with the social model."
 ---
 
 # Medical Model of Disability

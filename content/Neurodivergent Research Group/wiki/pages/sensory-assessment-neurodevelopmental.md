@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/NAIT-Guide-to-Assessment-of-Sensory-Preferences-in-Adults-2022.extracted.md]
 updated: 2026-04-15
+abstract: "Systematic evaluation of sensory preferences and processing as core component of adult neurodevelopmental assessment for diagnosis and intervention planning."
 ---
 
 # Sensory Assessment in Neurodevelopmental Evaluation

@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/Sensory Profile Assessment_ How to Interpret Results for Therapy Planning.md]
 updated: 2026-04-15
+abstract: "Framework organizing sensory processing patterns by neurological threshold and behavioral response into four quadrants: Seeking, Sensitivity, Registration, Avoiding."
 ---
 
 # Sensory Quadrants

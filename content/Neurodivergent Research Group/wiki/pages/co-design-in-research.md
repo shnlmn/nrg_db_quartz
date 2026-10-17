@@ -10,6 +10,7 @@ sources:
   - raw/IJEE1353.extracted.md
   - raw/Participatory_Design_and_Design_for_Valu.extracted.md
 updated: 2026-04-15
+abstract: "Participatory method where neurodivergent people iteratively shape research design through collaborative feedback, rooted in Scandinavian PD tradition."
 ---
 
 # Co-Design in Research

@@ -2,6 +2,7 @@
 type: person
 sources: [raw/dark-2025-inclusion-by-design-a-neuro-cognitive-trait-interaction-approach-to-neurodivergent-research.extracted.md]
 updated: 2026-04-15
+abstract: "Neurodivergent scholar and doctoral researcher at Birkbeck, University of London; developer of NCTIM and Eight Principles of Neuro-Inclusion."
 ---
 
 # Jessica Dark

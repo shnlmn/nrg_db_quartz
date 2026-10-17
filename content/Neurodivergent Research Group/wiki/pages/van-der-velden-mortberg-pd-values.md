@@ -3,6 +3,7 @@ type: paper
 sources:
   - raw/Participatory_Design_and_Design_for_Valu.extracted.md
 updated: 2026-04-15
+abstract: "Book chapter on Participatory Design as value-centred design: six guiding principles, emergent values, VSD contrast, and four participatory methods."
 ---
 
 # Van Der Velden Mortberg Pd Values

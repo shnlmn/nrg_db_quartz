@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/1-s2.0-S2666374025000597-main.extracted.md]
 updated: 2026-04-15
+abstract: "Approach to playground design deliberately accommodating diverse sensory, cognitive, social, and physical needs of neurodivergent and all children."
 ---
 
 # Inclusive Playground Design

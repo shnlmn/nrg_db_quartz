@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/fpsyg-15-1303397.extracted.md]
 updated: 2026-04-15
+abstract: "Affective responses to built environments characterized by pleasure-displeasure, arousal, and dominance dimensions (Russell-Mehrabian PAD model)."
 ---
 
 # Emotional Experience in Architecture

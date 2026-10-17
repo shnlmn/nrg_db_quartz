@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/1-s2.0-S2666374025000597-main.extracted.md]
 updated: 2026-04-15
+abstract: "Capacity to manage emotional and physiological responses through play; supported by vestibular and proprioceptive sensory affordances."
 ---
 
 # Self-Regulation in Play

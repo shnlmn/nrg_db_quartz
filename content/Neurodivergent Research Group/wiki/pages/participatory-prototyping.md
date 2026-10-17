@@ -3,6 +3,7 @@ type: method
 sources:
   - raw/Participatory_Design_and_Design_for_Valu.extracted.md
 updated: 2026-04-15
+abstract: "Core PD method (cooperative/collaborative prototyping) for materialising values in designed objects through iterative co-designer involvement."
 ---
 
 # Participatory Prototyping

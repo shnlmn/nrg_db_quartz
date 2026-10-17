@@ -3,6 +3,7 @@ type: paper
 sources:
   - raw/IJEE1353.extracted.md
 updated: 2026-04-15
+abstract: "Gregory (2003) review of Scandinavian participatory design's three distinguishing principles: democracy, values in design, and conflict as resource."
 ---
 
 # Gregory 2003 Scandinavian Pd

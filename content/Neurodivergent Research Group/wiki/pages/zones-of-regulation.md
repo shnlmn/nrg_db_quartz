@@ -2,6 +2,7 @@
 type: method
 sources: [raw/1-s2.0-S2666374025000597-main.extracted.md]
 updated: 2026-04-15
+abstract: "CBT-based self-regulation framework using color-coded zones (blue, green, yellow, red) to help children identify emotional states and develop coping strategies."
 ---
 
 # Zones of Regulation

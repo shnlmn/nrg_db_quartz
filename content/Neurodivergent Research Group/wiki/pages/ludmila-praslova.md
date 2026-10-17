@@ -3,6 +3,7 @@ type: person
 sources:
   - "raw/Not your \u201Ctypical\u201D research_ Inclusion ethics in neurodiversity scholarship _ Industrial and Organizational Psychology.md"
 updated: 2026-04-15
+abstract: "Autistic I-O psychologist; developer of the Canary Code; co-author of Bernard et al. 2023 on inclusion ethics in neurodiversity scholarship."
 ---
 
 # Ludmila Praslova

@@ -5,6 +5,7 @@ sources:
   - raw/dark-2025-inclusion-by-design-a-neuro-cognitive-trait-interaction-approach-to-neurodivergent-research.extracted.md
   - "raw/Not your \u201Ctypical\u201D research_ Inclusion ethics in neurodiversity scholarship _ Industrial and Organizational Psychology.md"
 updated: 2026-04-19
+abstract: "Political/philosophical position that neurological diversity is a natural form of human variation to be accepted; not a set of deficits to be corrected."
 ---
 
 # Neurodiversity Paradigm

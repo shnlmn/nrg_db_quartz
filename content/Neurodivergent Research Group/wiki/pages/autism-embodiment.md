@@ -2,6 +2,7 @@
 type: concept
 sources: [raw/dark-2025-inclusion-by-design-a-neuro-cognitive-trait-interaction-approach-to-neurodivergent-research.extracted.md]
 updated: 2026-04-15
+abstract: "Concept that autism is fundamentally an embodied, inseparable part of autistic people's lived experience and cannot be separated from sensory life."
 ---
 
 # Autism Embodiment
